@@ -6,7 +6,7 @@ PACKAGE := requests
 PORT := 8000
 
 # Définir l'URL du dépôt Git
-GIT_REPO := https://github.com/Luthor91/aboutme.git
+GIT_REPO := https://github.com/Luthor91/technews.git
 
 # Cible par défaut
 .PHONY: serve freeze install update git-update
