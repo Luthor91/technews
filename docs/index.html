@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS Reader</title>
+    <link rel="stylesheet" href="themes.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <!-- Conteneur pour les onglets et le sélecteur de thème -->
+        <div class="tabs-container">
+            <!-- Sélecteur de thème -->
+            <select id="theme-select">
+                <option value="light-theme">Clair</option>
+                <option value="dark-theme">Sombre</option>
+                <option value="autumn-theme">Automne</option>
+            </select>
+            
+            <!-- Onglets (Tabs) -->
+            <div id="tabs" class="tabs">
+                <select id="reddit-dropdown" class="dropdown-select active">
+                    <option value="" disabled selected>Reddit ▼</option>
+                    <option value="c_programming">C</option>
+                    <option value="java">Java</option>
+                    <option value="javascript">JavaScript</option>
+                    <option value="rust">Rust</option>
+                    <option value="golang">Golang</option>
+                    <option value="python">Python</option>
+                    <option value="haskell">Haskell</option>
+                    <option value="cobol">Cobol</option>
+                    <option value="csharp">C#</option>
+                    <option value="fsharp">F#</option>
+                </select>
+                <button class="tab-button" data-source="hackernews">Hacker News</button>
+                <button class="tab-button" data-source="slashdot">Slashdot</button>
+                <button class="tab-button" data-source="devto">Dev.to</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="search-bar">
+        <input type="text" id="search-input" class="search-input" placeholder="Search articles...">
+    </div>
+
+    <div class="content">
+        <ul id="news-list" class="news-list"></ul>
+        <div id="error-message" class="error-message"></div>
+    </div>
+    
+    <!-- Lien Retour en Haut -->
+    <div class="footer">
+        <a href="#" id="back-to-top" class="back-to-top">Back to Top</a>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

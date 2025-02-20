@@ -1,0 +1,33 @@
+{
+    "maxArticles": 30,
+    "maxDescriptionLength": 150,
+    "maxWordsDescription": 50,
+    "maxAttempts": 20,
+    "maxWordLength": 30,
+    "urls": {
+        "devto": "https://dev.to/api/articles",
+        "hackernews": "https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=",
+        "slashdot": "https://rss.slashdot.org/Slashdot/slashdotMain"
+      },
+    "sources": [
+        "devto",
+        "hackernews",
+        "slashdot"
+    ],
+    "keywordsToSkip": [  
+        "paywall", 
+        "fermented"
+    ],
+    "subreddits": [
+        "r/java",
+        "r/javascript", 
+        "r/rust", 
+        "r/golang", 
+        "r/python", 
+        "r/c_programming",
+        "r/haskell",
+        "r/cobol",
+        "r/fsharp",
+        "r/csharp"
+    ]
+  }
