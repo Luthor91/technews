@@ -1,357 +1,218 @@
 :root {
-    /* Dimensions */
-    --header-height: 50px;
+    --bg-primary: #121212;
+    --bg-secondary: #1e1e1e;
+    --text-primary: #e0e0e0;
+    --text-secondary: #a0a0a0;
+    --accent-color: #8a4fff;
+    --border-color: #2c2c2c;
+    --shadow-subtle: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 
-/* Styles généraux */
-body {
-    font-family: Arial, sans-serif;
-    background-color: var(--background-color);
-    color: var(--text-color);
+* {
     margin: 0;
     padding: 0;
-    overflow-x: hidden; /* Empêcher le défilement horizontal */
+    box-sizing: border-box;
 }
 
-/* En-tête */
-.header {
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: var(--bg-secondary);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    box-shadow: var(--shadow-subtle);
+    border-radius: 8px;
+}
+
+.nav-sources {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 20px;
-    background-color: var(--primary-color);
-    color: var(--text-color);
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    height: var(--header-height);
-    border-bottom: 2px solid black;
-    overflow: hidden; /* Empêcher les débordements */
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
 }
 
-/* Conteneur pour les onglets et le sélecteur de thème */
-.tabs-container {
-    display: flex;
-    align-items: center;
-    background-color: var(--primary-color);
-    padding-left: 20px;
-    height: var(--header-height);
-    z-index: 10;
-}
-
-/* Sélecteur de thème */
-#theme-select {
-    appearance: none; /* Masque la flèche par défaut dans la plupart des navigateurs */
-    -webkit-appearance: none; /* Masque la flèche sur WebKit (Chrome, Safari) */
-    -moz-appearance: none; /* Masque la flèche sur Firefox */
-    padding: 10px;
-    background-color: var(--primary-color);
-    border: none;
-    border-radius: 5px;
-    color: var(--text-color);
-    font-size: 16px;
+.source-btn, .source-select {
+    background-color: transparent;
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    padding: 8px 15px;
+    border-radius: 6px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
-    margin-right: 15px;
-    background-image: none; /* Assurez-vous qu'aucune image d'arrière-plan n'est appliquée */
-}
-
-#theme-select:hover {
-    background-color: var(--secondary-color);
-}
-
-#theme-select:focus {
+    transition: all 0.3s ease;
+    font-weight: 500;
     outline: none;
-    box-shadow: 0 0 5px var(--box-shadow-color);
 }
 
-/* Onglets (Tabs) */
-.tabs {
-    display: flex;
-    align-items: center;
-    overflow-x: auto;
+.source-btn:hover, 
+.source-btn.active {
+    background-color: var(--accent-color);
+    color: white;
+    border-color: var(--accent-color);
 }
 
-.tab-button {
-    background-color: var(--primary-color);
-    color: var(--text-color);
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-    transition: background-color 0.3s, color 0.3s;
-    font-size: 16px;
-    border-radius: 5px 5px 0 0;
+.source-select {
+    appearance: none;
+    background-color: var(--bg-primary);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M1 4l5 5 5-5' fill='none' stroke='%23a0a0a0' stroke-width='2'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    padding-right: 30px;
+    border: 1px solid var(--border-color);
+    transition: all 0.3s ease;
 }
 
-.tab-button:hover {
-    background-color: var(--hover-color);
+.source-select:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(138, 79, 255, 0.3); /* Effet de focus subtil */
+    border-color: var(--accent-color);
 }
 
-.tab-button.active {
-    background-color: var(--hover-color);
+.source-select option {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    padding: 8px;
 }
 
-/* Menu déroulant Reddit */
-#reddit-dropdown {
-    appearance: none; /* Masque la flèche par défaut dans la plupart des navigateurs */
-    -webkit-appearance: none; /* Masque la flèche sur WebKit (Chrome, Safari) */
-    -moz-appearance: none; /* Masque la flèche sur Firefox */
-    background-color: var(--primary-color); /* Utiliser la couleur primaire pour correspondre aux onglets */
-    color: var(--text-color); /* Assurer la cohérence des couleurs */
-    border: none; /* Supprimer la bordure pour correspondre au style des onglets */
-    border-radius: 5px; /* Garder les coins arrondis comme les onglets */
-    padding: 10px 20px; /* Espacement similaire aux onglets */
-    padding-left: 5px;
-    cursor: pointer; /* Curseur pointeur pour indiquer que c'est cliquable */
-    transition: background-color 0.3s, color 0.3s; /* Transition pour le changement de couleur */
-    font-size: 16px; /* Taille de police similaire aux onglets */
-    position: relative; /* Positionné relativement au parent */
-    z-index: 3000; /* Assurer que le bouton est au-dessus des autres éléments */
+.source-select option:checked,
+.source-select option:hover {
+    background-color: var(--accent-color);
+    color: white;
 }
 
-#reddit-dropdown.active {
-    background-color: var(--hover-color);
+
+/* Styles supplémentaires pour améliorer l'apparence du dropdown */
+.source-select:focus {
+    outline: none;
+    border-color: var(--accent-color);
 }
 
-/* Options dans le menu déroulant Reddit */
-#reddit-dropdown .subreddit-button {
-    background-color: var(--primary-color); /* Correspondre aux onglets */
-    color: var(--text-color);
-    border: none;
-    padding: 10px 20px;
-    text-align: center;
-    cursor: pointer;
-    font-size: 16px;
-    border-radius: 5px; /* Coins arrondis pour une apparence cohérente */
-    transition: background-color 0.3s, color 0.3s;
-}
-
-#reddit-dropdown:hover {
-    background-color: var(--hover-color); /* Changer de couleur au survol */
-}
-
-#reddit-dropdown .subreddit-button:hover {
-    background-color: var(--hover-color); /* Changer de couleur au survol */
-}
-
-#reddit-dropdown.show {
-    opacity: 1; /* Affiché */
-    transform: translateY(0); /* Revenir à la position initiale */
-}
-
-#reddit-dropdown option {
-    padding: 10px;
-    background-color: var(--dropdown-background-color);
-    border: none;
-    cursor: pointer;
-}
-
-#reddit-dropdown option:hover {
-    background-color: var(--background-color);
-}
-
-/* Barre de recherche */
-.search-bar {
-    margin: 20px 0;
-    padding: 0 20px;
+.search-container {
     display: flex;
     justify-content: center;
 }
 
-.search-input {
+#search-input {
     width: 100%;
-    max-width: 600px;
-    padding: 10px 20px;
-    border: 2px solid var(--border-color);
-    border-radius: 25px;
-    box-shadow: 0 2px 5px var(--box-shadow-color);
+    padding: 12px 15px;
+    background-color: var(--bg-primary);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
     font-size: 16px;
-    transition: border-color 0.3s, box-shadow 0.3s;
+    color: var(--text-primary);
+    transition: border-color 0.3s ease;
 }
 
-.search-input:focus {
-    border-color: var(--primary-color);
-    box-shadow: 0 2px 8px rgba(0, 123, 255, 0.5);
+#search-input:focus {
+    border-color: var(--accent-color);
     outline: none;
 }
 
-/* Contenu principal */
-.content {
-    padding: 20px;
-    padding-top: 10px;
-    padding-bottom: 0;
-    background-color: var(--background-color);
-    border-radius: 5px;
-    box-shadow: 0 2px 5px var(--box-shadow-color);
-}
-
-/* Messages d'erreur */
-.error-message {
-    color: var(--error-color);
-    font-weight: bold;
-    margin-top: 20px;
-}
-
-/* Liste des articles */
 .news-list {
     list-style-type: none;
-    padding: 0;
 }
 
 .news-list-item {
-    margin-bottom: 20px;
-    padding: 0;
+    background-color: var(--bg-secondary);
     border: 1px solid var(--border-color);
-    border-radius: 5px;
-    background-color: var(--news-list-background-color);
-    transition: background-color 0.3s, box-shadow 0.3s;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: var(--shadow-subtle);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
     overflow: hidden;
 }
 
-.news-list-item a.news-list-link {
-    display: block;
-    padding: 15px;
-    text-decoration: none;
-    color: inherit;
-}
-
 .news-list-item:hover {
-    transform: translateY(-5px);
-    background-color: var(--news-list-hover-background-color);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transform: translateY(-4px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
-.news-list-item a.news-list-link:hover {
-    text-decoration: none;
-}
-
-.news-list-item h3 {
-    margin: 0;
-    font-size: 18px;
-    color: var(--news-list-title-color);
-}
-
-.news-list-item p {
-    margin-top: 10px;
-    color: var(--news-list-description-color);
-    font-style: italic;
-}
-
-.news-list-item p.description {
-    margin: 10px 0 0;
-}
-
-.news-list-item .news-list-link {
+.news-list-link {
     display: block;
-    margin-top: 10px;
-    color: var(--primary-color);
-    font-weight: bold;
-    text-align: left;
+    padding: 18px;
     text-decoration: none;
+    color: var(--text-primary);
 }
 
-.news-list-item .news-list-link:hover {
-    text-decoration: underline;
+.news-list-link h3 {
+    margin-bottom: 10px;
+    color: var(--accent-color);
+    font-size: 1.1em;
+    font-weight: 600;
 }
 
-/* Pied de page */
-.footer {
+.news-list-link p {
+    color: var(--text-secondary);
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+footer {
     text-align: center;
-    padding: 20px;
-    background-color: var(--footer-background-color);
+    padding: 20px 0;
+    background-color: var(--bg-secondary);
+    border-top: 1px solid var(--border-color);
+    border-radius: 8px;
 }
 
-.back-to-top {
+#back-to-top {
+    color: var(--accent-color);
     text-decoration: none;
-    color: var(--back-to-top-color);
-    font-weight: bold;
-    font-size: 16px;
+    font-weight: 500;
+    transition: color 0.3s ease;
 }
 
-.back-to-top:hover {
-    color: var(--back-to-top-hover-color);
+#back-to-top:hover {
+    color: white;
     text-decoration: underline;
 }
 
-/* Styles pour les écrans de petite taille */
-@media only screen and (max-width: 768px) {
-    #reddit-dropdown {
-        padding: 8px 15px; /* Ajuster le padding pour les petits écrans */
-        border-radius: 5px; /* Garder les coins arrondis */
-        font-size: 14px; /* Réduire la taille de la police pour les petits écrans */
-        position: relative; /* Positionné relativement pour le menu */
-        max-height: 70vh; /* Hauteur maximale pour les petits écrans */
-        min-width: auto; /* Ajuster la largeur minimale pour les petits écrans */
-        padding-left: 5px;
-        margin: 0 auto; /* Centrer le bouton si nécessaire */
-    }
+.error-message {
+    color: #ff6b6b;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 500;
+}
 
-    /* Style des options dans le menu déroulant */
-    #reddit-dropdown option {
-        padding: 8px 12px; /* Ajuster le padding pour les options */
-        font-size: 14px; /* Réduire la taille de la police pour les options */
-    }
-
-    .tabs-container {
-        padding-left: 0;
+@media (max-width: 600px) {
+    .nav-sources {
         flex-direction: column;
-        align-items: stretch;
     }
 
-    .tab-button {
-        padding: 10px;
-        font-size: 14px;
+    .source-btn, .source-select {
         width: 100%;
+        text-align: center;
     }
 }
 
-/* Styles pour les très petits écrans */
-@media only screen and (max-width: 580px) {
-    .header {
-        padding: 5px 10px;
-        flex-direction: column;
-        align-items: flex-start;
-    }
+/* Scroll bar styling for dark theme */
+::-webkit-scrollbar {
+    width: 8px;
+}
 
-    #theme-select {
-        margin: 5px 0;
-        padding: 6px 10px;
-        font-size: 14px;
-    }
+::-webkit-scrollbar-track {
+    background: var(--bg-secondary);
+}
 
-    .tabs-container {
-        display: flex;
-        align-items: center;
-        flex-direction: row;
-        padding-left: 0;
-        width: 100%;
-        height: 100%;
-        overflow-x: auto;
-    }
+::-webkit-scrollbar-thumb {
+    background: var(--accent-color);
+    border-radius: 4px;
+}
 
-    .tab-button {
-        padding: 6px 10px;
-        font-size: 14px;
-        width: auto;
-        flex: 1;
-        box-sizing: border-box;
-    }
-
-    #reddit-dropdown {
-        padding: 6px 10px; /* Ajuster le padding pour les très petits écrans */
-        border-radius: 5px; /* Garder les coins arrondis */
-        font-size: 12px; /* Réduire la taille de la police */
-        min-width: auto; /* Ajuster la largeur minimale */
-        padding-left: 5px;
-        box-sizing: border-box;
-        max-height: 60vh; /* Hauteur maximale pour les très petits écrans */
-    }
-
-    /* Style des options dans le menu déroulant */
-    #reddit-dropdown option {
-        padding: 6px 10px; /* Ajuster le padding pour les options */
-        font-size: 12px; /* Réduire la taille de la police pour les options */
-    }
+::-webkit-scrollbar-thumb:hover {
+    background: #3a7bd5;
 }

@@ -1,148 +1,143 @@
 {
     "hackernews": [
         {
-            "title": "Storm closing in on Southern California could bring 'weak tornadoes'",
-            "link": "https://ktla.com/news/california/storm-closing-in-on-southern-california-could-bring-weak-tornadoes/",
+            "title": "Pion Stun: Go Implementation of Stun",
+            "link": "https://github.com/pion/stun",
             "description": "No Description"
         },
         {
-            "title": "Broadcom Patches 3 VMware Zero-Days Exploited in the Wild",
-            "link": "https://www.securityweek.com/broadcom-patches-3-vmware-zero-days-exploited-in-the-wild/",
+            "title": "Vesuvius Erupted, but When Exactly?",
+            "link": "https://www.nytimes.com/2025/03/02/science/volcano-vesuvius-pompeii.html",
             "description": "No Description"
         },
         {
-            "title": "Apple takes legal action in UK data privacy row",
-            "link": "https://www.bbc.com/news/articles/c8rkpv50x01o",
+            "title": "Shuffle 2.0 \u2013 An Open-Source SOAR solution",
+            "link": "https://shuffler.io/articles/2.0_release",
             "description": "No Description"
         },
         {
-            "title": "Show HN: Turning logos into liquid metal animations (real-time open source tool)",
-            "link": "https://collidingscopes.github.io/liquid-logo/",
-            "description": "I built a free open source tool which turns logos into a liquid metal animations in real time in the browser Upload a photo then use the controls to adjust the colors speed noise intensity animation pattern and more p Click the dice button underneath the canvas or use the..."
+            "title": "Show HN: Dating was never meant to be a transaction",
+            "link": "https://apps.apple.com/us/app/pop-social-dating-app/id6618112225",
+            "description": "For years the dating industry has forced us into a system that treats human connection like a numbers game swipe pay repeat The same faces The same rules The same dead end experience But what if dating wasn t about chasing matches behind a paywall What if it was about..."
         },
         {
-            "title": "Tailwind UI is now Tailwind Plus",
-            "link": "https://tailwindcss.com/blog/tailwind-plus",
+            "title": "YouTube cracks down on gambling videos trying lure viewers to unapproved sites",
+            "link": "https://www.cnn.com/2025/03/04/tech/youtube-online-gambling-rules/index.html",
             "description": "No Description"
         },
         {
-            "title": "Dumb Comments",
-            "link": "https://neil.fraser.name/news/2025/02/13/",
+            "title": "People Relations Beta (Using D.O.G.E. data)",
+            "link": "https://datarepublican.com/http://localhost:4000/relations/",
             "description": "No Description"
         },
         {
-            "title": "Canada proposes 100% tariffs on Tesla",
-            "link": "https://electrek.co/2025/03/04/canada-proposes-100-tariffs-on-tesla-i-have-an-alternative-open-the-door-to-chinese-evs/",
+            "title": "Show HN: AI Browser Agent Leaderboard",
+            "link": "https://leaderboard.steel.dev/",
             "description": "No Description"
         },
         {
-            "title": "The Epistemology of Resistance (2013)",
-            "link": "https://journals.openedition.org/ejpap/678",
+            "title": "In Praise of \"Normal\" Engineers",
+            "link": "https://refactoring.fm/p/in-praise-of-normal-engineers",
             "description": "No Description"
         },
         {
-            "title": "Apple Fights UK's Demand for iCloud Data Backdoor",
-            "link": "https://www.macrumors.com/2025/03/04/apple-legal-complaint-uk-backdoor/",
+            "title": "LLMs Are Weird Computers \u2013 A perspective on AI models as a computing paradigm",
+            "link": "https://www.phillipcarter.dev/posts/llms-computers",
             "description": "No Description"
         },
         {
-            "title": "In New Administration, Supplement Makers See Chance to Cash In",
-            "link": "https://undark.org/2025/03/04/supplement-industry-rfk/",
+            "title": "Some D0g3 Staffers Are Drawing Six-Figure Government Salaries",
+            "link": "https://www.wired.com/story/doge-government-salaries-elon-musk/",
             "description": "No Description"
         },
         {
-            "title": "Blue Ghost Mission 1 \u2013 Moon Landing [video]",
-            "link": "https://www.flickr.com/photos/fireflyspace/54365737995",
+            "title": "Introducing The CL1 the first code deployable biological computer",
+            "link": "https://corticallabs.com/cl1.html",
             "description": "No Description"
         },
         {
-            "title": "40% of electricty consumption in Virgina will be data centers in 2030? (Table A1",
-            "link": "https://www.epri.com/research/products/000000003002028905",
+            "title": "Property-based testing for mobile GUI apps",
+            "link": "https://github.com/ecnusse/Kea",
             "description": "No Description"
         },
         {
-            "title": "Avoid the Nightmare Bicycle",
-            "link": "https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle",
+            "title": "Show HN: Create Typeform-like forms with AI (preview)",
+            "link": "https://forms.md/ai-form-builder-preview/#",
             "description": "No Description"
         },
         {
-            "title": "Saturn Lamp",
-            "link": "https://neil.fraser.name/news/2025/02/25/",
+            "title": "HYTRADBOI 2025 post-mortem",
+            "link": "https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/",
             "description": "No Description"
         },
         {
-            "title": "Convert.App: Convert anything 100% privacy",
-            "link": "https://convert.app/",
+            "title": "Goodreads to Storygraph book sync \u2013 a Python script",
+            "link": "https://cruftbox.com/2025/03/03/goodreads-to-storygraph-sync/",
             "description": "No Description"
         },
         {
-            "title": "Building a Standalone Rust Binary for a Scratch Docker Container",
-            "link": "https://bxbrenden.github.io/",
+            "title": "Show HN: ArchGW \u2013 An open-source intelligent proxy server for prompts",
+            "link": "https://github.com/katanemo/archgw",
+            "description": "Hi HN This is Salman Adil Shuguang and Co working on ArchGW 1 an open source lightweight proxy server for prompts written in Rust and built on top of Envoy 2 Arch moves the critical but pesky handling and processing of prompts task understanding prompt routing safety and observability outside..."
+        },
+        {
+            "title": "Firefox: Use the sidebar to access tools and vertical tabs",
+            "link": "https://support.mozilla.org/en-US/kb/use-sidebar-access-tools-and-vertical-tabs",
             "description": "No Description"
         },
         {
-            "title": "Using Python to Measure Immigration Trends",
-            "link": "https://arilamstein.com/blog/2025/03/04/using-python-to-measure-immigration-trends/",
+            "title": "OpenCore v1.0.4 hackintosh bootloader released",
+            "link": "https://old.reddit.com/r/hackintosh/comments/1j395o0/opencore_v104_is_out/",
             "description": "No Description"
         },
         {
-            "title": "SSL Certificates \u2013 For the Rest of Us",
-            "link": "https://tusharf5.com/posts/ssl-certificates-for-the-rest-of-us/",
+            "title": "Woolly mice designed to engineer mammoth-like elephants",
+            "link": "https://www.bbc.co.uk/news/articles/c0jg4n776evo",
             "description": "No Description"
         },
         {
-            "title": "GTA 3 on a Volumetric Display [video]",
-            "link": "https://www.youtube.com/watch?v=onYH5gvlnzE",
+            "title": "Everything I learnt about the CAN bus from building cars",
+            "link": "https://www.youtube.com/watch?v=nwhzUMIo3pk",
             "description": "No Description"
         },
         {
-            "title": "Bluesky will trap academics in the same way Twitter/X did",
-            "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2025/03/03/bluesky-will-trap-academics-in-the-same-way-twitter-x-did/",
+            "title": "IMF deal to ban public sector 'Bitcoin accumulation' in El Salvador",
+            "link": "https://cointelegraph.com/news/imf-el-salvador-no-voluntary-bitcoin-accumulation-public-sector",
             "description": "No Description"
         },
         {
-            "title": "How to Do an Eyedropper Pen Conversion (2018)",
-            "link": "https://www.jetpens.com/blog/How-to-Do-an-Eyedropper-Pen-Conversion/pt/308",
+            "title": "BYD to launch 1000V platform with 5C charging in mid-March",
+            "link": "https://carnewschina.com/2025/03/04/byd-to-launch-1000v-platform-with-5c-charging-in-mid-march-report-says/",
             "description": "No Description"
         },
         {
-            "title": "Why your resume gets ignored by international recruiters",
-            "link": "https://relocateme.substack.com/p/why-your-resume-is-ignored-and-how",
+            "title": "How AI Tools Are Reshaping the Coding Workforce",
+            "link": "https://www.wsj.com/articles/how-ai-tools-are-reshaping-the-coding-workforce-6ad24c86",
             "description": "No Description"
         },
         {
-            "title": "Oil drilling in the mouth of the Amazon \u2013 Lula on a course to disaster",
-            "link": "https://news.mongabay.com/2025/02/oil-drilling-in-the-mouth-of-the-amazon-lula-on-a-course-to-disaster-commentary/",
+            "title": "20k-year-old evidence of ancient 'vehicles' discovered in New Mexico",
+            "link": "https://www.livescience.com/archaeology/20-000-year-old-evidence-of-ancient-vehicles-discovered-in-new-mexico",
             "description": "No Description"
         },
         {
-            "title": "Letter to Neil",
-            "link": "https://public.tableau.com/app/profile/munozdataviz/viz/TruchetTiles/Letter",
+            "title": "AI: Where in the Loop Should Humans Go?",
+            "link": "https://www.honeycomb.io/blog/ai-where-in-the-loop-should-humans-go",
             "description": "No Description"
         },
         {
-            "title": "Economic and Market Data Signal a Recession Is Coming",
-            "link": "https://www.forbes.com/sites/mayrarodriguezvalladares/2025/03/04/economic-and-market-data-signal-a-recession-is-coming/",
+            "title": "Exploring the Wafer-Scale GPUs [pdf]",
+            "link": "https://sarchlab.org/wafer_scale_gpu_gpgpu.pdf",
             "description": "No Description"
         },
         {
-            "title": "Arc\u2011AGI Without Pretraining",
-            "link": "https://twitter.com/LiaoIsaac91893/status/1896944891319742499",
+            "title": "Lessons from interviewing with 46 AI startups (way too many)",
+            "link": "https://janvikalra.substack.com/p/dont-be-fooled-antimetrics-and-why-hypergrowth",
             "description": "No Description"
         },
         {
-            "title": "Every step you take, every call you make: distributed apps observability",
-            "link": "https://restate.dev/blog/announcing-restate-ui/",
-            "description": "No Description"
-        },
-        {
-            "title": "Adaptive UIs: the future of app design",
-            "link": "https://www.arionkoder.com/blog/beyond-explainable-ai-how-adaptive-uis-will-shape-ai-driven-experiences",
-            "description": "No Description"
-        },
-        {
-            "title": "ARC-AGI without pretraining",
-            "link": "https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html",
+            "title": "Maintaining CI Is a Pain in The",
+            "link": "https://www.polymonster.co.uk/blog/ci-pain",
             "description": "No Description"
         }
     ],
@@ -509,6 +504,12 @@
         },
         {
             "subreddit": "rust",
+            "title": "rust + askama instead of node / Laravel for small projects wdyt ?",
+            "link": "https://www.reddit.com/r/rust/comments/1j3li3i/rust_askama_instead_of_node_laravel_for_small/",
+            "description": ""
+        },
+        {
+            "subreddit": "rust",
             "title": "JS/TS Dev Trying to Crack Rust - Feeling a Bit Overwhelmed! Any Advice Welcome!",
             "link": "https://www.reddit.com/r/rust/comments/1j3hxoa/jsts_dev_trying_to_crack_rust_feeling_a_bit/",
             "description": "So I m diving into Rust after about 7 years in the web dev world mostly JavaScript and TypeScript you know the drill PHP and Python before that even played around with BunJS recently Rust really grabbed my attention because of the speed and the whole system programming thing Honestly..."
@@ -523,7 +524,7 @@
             "subreddit": "rust",
             "title": "PSA: `rustup 1.28.0` has broken RustRover, there is a temporary work around ...",
             "link": "https://www.reddit.com/r/rust/comments/1j3hmwq/psa_rustup_1280_has_broken_rustrover_there_is_a/",
-            "description": "This is one of Jetbrain s Tracked Issues on the subject can t parse installed toolchain https youtrack jetbrains com issue RUST 17221 Cant parse installed toolchain due to active because its the default toolchain with new rustup version 1 28 0 The work around is to revert back to..."
+            "description": "FIXED RustRover upgrade available now This is one of Jetbrain s Tracked Issues on the subject can t parse installed toolchain https youtrack jetbrains com issue RUST 17221 Cant parse installed toolchain due to active because its the default toolchain with new rustup version 1 28 0 The work around..."
         },
         {
             "subreddit": "rust",
@@ -682,10 +683,10 @@
             "description": "Say you have a trait that should handle a brought range of types and therefore has a lengthy where clause in either or both the trait and individual functions When implementing such trait one needs to copy large parts of the where clauses if the implementation keeps the generics brought..."
         },
         {
-            "subreddit": "rust",
-            "title": "How do you review cargo crates before using them in production?",
-            "link": "https://www.reddit.com/r/rust/comments/1j2tyoy/how_do_you_review_cargo_crates_before_using_them/",
-            "description": "In NodeJS projects the npm packages can be bundled into a single JavaScript file which can be inspected for unexpected behaviors e g filesystem or network activity although it would be easy to avoid detection with advanced obfuscation methods But it s possible to somewhat review the npm modules before..."
+            "subreddit": "golang",
+            "title": "Go GraphQL client with file upload support",
+            "link": "https://github.com/GnRlLeclerc/go-graphql-client",
+            "description": ""
         },
         {
             "subreddit": "golang",
@@ -860,12 +861,6 @@
             "title": "DHCPv4 server, WIP",
             "link": "https://www.reddit.com/r/golang/comments/1j23gwo/dhcpv4_server_wip/",
             "description": "I recently started working on a dhcpv4 encoding decoding package in Go from scratch I ve been reading a lot of RFC s and have been having a lot of fun Here are some of the things I ve implemented Basic message encoding decoding An interface for building dhcp options..."
-        },
-        {
-            "subreddit": "golang",
-            "title": "I built a Go-based Web UI for the Model Context Protocol (MCP) - Looking for Feedback and Contributions",
-            "link": "https://www.reddit.com/r/golang/comments/1j219pd/i_built_a_gobased_web_ui_for_the_model_context/",
-            "description": "Hey Gophers I ve been working on an open source web UI for the Model Context Protocol MCP that I wanted to share with the community It s a Go based web application that provides a flexible chat interface supporting multiple LLM providers like Anthropic OpenAI Ollama and OpenRouter Key..."
         },
         {
             "subreddit": "python",
@@ -1049,6 +1044,12 @@
         },
         {
             "subreddit": "c_programming",
+            "title": "Is multiple allocations or a single allocation more better for objects that I know will have the same lifetime?",
+            "link": "https://www.reddit.com/r/C_Programming/comments/1j3kv6o/is_multiple_allocations_or_a_single_allocation/",
+            "description": "Which option is better float vertices malloc max_quad sizeof float 12 unsigned indices malloc max_quad sizeof unsigned use_vertices_and_indices_buffer vertices indices free vertices free indices Or static_assert alignof float gt alignof unsigned void buffer malloc max_quad sizeof float 12 sizeof unsigned float vertices buffer unsigned indices char buffer max_quad sizeof float..."
+        },
+        {
+            "subreddit": "c_programming",
             "title": "Alright, let me have it [ not gonna stop :) ]",
             "link": "https://www.reddit.com/r/C_Programming/comments/1j38keh/alright_let_me_have_it_not_gonna_stop/",
             "description": "Just a quick post so I ve been working on this neat little build tool https github com r3shape r3make yes because cmake and I ve been using it in some personal projects for a while now a few weeks and wanted some C devs to give me some feedback..."
@@ -1220,12 +1221,6 @@
             "title": "Simple test case: subscripted value is neither array nor pointer nor vector",
             "link": "https://www.reddit.com/r/C_Programming/comments/1j0yius/simple_test_case_subscripted_value_is_neither/",
             "description": "I m a relative beginner when it comes to C but even this simple use case has me confused I m basically trying to use a fixed length array of structs globally I get an error that states subscripted value is neither array nor pointer nor vector can someone please..."
-        },
-        {
-            "subreddit": "c_programming",
-            "title": "is this enough",
-            "link": "https://www.reddit.com/r/C_Programming/comments/1j0w7r3/is_this_enough/",
-            "description": "hello im learning C rn on YT video is made by coding camp and id like to know if it is enough 0 00 00 Introduction 0 01 22 Windows Setup 0 05 02 Mac Setup 0 09 04 Hello World 0 12 51 Drawing a Shape 0 20 56..."
         },
         {
             "subreddit": "haskell",
@@ -1409,6 +1404,12 @@
         },
         {
             "subreddit": "cobol",
+            "title": "COBOL devs: We\u2019d love to hear about your challenges!",
+            "link": "https://www.reddit.com/r/cobol/comments/1j3lvjl/cobol_devs_wed_love_to_hear_about_your_challenges/",
+            "description": "My team is building a tool to help developers navigate COBOL Mainframe projects and we d love to learn more about the struggles you face when working with these systems If you have a few minutes please share your insights here https forms gle roQbf5M8pTTzeCER9 https forms gle roQbf5M8pTTzeCER9 Thank..."
+        },
+        {
+            "subreddit": "cobol",
             "title": "Error Handling (is there something like try and except?)",
             "link": "https://www.reddit.com/r/cobol/comments/1j326wo/error_handling_is_there_something_like_try_and/",
             "description": "Hello I m really new to cobol and I have been looking for something like a try and except but the only thing I found seems to have something to do with java and won t run on my IDE I also found some stuff about setting a pointer and..."
@@ -1580,12 +1581,6 @@
             "title": "Any Interest in Archiving Old COBOL Modules From My Work?",
             "link": "https://www.reddit.com/r/cobol/comments/1i6uztf/any_interest_in_archiving_old_cobol_modules_from/",
             "description": "At my work we recently replaced a mission critical app composed of 5 COBOL modules with a more modern architecture The modules were developed in the 1980s and have been updated all are extensively commented The business logic is fascinating these modules calculated the tax rates for all the local..."
-        },
-        {
-            "subreddit": "cobol",
-            "title": "FILE STATUS 39 ON&lt;UNOPENED FILE&gt;",
-            "link": "https://www.reddit.com/r/cobol/comments/1i5qbwj/file_status_39_onunopened_file/",
-            "description": "I just started COBOL because of our school requirements but i m having an output of gt RCL0002 File Status 39 on lt UNOPENED FILE gt Error detected at offset 0046 in segment 00 of program Weather Here s my code for this IDENTIFICATION DIVISION PROGRAM ID weather ENVIRONMENT DIVISION..."
         },
         {
             "subreddit": "fsharp",
@@ -2126,6 +2121,726 @@
             "title": "Can a GT710 work in a Dell Power Edge T360?",
             "link": "https://www.reddit.com/r/servers/comments/1iw8rig/can_a_gt710_work_in_a_dell_power_edge_t360/",
             "description": "Hi, i have an old GT710 4GB and i wanted to know if it's ok to put inside a Dell T360 just for basic display output, ( the T360 is running windows server 2022 and it is just running an ERP system for the small company I work for )"
+        },
+        {
+            "subreddit": "devops",
+            "title": "AWS Cloud Practitioner Or AWS Professional DevOps Engineer",
+            "link": "https://www.reddit.com/r/devops/comments/1j3k6il/aws_cloud_practitioner_or_aws_professional_devops/",
+            "description": "im a web developer and looking to land a devops role which certificate is more suitable as someone whos new to the field 2 years of devops experience is recommended for the professional DevOps certificate so i dont know if im gonna be able to pass it or even meaningful..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Looking guidance on which certification to get.",
+            "link": "https://www.reddit.com/r/devops/comments/1j3iycx/looking_guidance_on_which_certification_to_get/",
+            "description": "A little about me I m a currently a senior devops engineer with over a decade of fullstack work I ve been in the devops ecosystem directly for 3 years and I m looking to get a certification that will help me in my next job search I took the..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Systematically Terraforming a Brownfield of Cloud Infrastructure",
+            "link": "https://www.reddit.com/r/devops/comments/1j3i93y/systematically_terraforming_a_brownfield_of_cloud/",
+            "description": "Hi r devops it s my first time here Recently a giant blog post went up at my site after five ish years in draft hell My uh field report is almost certainly dated but it s better out there than bitrotting away inside my computer Hopefully some of it..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Anyone using PlayFab for games?",
+            "link": "https://www.reddit.com/r/devops/comments/1j3hl3g/anyone_using_playfab_for_games/",
+            "description": "Hello everyone For any of you DevOps game people out there I m curious if you are utilizing PlayFab Additionally I m currently looking to create a tool that simplifies PlayFab title synchronization by allowing you to quickly copy title data statistics and internal settings between different environments e g..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "What is the most used language in DevOps?",
+            "link": "https://www.reddit.com/r/devops/comments/1j3hcl9/what_is_the_most_used_language_in_devops/",
+            "description": "Answer: Profanity"
+        },
+        {
+            "subreddit": "devops",
+            "title": "Longtime DevOps Engineer looking for career advice",
+            "link": "https://www.reddit.com/r/devops/comments/1j3hc0u/longtime_devops_engineer_looking_for_career_advice/",
+            "description": "Hey everyone longtime lurker here looking for some career advice I was someone who was always knew I wanted my career to be something involving technology since that is what I ve always been passionate about Originally wanted to go for a computer science degree but because my love hate..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Next steps as DevOps",
+            "link": "https://www.reddit.com/r/devops/comments/1j3g7if/next_steps_as_devops/",
+            "description": "Hi there As title says I want to ask about possible next steps as DevOps engineer I have 2 years of experience as SDET and one year as DevOps but I think I m doing not DevOps stuff no docker no kubernetes or other tools I m writing powershell scripts..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Datadog assistance",
+            "link": "https://www.reddit.com/r/devops/comments/1j3fjsh/datadog_assistance/",
+            "description": "I have a data dog deployment and I m attempting to take a raw Linux log file that is not formatted in a common way I want to take a single log file and attribute error warning info based on a grok match The long term fix in the backlog..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Exploring DevOps as a junior",
+            "link": "https://www.reddit.com/r/devops/comments/1j3esu6/exploring_devops_as_a_junior/",
+            "description": "I ve had my first job for about 6 months now working with NET React though I m starting to eye DevOps and possibly SRE security I m not sure whether my reasoning is correct or if I m falling into a grass is greener trap so I m asking..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "What's the best path to get a DevOps role without \"falling into it\"?",
+            "link": "https://www.reddit.com/r/devops/comments/1j3dx4x/whats_the_best_path_to_get_a_devops_role_without/",
+            "description": "Edit Thank you everyone for responding For anyone finding this post in the future the best answer that pretty clearly lays out the best path for someone in my situation is gt Get a job as a software engineer From there own the features you develop in its entirety Get..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Seeking Senior Professional for Virtual Mock Interviews &amp; Guidance",
+            "link": "https://www.reddit.com/r/devops/comments/1j3bi4x/seeking_senior_professional_for_virtual_mock/",
+            "description": "I am looking for guidance and someone to conduct mock interviews for me I am willing to pay for the service Ideally I d prefer someone in a senior position as I have been struggling in interviews and need expert feedback The sessions should be virtual and I m looking..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "How does it all go together ?",
+            "link": "https://www.reddit.com/r/devops/comments/1j395cj/how_does_it_all_go_together/",
+            "description": "Hello all I m a software developer with a few years of experience getting into devops after my recent firing yaddayadda I ve been in training since december seeing K8s docker ansible terraform jenkins gitlab etc etc some things I already knew and some that are new And I m..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Do you guys use AI in your Company work?",
+            "link": "https://www.reddit.com/r/devops/comments/1j38y6i/do_you_guys_use_ai_in_your_company_work/",
+            "description": "I would like to know if you guys already use AI as a tool. Maybe for Code Debugger, or troubleshooting in general. "
+        },
+        {
+            "subreddit": "devops",
+            "title": "GenAI?",
+            "link": "https://www.reddit.com/r/devops/comments/1j38npy/genai/",
+            "description": "Just curious how many people use GenAI in their jobs? Do you think its a useful tool or frown upon using it? Personally i\u2019ve found it good in terms of speeding up looking at docs, debugging,ask it theory based questions etc"
+        },
+        {
+            "subreddit": "devops",
+            "title": "Requesting Feedback for a blog",
+            "link": "https://www.reddit.com/r/devops/comments/1j36alr/requesting_feedback_for_a_blog/",
+            "description": "Hey everyone! I have started a DevOps blog sharing about the new and interesting things I work on.  \nWould be very happy to hear feedback from you\n\n[https://haykops.com/posts/github-actions-runners/](https://haykops.com/posts/github-actions-runners/)"
+        },
+        {
+            "subreddit": "devops",
+            "title": "How to start a career in devops",
+            "link": "https://www.reddit.com/r/devops/comments/1j35f8q/how_to_start_a_career_in_devops/",
+            "description": "Hey everyone I want to in devops not sure where to start but I started a course on udemy https www udemy com share 104Xxm3 QDirugWa8rDcVdao4GZ_BWCtwlY6tuN cHkZqgb8gyM EwaBIfSscQm2otUm3eaHAQ Currently I am Full stack developer working mostly in frontend I want to know what should I do so I can land..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "SDET (QA) transition to DevOps",
+            "link": "https://www.reddit.com/r/devops/comments/1j350yr/sdet_qa_transition_to_devops/",
+            "description": "Hello everyone I was wondering if it s too hard to jump from SDET position to DevOps I have 12 years of experience working on IT from FST to Support Eng Sr and i have 3 years in SDET position mostly automation I really love working with pipelines and coding..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Is nuttanix used much in the industry?",
+            "link": "https://www.reddit.com/r/devops/comments/1j33wnq/is_nuttanix_used_much_in_the_industry/",
+            "description": "Hello looking for some insight into nuttanix https www nutanix com en _au https www nutanix com en_au I m required to get a cert for this stuff for work Im sitting at around 4 5YOE in cloud devops roles but haven t really touched much hybrid cloud or on..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "What are the most difficult things you've implemented as a DevOps engineer?",
+            "link": "https://www.reddit.com/r/devops/comments/1j33amh/what_are_the_most_difficult_things_youve/",
+            "description": "What are the most difficult things you've implemented as a DevOps engineer?"
+        },
+        {
+            "subreddit": "devops",
+            "title": "How Do You Handle Contention in Shared Environments?",
+            "link": "https://www.reddit.com/r/devops/comments/1j32zbf/how_do_you_handle_contention_in_shared/",
+            "description": "When multiple teams share the same env for testing it s a mess one team runs tests another deploys something that breaks everything and suddenly everyone is stuck debugging someone else s issue And don t even get me started on flaky tests due to unstable environments I ve seen..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Need to learn infrastructure and deployment tools for job market reasons",
+            "link": "https://www.reddit.com/r/devops/comments/1j312wi/need_to_learn_infrastructure_and_deployment_tools/",
+            "description": "I have worked as a web dev since the pre DevOps days before it was a popular term Been out of the loop with deploying websites and web applications on a more professional level for a while I took pause when I learned that Kubernetes is considered basic knowledge now..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "AI combined with Mars 360 concepts has just created an ideological monster that not even the US will be able to stop from spreading. AI has just manufactured a secret police force for Mars 360 and added two new departments to the Gahala",
+            "link": "/r/conspiracy/comments/1j2vej7/ai_just_provided_mars_360_with_a_secret_police/",
+            "description": ""
+        },
+        {
+            "subreddit": "devops",
+            "title": "What are the best practical tutorials out there?",
+            "link": "https://www.reddit.com/r/devops/comments/1j2zwxv/what_are_the_best_practical_tutorials_out_there/",
+            "description": "What are the best practical tutorials out there? Already learned Kubernetes and Docker Swarm, but I am looking to do advanced things with them and other technologies."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Will i get offer or REJECTION",
+            "link": "https://www.reddit.com/r/devops/comments/1j2vkyh/will_i_get_offer_or_rejection/",
+            "description": "Finished my onsite loop for Amazon SysDE Here s my experience and I m scared as hell So I just wrapped up my onsite loop for the Systems Development Engineer role at Amazon and I wanted to share my experience I answered most of the questions tried to ask clarifying..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Words of my CEO - \u201eWhy hire juniors when single senior with AI can do work of 10-20 of juniors\u201d",
+            "link": "https://www.reddit.com/r/devops/comments/1j2v1sj/words_of_my_ceo_why_hire_juniors_when_single/",
+            "description": "Its silly how tides have turned in IT Beside offshoring to cheaper countries AI seems to be the new way to push ppl to do more and more with less staff on the board CEO said he literally sees zero reasons to hire junior ppl now GPT seems to be..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "CISA Warns of Newly Exploited Vulnerabilities Affecting Major Tech Companies",
+            "link": "/r/pwnhub/comments/1j2rbqo/cisa_warns_of_newly_exploited_vulnerabilities/",
+            "description": ""
+        },
+        {
+            "subreddit": "devops",
+            "title": "What are you learning this year?",
+            "link": "https://www.reddit.com/r/devops/comments/1j2rf11/what_are_you_learning_this_year/",
+            "description": "I know I am two months late for this question but for context I work as a DevOps lead in a mid sized company I have seven years of overall experience I have worked on Kubernetes and its ecosystem mostly on AWS and on premises I have been thinking of..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "MySQL Docker container not allowing external root connections despite MYSQL_ROOT_HOST=\"%\"",
+            "link": "/r/docker/comments/1j2q3rh/mysql_docker_container_not_allowing_external_root/",
+            "description": ""
+        },
+        {
+            "subreddit": "devops",
+            "title": "metrics for self service infrastructure adoption?",
+            "link": "https://www.reddit.com/r/devops/comments/1j2pz0u/metrics_for_self_service_infrastructure_adoption/",
+            "description": "What metrics would you use to measure success of a self service infrastructure effort Here is what I have sort of adopted from Dora Lead Time for Infra Changes Drift Frequency how often are console tweaks happening Change Failure Rate Self Service Rate Self service rate being what percentage of..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Terraform VS Pulumi",
+            "link": "https://www.reddit.com/r/devops/comments/1j2orns/terraform_vs_pulumi/",
+            "description": "[https://youtu.be/he5u-0Q-ckM?si=RJd2o4ntGl-fyRIp](https://youtu.be/he5u-0Q-ckM?si=RJd2o4ntGl-fyRIp)"
+        },
+        {
+            "subreddit": "cloud",
+            "title": "The Benefits of Cloud-Based Healthcare Solutions.",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j3duwf/the_benefits_of_cloudbased_healthcare_solutions/",
+            "description": "Cloud based healthcare solutions are transforming patient care by improving data accessibility security and collaboration With cloud storage medical records are securely accessible from anywhere enabling faster and more accurate diagnoses These solutions also enhance compliance with healthcare regulations by providing automated security updates and encrypted data protection Additionally cloud..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "I want to store videos in the cloud what can I do",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j39qcy/i_want_to_store_videos_in_the_cloud_what_can_i_do/",
+            "description": "I want to store videos in the cloud because there is no space on my server, but I could not find a proper cloud provider, can you recommend me a cloud provider, I have a lot of videos to upload videos"
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Call for Papers: IEEE IMC 2025",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j2f636/call_for_papers_ieee_imc_2025/",
+            "description": "13th IEEE International Conference on Intelligent Mobile Computing IMC 2025 July 21 24 2025Tucson Arizona USA The IMC 2025 part of the IEEE International Congress on Intelligent and Service Oriented Systems Engineering CISOSE 2025 is inviting high quality research paper submissions IMC 2025 focuses on cutting edge advancements in mobile..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Key Factors to Consider When Selecting a Cloud Service Provider in 2025",
+            "link": "https://i.redd.it/4ltuq3gtbfme1.jpeg",
+            "description": ""
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Multiple account in Filen",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j26xxe/multiple_account_in_filen/",
+            "description": "So o have multiple accounts in filen and i saw a reddit post that says if you have more than one account they ll delete all of your accounts And i do have multiple accounts but how will they even know that Is it actually dangerous What if i manage..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Help with my IB Extended Essay on AWS &amp; Cloud Computing! \ud83d\ude80",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j1qws2/help_with_my_ib_extended_essay_on_aws_cloud/",
+            "description": "Hey everyone I m currently working on my IB Extended Essay where I m researching how Amazon Web Services AWS has contributed to Amazon s profitability and market share growth in the global cloud computing industry To support my research I ve created a short survey for IT professionals developers..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Live network map",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j1al9k/live_network_map/",
+            "description": "I want to see a live network map of all traffic between all hosts I have. What is the best tool for this? \nDo I even need it or I\u2019m making up a problem with my overthinking powers?"
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Which GCP Certificate Should I Choose? (Cloud Architect vs. Cloud DevOps Engineer)",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j11qlh/which_gcp_certificate_should_i_choose_cloud/",
+            "description": "Hey everyone I have an opportunity where my company will pay for one Google Cloud certification and I m trying to decide between 1 GCP Professional Cloud Architect 2 GCP Professional Cloud DevOps Engineer My Background 6 years in software development IT Strong experience in Golang Some Cloud AWS amp..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Help: How do I save everything from my laptop to the cloud?",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j0iac8/help_how_do_i_save_everything_from_my_laptop_to/",
+            "description": "I have an 8 yr old IBM Thinkpad that I keep EVERYTHING on including an excel file with every login password I d ever need Also I have several file folders of important docs I m worried that one morning my laptop will have a hard crash or just won..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "We need your opinion: optimizing GPU costs thanks to multi-cloud",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j0a59m/we_need_your_opinion_optimizing_gpu_costs_thanks/",
+            "description": "Coming soon optimizing GPU costs thanks to multi cloud with LayerOps AI consumes a huge amount of GPU resources but one problem persists Limited availability Finding GPUs from a cloud provider can be a real challenge with quotas and regular shortages Exploding costs GPU instances run 24 7 even when..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "On-prem yet organization private using OpenStack",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j078vd/onprem_yet_organization_private_using_openstack/",
+            "description": "On prem yet organization private using OpenStack I use the term sub net in text below however I mean dividing the whole private network in a set of distinct classless networks All use however address ranges not routable in public network For master thesis a small house private at the..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "How to Select the Best Cloud Service Provider for Your Organization in 2025",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j04xxr/how_to_select_the_best_cloud_service_provider_for/",
+            "description": "https preview redd it zh7k062t0vle1 jpg width 1280 amp format pjpg amp auto webp amp s 68bf5e5167239cb70bc95954a78e79b663cfcbb3 cloudIn today s digital first world cloud computing has become the backbone of modern businesses By 2025 the global cloud computing market is projected to reach 832 1 billion growing at a CAGR..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Better alternative cloud for Google one?",
+            "link": "https://www.reddit.com/r/Cloud/comments/1iz92zj/better_alternative_cloud_for_google_one/",
+            "description": "I saw recently that Google is increasing its prices on cloud services It s way too expensive I subscribed to a 2TB plan and I m using 230GB I shared it with my wife and she doesn t use it very much I m using Google Drive and Google Photos..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "After testing it, I think this cloud platform deserves to be known. Do you know her?",
+            "link": "https://i.redd.it/jtiha56a0jle1.png",
+            "description": ""
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Which would be a cost effective cloud provider for purely CDN (mostly video) with strong network in India, middle east and some parts of Asia",
+            "link": "https://www.reddit.com/r/Cloud/comments/1iysfwo/which_would_be_a_cost_effective_cloud_provider/",
+            "description": "I see BelugaCDN pricing to be a very aggressive. Anyone has any tips on how to identify and work on this"
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Is there a non \ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3 Cloud provider like AWS/Azure\u2753",
+            "link": "https://www.reddit.com/r/Cloud/comments/1iyqgcb/is_there_a_non_cloud_provider_like_awsazure/",
+            "description": "https://www.theregister.com/2025/02/26/europe_has_second_thoughts_about/\n\nInteresting all big cloud providers (hyperscalers) are all based in the USA or China.  \n\nAWS, Google Cloud, Azure, IBM, Alibaba Cloud, Tencent Cloud.\n\nCan anyone think of a competitor that is not based in the \ud83c\uddfa\ud83c\uddf8 or \ud83c\udde8\ud83c\uddf3 \u2753"
+        },
+        {
+            "subreddit": "cloud",
+            "title": "cloud waste prevention and cure",
+            "link": "https://www.reddit.com/r/Cloud/comments/1iymj89/cloud_waste_prevention_and_cure/",
+            "description": "Cloud Waste Stop Burning Cash on Unused Resources Cloud computing is awesome until you check your bill and realize you re throwing money at stuff you don t even use Scalability and flexibility are great but without smart management cloud waste creeps in silently draining budgets and wrecking efficiency A..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Cloud hosting feels unnecessarily complex and costly, do we have a solution ?",
+            "link": "https://www.reddit.com/r/Cloud/comments/1iyipfs/cloud_hosting_feels_unnecessarily_complex_and/",
+            "description": "Hey fellow founders After years of dealing with AWS Google Cloud and Azure we realized something cloud hosting has become way too complex for businesses that just want to focus on growth Between unpredictable pricing scaling headaches and overwhelming configurations startups and businesses often struggle to get the best out..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Looking to backup 11TB's for a week. I need options",
+            "link": "https://www.reddit.com/r/Cloud/comments/1iydpp3/looking_to_backup_11tbs_for_a_week_i_need_options/",
+            "description": "I'm moving storage around and wondering what the fastest and cheapest options are for backup? "
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Post-Migration Container Registry Clean-up",
+            "link": "/r/googlecloud/comments/1iy14tm/postmigration_container_registry_cleanup/",
+            "description": ""
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Lifesaver more than once",
+            "link": "https://i.redd.it/4imudgxk0e4a1.png",
+            "description": ""
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Cloud Security Concerns",
+            "link": "https://www.reddit.com/r/Cloud/comments/1ixv7ma/cloud_security_concerns/",
+            "description": "What are the biggest challenges in cloud security AWS Azure GCP Hey everyone I m trying to get a better understanding of cloud security specifically the real challenges security engineers deal with in AWS Azure and GCP If you work in cloud security what are the most common pain points..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "The Challenge of Fragmented Security in the Modern Enterprise",
+            "link": "https://i.redd.it/yoi3s40m08le1.jpeg",
+            "description": ""
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Any feedback/insight is greatly appreciated",
+            "link": "https://cirrusbusiness.tech",
+            "description": "Hey everyone I ve been diving deeper into cloud computing and automation and I wanted a space to document my journey experiment with new ideas and share insights from the projects I m working on so I launched a blog Cirrus Business The goal To track my progress explore cloud..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "How Enterprise Community Cloud and AI are Transforming Enterprise Security in 2025",
+            "link": "https://www.reddit.com/r/Cloud/comments/1ix0yp9/how_enterprise_community_cloud_and_ai_are/",
+            "description": "https preview redd it 06yqcq5lz2le1 jpg width 1280 amp format pjpg amp auto webp amp s 9b027a8fccb02259f130b35710ea8d35848f9c27 80 of enterprise SaaS logins occur without IT or security team visibility Employees log into critical business applications using personal credentials which puts the security teams in the dark What is worse 67..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "How Enterprise Community Cloud and AI are Transforming Enterprise Security in 2025",
+            "link": "https://www.reddit.com/r/Cloud/comments/1iwxn1k/how_enterprise_community_cloud_and_ai_are/",
+            "description": "An enterprise https preview redd it 6avwf96zv1le1 jpg width 1280 amp format pjpg amp auto webp amp s f09a9e543a4cd3e4d3adaf3861a5f5272ca77f26 80 of enterprise SaaS logins occur without IT or security team visibility Employees log into critical business applications using personal credentials which puts the security teams in the dark What is..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "I want something that will route my inbounds email between my mail servers and other services. Does it exist ?",
+            "link": "https://www.reddit.com/r/Cloud/comments/1iwjs81/i_want_something_that_will_route_my_inbounds/",
+            "description": "Currently the mx entry of MYDOMAIN dot COM point to a mailbox webmail service similar to proton I want a service that I would set as my MX entry In the service I want to use this kind of configuration SPECIFIC arobase MYDOMAIN dot COM a postfix server we control..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "What's the \"DSA\" equivalent for cloud computing",
+            "link": "https://www.reddit.com/r/Cloud/comments/1iwh5z3/whats_the_dsa_equivalent_for_cloud_computing/",
+            "description": "I was wondering that for SWE in FAANG people mainly focus on DSA and solves hundreds of leetcode and get good at it that s how a lot of people crack FAANG So for cloud computing what is the focus I know there s a lot of things like labs..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "What\u2019s your cloud stack look like?",
+            "link": "https://www.reddit.com/r/Cloud/comments/1iw0va3/whats_your_cloud_stack_look_like/",
+            "description": "Curious about how different teams are structuring their cloud infrastructure:\n\n5-minute survey: \nhttps://docs.google.com/forms/d/e/1FAIpQLSfadPrJIYpMpH8ETJKfITGc5sd4M3E-E6tnct6hC3a9lJ0DJQ/viewform"
+        },
+        {
+            "subreddit": "cloud",
+            "title": "2025 Summer internship",
+            "link": "https://www.reddit.com/r/Cloud/comments/1ivoh0z/2025_summer_internship/",
+            "description": "I m a Computer Engineering Master s student in the Bay Area with a specialization in cloud computing I have two years of software development experience but am looking to transition into Cloud Engineering or DevOps roles Initially I focused on applying for these positions but opportunities seem limited Given..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Fake BianLian Ransom Note Campaign Preys on Fear",
+            "link": "https://www.guidepointsecurity.com/blog/snail-mail-fail-fake-ransom-note-campaign-preys-on-fear/",
+            "description": ""
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "PSA | Audit Consolidation is Real and it's Revolutionary",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j3eijw/psa_audit_consolidation_is_real_and_its/",
+            "description": "I work for A LIGN the largest accreditation body for ISO 27001 amp SOC 2 plus we do virtually every other IT framework under the sun Most auditors are antiquated in their approach and barely innovate if at all to improve the experience We consistently rank highest on quality with..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "U.S. Recovers $31 Million Stolen from Crypto Platform in 2021 Hack",
+            "link": "https://reportboom.com/u-s-recovers-31-million-stolen-from-crypto-platform-in-2021-hack/",
+            "description": ""
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Amazon Security Engineer Intern - Waitlist",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j3g5le/amazon_security_engineer_intern_waitlist/",
+            "description": "Hey I just got waitlisted for the security engineer intern position at Amazon I gave my interview on Feb 27th 2025 Has anyone else been waitlisted as well And do you know if there is a timeline for when the waitlist would clear Here is the email I received from..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Detection engineers salary in the UK/Europe",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j3ijrt/detection_engineers_salary_in_the_ukeurope/",
+            "description": "Wondering how much a detection engineer is typically paid in London and across Europe Specifically with around two years of experience researching TTPs working with different SIEM and EDR technologies and building and tuning detection rules across various log types authentication email firewall etc The role also involves building and..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Anyone notice Russia isn\u2019t showing on live Threat Maps!?",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j3i8cy/anyone_notice_russia_isnt_showing_on_live_threat/",
+            "description": "With all the news that s been going on between the USA and Russia I decided to look at several Active Threat Maps Fortinet Cisco Radware and Netscout I would love a thread of everyone s findings on what is going on and why Russia seems mysteriously quiet as of..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "What should I study up on to become more competitive for security engineering roles in the private sector?",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j3gybt/what_should_i_study_up_on_to_become_more/",
+            "description": "I need new things to learn on the side I ve only worked in federal contracting so far and I feel like there s a huge difference between the things I work on and what other security engineers work on in companies outside of federal contracting I feel like their..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Securing IT Asset Data with Advanced Security Measures",
+            "link": "/r/sysadmin/comments/1j3egmu/securing_it_asset_data_with_advanced_security/",
+            "description": ""
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Email honeypots?",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j3e19u/email_honeypots/",
+            "description": "How many of you are creating email honeypot accounts Not just Microsoft Honeytoken accounts that alert if a sign in is attempted but creating authentic looking users an adding them to any public facing directories and creating an automation to check the account for any mail originating from outside your..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "China readies for Taiwan cyber attack, report warns",
+            "link": "https://techinformed.co/china_readies_for_Taiwan_cyber_attack",
+            "description": ""
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "So \u2026 Russia no longer a cyber threat to America?",
+            "link": "https://www.theregister.com/2025/03/04/russia_cyber_threat/?utm_medium=share&amp;utm_content=article&amp;utm_source=reddit",
+            "description": ""
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "ISACA CRISC",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j3c6mo/isaca_crisc/",
+            "description": "Does anyone know if this exam is online or if I have to drive somewhere to take it ?"
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "AWS certs",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j2tmuj/aws_certs/",
+            "description": "Do you recommend me to take Cloud practioner and SysOps administrator certs I m currently working as a soc analyst and never used cloud solutions so I want to fill this gap what do you think Where I can get exam vouchers and does taking SysOps administrator cert enough instead..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Labs",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j2u9pq/labs/",
+            "description": "Hey everyone Are there any labs or machines you d recommend for SOC training Online courses and videos don t really work for me I end up zoning out and not retaining much I ve been doing CTFs and while it s a tougher way to learn I ve picked..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "State of asset ownership in VM",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j2vd6d/state_of_asset_ownership_in_vm/",
+            "description": "What's the state of asset ownership in your VM programs today? For those who are in a good position, how'd you get there? Also curious if more cloud heavy environments are generally \"easier\" to track\n\n[View Poll](https://www.reddit.com/poll/1j2vd6d)"
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Multiple IPs from different countries attempting to attack personal page - really strange",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j2zhpj/multiple_ips_from_different_countries_attempting/",
+            "description": "So recently I started working on my personal page again and decided to use cloudflare for my SSL Quickly I noticed a ton of requests from countries like the USA Singapore Hong Kong most requests France and the Netherlands analytics https simplicated cc images xxo8z861h6zr0qb png After a few days..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Visual Learner Seeking Resources for Understanding Security Tools and Mechanisms",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j2zovl/visual_learner_seeking_resources_for/",
+            "description": "Hi everyone I m looking to deepen my understanding of security tools and mechanisms like Tenable Nessus AWS services like Config Inspector Lambda etc Cortex XDR Qualys and similar tools that are used in system environments I want to get a clear picture of what these tools do their real..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "ISO27001 Lead Auditor",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j30ah6/iso27001_lead_auditor/",
+            "description": "Hi there I have my ISO LA exam coming up I have done training through PECB but the trainer just read the slides I have 3 years of audit work exp However I want to know if anyone can share sample questions for the exam so I can prepare And..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "I'm feeling a bit lost",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j31ddc/im_feeling_a_bit_lost/",
+            "description": "Hi everyone I switched over from full time to free lance a couple years ago and now my contract has ended I am kind of in a grey area with my background and unsure how to market myself or which roles to persu I am actually 5 years managing PKI..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Zero-Knowledge Cryptography &amp; Zero Trust Architecture",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j337xf/zeroknowledge_cryptography_zero_trust_architecture/",
+            "description": "Hey everyone I ve been reading about zero trust security where every request is validated like it s coming from the outside But it seems like there is still a lot of metadata that an attacker could collect by intercepting a JWT and thus learn which users have access to..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Certifications are costly. What a broke can do?",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j33dup/certifications_are_costly_what_a_broke_can_do/",
+            "description": "These are the prices of the cybersecurity certifications according to ChatGPT price may vary Microsoft Technology Associate MTA Security Fundamentals 127 CompTIA Security 311 ISACA CSX Cybersecurity Fundamentals Certificate 150 Certified Ethical Hacker CEH 950 1 199 Certified Information Security Manager CISM 575 members 760 non members Certified Information Systems..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "49000+ building access systems exposed",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j33s6d/49000_building_access_systems_exposed/",
+            "description": "A recent cybersecurity report uncovered over 49 000 misconfigured Access Management Systems AMS leaving businesses government buildings and critical infrastructure vulnerable to unauthorized access These systems which control entry via biometrics ID cards and license plates were found exposed across multiple industries and countries The misconfigurations exposed sensitive employee data..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Helping Startups &amp; Business Owners with Cybersecurity (IAM &amp; PAM)",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j33xec/helping_startups_business_owners_with/",
+            "description": "Hey everyone Over the past 10 years I ve worked with businesses across different industries and one thing I ve noticed is that cybersecurity especially IAM Identity and Access Management and PAM Privileged Access Management often feels confusing or like something to worry about later But I ve also seen..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "How to measure SOC and CSIRT efficiency",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j35nb0/how_to_measure_soc_and_csirt_efficiency/",
+            "description": "For any organization utilizing Security Operations Center SOC or Computer Security Incident Response Team CSIRT services whether internally managed or outsourced assessing their efficiency is essential The following article offers a brief overview of methodologies for evaluating the maturity and effectiveness of SOC and CSIRT operations https untrustednetwork net en..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Google Issues Urgent Security Alert for Critical Android Vulnerabilities",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j38tyw/google_issues_urgent_security_alert_for_critical/",
+            "description": "Google has identified two critical security flaws CVE 2024 43093 and CVE 2024 50302 that hackers are actively exploiting to break into Android devices running Android 12 to 15 These vulnerabilities allow attackers to bypass lock screens steal data and take full control of devices What s Happening Investigations reveal..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "In what kind of situations have your tools broken down?",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j38yzs/in_what_kind_of_situations_have_your_tools_broken/",
+            "description": "Some time ago I attended a talk by our national cybersecurity center Few of their war stories were about cases where their tools broke down Python scripts just could not handle the volume and had to be rewritten When the country was a target of a Microsoft tech support scam..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Elearnsecurity Certified \u0130ncident Response (eC\u0130R) exam",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j38znv/elearnsecurity_certified_incident_response_ecir/",
+            "description": "Hi guys I want to know this how many hours i need for passing exam exam is 48 hour can i finish 10 12 hours total in 1 day and i want to know i finish most wireshark splunk elk labs in cyberdefenders which topics must i learn IS wireshark..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Microsoft Attributes Recent Microsoft 365 Outage to Authentication Token Failure",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j395tp/microsoft_attributes_recent_microsoft_365_outage/",
+            "description": "Microsoft confirmed a significant outage affecting its Microsoft 365 suite on March 3 2025 linking the disruption to a critical failure in its authentication token system The incident which impacted users across Canada and parts of the U S for nearly three hours prevented access to Outlook Teams and OneDrive..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Bug bounty and nmap",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j3a8q7/bug_bounty_and_nmap/",
+            "description": "So i started doing research about bug bountys just so i can learn some new skills and learn about another side of the cybersecurity industry I see that people will talk about using nmap When I first started learning about cybersecurity I always learned that using nmap on systems that..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "AI Certifications",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j3ae1u/ai_certifications/",
+            "description": "Does anyone have any recommendations of AI certifications that I can take to learn more how AI &amp; cybersecurity intertwine? "
+        },
+        {
+            "subreddit": "webdev",
+            "title": "I made a toy website, inspired by One Million Checkboxes",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3lk9l/i_made_a_toy_website_inspired_by_one_million/",
+            "description": "https onemegapixel click https onemegapixel click Hi everyone It s been a while since I built anything on my free time and I got inspired by the website One Million Checkboxes so decided to implement something similar It s a 1024x1024 canvas free for everyone to edit One pixel at..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "I Built a Typescript LLM Framework in 179 Lines\u2014Why Are the Others So Bloated? \ud83e\udd2f",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3l7ey/i_built_a_typescript_llm_framework_in_179/",
+            "description": "Every LLM framework we looked at felt unnecessarily complex massive dependencies vendor lock in and features I d never use So we set out to see How simple can an LLM framework actually be Rep o PocketFlow https github com The Pocket World Pocket Flow Framework Here s Why We..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "project planning recommendations",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3l6ix/project_planning_recommendations/",
+            "description": "Hey I am looking for project planning and structuring resources Not focused on project managment but rather the steps to create an understandable roadmap and timeline on a project I have developed a self thought process based on just what has worked for me but since I have been getting..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "C#",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3l1zj/c/",
+            "description": "What you guys think about C#.NET, Typescript &amp; PostgreSQL together without too much flashy frameworks and tools?"
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Best tech stack for my project with easy deployment with Docker",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3kxzx/best_tech_stack_for_my_project_with_easy/",
+            "description": "Hello I m working on a fullstack TypeScript app that will work as something like combination of PasteBin https pastebin com and CodeShare https codeshare io with my custom features for my engineer s thesis I initially started with Next js with Hono js as Next s API Routes but..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "SiteGround: Can't Transfer Ownership AND New 2-Year Hosting Plan?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3kqhn/siteground_cant_transfer_ownership_and_new_2year/",
+            "description": "I couldn t find this so please redirect if this has been answered I set a family member up with a website domain from NameCheap hosting from SiteGround and paid for a 2 year hosting plan under my details I thought I was setting him up so that when he..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "the planetscale landing page case: upgrade or downgrade?",
+            "link": "https://www.reddit.com/gallery/1j3kqda",
+            "description": ""
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Best 27 inch monitors for programmers using mac in 2025",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3k38h/best_27_inch_monitors_for_programmers_using_mac/",
+            "description": "I ve been using a cheap 24 inch monitor but the pixelation is really noticeable compared to my MacBook s screen I m looking for a 27 inch monitor that s as crisp as possible preferably with an IPS panel My budget is around 200 400 I don t really..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Questions regarding Postman API",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3jxxq/questions_regarding_postman_api/",
+            "description": "Hi All I am fairly new to calling APIs and using postman I am working through a project where I pull a list of accounts and I have to loop through them I currently have the data But unsure how I can then parse to only pull the accounts where..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Auth Context, User momentarily Blank on hard refresh",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3jru5/auth_context_user_momentarily_blank_on_hard/",
+            "description": "There s quite a bit of code so hard to really paste it all in here but Nextjs frontend woocommerce headless backend When a user is signed in and we navigate on the site everything is good Currently we just have the user s user name displayed in the navbar..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "React/Typescript flat/individual props vs object",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3j740/reacttypescript_flatindividual_props_vs_object/",
+            "description": "When defining props in React there are two common approaches define them as individual props or group into single object I prefer example1 prop as an object if we are dealing with more than 4 5 props So which way do you prefer and why Take note Because TypeScript uses..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "What do yall use for analytics?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3inkp/what_do_yall_use_for_analytics/",
+            "description": "Hey guys I am looking for simple analytics for my site I have already looked at simpleanalytics com but I am looking for something preferrably free and open source but honestly just want the best analytics platform that is not super expensive Any suggestions or personal experience with certain platforms..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Building a Showcase Website for Developers \u2013 Would This Be Useful?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3hwxw/building_a_showcase_website_for_developers_would/",
+            "description": "I m working on an idea for a website where developers can showcase their projects similar to ShaderToy https www shadertoy com but for general code Think of it like DeviantArt https www deviantart com but for developers a place to share projects link GitHub repos and browse others work..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Need help with HandTrack.js",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3hgg0/need_help_with_handtrackjs/",
+            "description": "I was browsing different things to learn and was fascinated by this library. Basically, I am thinking of creating a simple site where you use your hand as a mouse. Has anyone already done this? I wanna see if its even possible. Help me out."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "hosting headless cms with angular",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3gtfo/hosting_headless_cms_with_angular/",
+            "description": "I am seeking guidance on hosting a personal portfolio project. This project consists of an Angular-based front-end application and utilizes WordPress as a headless CMS for blog content. I would appreciate recommendations for suitable hosting solutions and deployment."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Whats the best banner ad service for low traffic?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3gdgu/whats_the_best_banner_ad_service_for_low_traffic/",
+            "description": "im looking to make around 20$ a month or something. i dont want to make a living out of ads. its already my hobby and wanted to make a little bit of money. 20$ is not little where i am"
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Why Feedback Loops Matter in API Development",
+            "link": "https://zuplo.com/blog/2025/02/26/why-feedback-loops-matter-in-api-development",
+            "description": ""
+        },
+        {
+            "subreddit": "webdev",
+            "title": "How to use AV1 for web video instead of GIF (stop using it) and MP4 with H.264.",
+            "link": "https://evilmartians.com/chronicles/better-web-video-with-av1-codec",
+            "description": ""
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Co-founder of Plausible Analytics talks about privacy and building an open-source product",
+            "link": "https://docs.opensaas.sh/blog/2025-02-27-meet-marko-saric-co-founder-of-privacy-friendly-plausible-analytics/",
+            "description": ""
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Why I won\u2019t pay on your Website \u2013 Lessons from building a Payment System",
+            "link": "https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website",
+            "description": ""
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Looking for an API",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3f3i0/looking_for_an_api/",
+            "description": "Hello everyone I m done with the basic javascript and wanted to create a basic project which gives the lyrics of the song Every APIURL that i use shows some CORS error I looked into it and learned that I m supposed to use that APIURL in backend Can anyone..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Client not providing needed information",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3erto/client_not_providing_needed_information/",
+            "description": "I am in this situation where I signed a contract with a client to create a small online business for him We agreed on an amount with a payment of 25 at the beginning and 75 upon delivery putting online of the site The project is almost finished all that..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Experience with fiverr",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3emx2/experience_with_fiverr/",
+            "description": "I am self taught and have mostly been coding as a hobby however did make some websites for money over the last year Since i might soon be in a situation where i have to travel multiple times a year i was wondering if i could at least partly finance..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "How do i limit a text input to one emoji?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3eja5/how_do_i_limit_a_text_input_to_one_emoji/",
+            "description": "I m trying to create a input field that can only hold ONE emoji Sounds simple enough but i also want to support skintones and combined emojis with the zero width joiner char And when variation selectors come into play it gets very complicated for example take this emoji and..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Database advice - Managing user accounts and passwords",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3ebrs/database_advice_managing_user_accounts_and/",
+            "description": "Hello I built a site that uses JSON to store user credentials username and salted password I was working toward making this secure but I realized it is not ideal I now realize there are better solutions but I am not the best with databases So I am wondering before..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Non-ramdom captcha?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3e6f0/nonramdom_captcha/",
+            "description": "So I have some text a few sentences worth that I want to captcha ize to send as an image I m not sure if this is better for this sub or a graphic design space but starting here since all the Google results are here lol How can I..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Building type api",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3e4gg/building_type_api/",
+            "description": "Curious if anyone knows how I can execute this I m trying to get a list of all buildings in a certain state that fall under a specific category So like a list of all hospitals in Connecticut a list of all distribution centers in New York data centers in..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Obscure AI from reading/extracting text",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3e0eg/obscure_ai_from_readingextracting_text/",
+            "description": "I am building simple trivia live game Any ideas how to reduce AI like Claude ability to read extarct text that would still be understandable by human If there is 10 seconds to get answer I manage to take trivia question screen picture with Claude and get correct answer I..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Question about the srcset and sizes attributes.",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3dvj2/question_about_the_srcset_and_sizes_attributes/",
+            "description": "I am using the Nextjs Image component https nextjs org docs app building your application optimizing images to create a grid of images I defined the sizes attribute sizes max width 384px 384px max width 640px 320px max width 768px 256px max width 880px 220px 196px and Nextjs generated the..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Newbie Here! Any apps out there to help visualize your code? As in how one code is related to another or might affect it?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3dts7/newbie_here_any_apps_out_there_to_help_visualize/",
+            "description": "as the title says, a newbie here (been at it for only 3 months) and I'm losing track of the relationships between my different codes."
         }
     ],
     "devto": [

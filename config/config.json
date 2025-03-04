@@ -29,7 +29,12 @@
         "r/cobol",
         "r/fsharp",
         "r/csharp",
-        "r/servers"
+        "r/servers",
+        "r/devops",
+        "r/cloud",
+        "r/cybersecurity",
+        "r/webdev"
+        
 
     ]
   }
