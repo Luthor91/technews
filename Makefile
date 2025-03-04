@@ -1,6 +1,6 @@
 # Définir la version de Python à utiliser
-PYTHON := python3
-PACKAGE := requests 
+PYTHON := python
+PACKAGE := requests
 
 # Définir le port sur lequel le serveur sera lancé
 PORT := 8000
@@ -8,30 +8,49 @@ PORT := 8000
 # Définir l'URL du dépôt Git
 GIT_REPO := https://github.com/Luthor91/technews.git
 
-# Cible par défaut
-.PHONY: serve freeze install update git-update
+# Détection du système (Windows ou Unix)
+OS := $(shell uname -s 2>/dev/null || echo Windows)
+VENV_PATH := venv/bin
+ifeq ($(OS), Windows)
+    ACTIVATE := .\venv\Scripts\activate
+    PIP := .\venv\Scripts\pip.exe
+    PYTHON_BIN := .\venv\Scripts\python.exe
+else
+    ACTIVATE := . venv/bin/activate
+    PIP := ./venv/bin/pip
+    PYTHON_BIN := ./venv/bin/python
+endif
+
+# Cibles principales
+.PHONY: serve freeze install update deploy run
 
 # Commande pour démarrer un serveur HTTP simple
 serve:
 	@echo "Starting server on http://127.0.0.1:$(PORT)"
 	$(PYTHON) -m http.server $(PORT)
 
+# Sauvegarde des dépendances installées
 freeze:
-	. venv/bin/activate && \
-	$(PYTHON) -m pip install $(PACKAGE) && \
-	$(PYTHON) -m pip freeze > requirements.txt
+	@$(ACTIVATE) && $(PIP) install $(PACKAGE)
+	@$(ACTIVATE) && $(PIP) freeze > requirements.txt
 
+# Installation de l'environnement virtuel et des dépendances
 install:
-	$(PYTHON) -m venv venv
-	./venv/bin/pip install -r requirements.txt
+	@echo "Setting up virtual environment..."
+	@$(PYTHON) -m venv venv
+	@$(PIP) install -r requirements.txt
 
-update:
-	$(PYTHON) -m venv venv
-	./venv/bin/pip install -r requirements.txt
-	. venv/bin/activate
-	$(PYTHON) scripts/fetch_datas.py
+# Mise à jour des dépendances
+update: install
+	@$(ACTIVATE) && $(PYTHON_BIN) scripts/fetch_datas.py
 
-deploy: 
+# Déploiement de l'application
+deploy:
 	@git add .
-	@git commit -m "update news data"
-	@git push $(GIT_REPO)
+	@git commit -m "Update news data"
+	@git push
+
+# Exécuter l'environnement, le script et déployer en une seule commande
+run: install
+	@$(ACTIVATE) && $(PYTHON_BIN) scripts/fetch_datas.py
+	@$(MAKE) deploy
