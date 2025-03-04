@@ -61,7 +61,7 @@ header {
 .source-btn:hover, 
 .source-btn.active {
     background-color: var(--accent-color);
-    color: white;
+    color: black;
     border-color: var(--accent-color);
 }
 
