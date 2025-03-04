@@ -1,6 +1,61 @@
 {
     "hackernews": [
         {
+            "title": "Storm closing in on Southern California could bring 'weak tornadoes'",
+            "link": "https://ktla.com/news/california/storm-closing-in-on-southern-california-could-bring-weak-tornadoes/",
+            "description": "No Description"
+        },
+        {
+            "title": "Broadcom Patches 3 VMware Zero-Days Exploited in the Wild",
+            "link": "https://www.securityweek.com/broadcom-patches-3-vmware-zero-days-exploited-in-the-wild/",
+            "description": "No Description"
+        },
+        {
+            "title": "Apple takes legal action in UK data privacy row",
+            "link": "https://www.bbc.com/news/articles/c8rkpv50x01o",
+            "description": "No Description"
+        },
+        {
+            "title": "Show HN: Turning logos into liquid metal animations (real-time open source tool)",
+            "link": "https://collidingscopes.github.io/liquid-logo/",
+            "description": "I built a free open source tool which turns logos into a liquid metal animations in real time in the browser Upload a photo then use the controls to adjust the colors speed noise intensity animation pattern and more p Click the dice button underneath the canvas or use the..."
+        },
+        {
+            "title": "Tailwind UI is now Tailwind Plus",
+            "link": "https://tailwindcss.com/blog/tailwind-plus",
+            "description": "No Description"
+        },
+        {
+            "title": "Dumb Comments",
+            "link": "https://neil.fraser.name/news/2025/02/13/",
+            "description": "No Description"
+        },
+        {
+            "title": "Canada proposes 100% tariffs on Tesla",
+            "link": "https://electrek.co/2025/03/04/canada-proposes-100-tariffs-on-tesla-i-have-an-alternative-open-the-door-to-chinese-evs/",
+            "description": "No Description"
+        },
+        {
+            "title": "The Epistemology of Resistance (2013)",
+            "link": "https://journals.openedition.org/ejpap/678",
+            "description": "No Description"
+        },
+        {
+            "title": "Apple Fights UK's Demand for iCloud Data Backdoor",
+            "link": "https://www.macrumors.com/2025/03/04/apple-legal-complaint-uk-backdoor/",
+            "description": "No Description"
+        },
+        {
+            "title": "In New Administration, Supplement Makers See Chance to Cash In",
+            "link": "https://undark.org/2025/03/04/supplement-industry-rfk/",
+            "description": "No Description"
+        },
+        {
+            "title": "Blue Ghost Mission 1 \u2013 Moon Landing [video]",
+            "link": "https://www.flickr.com/photos/fireflyspace/54365737995",
+            "description": "No Description"
+        },
+        {
             "title": "40% of electricty consumption in Virgina will be data centers in 2030? (Table A1",
             "link": "https://www.epri.com/research/products/000000003002028905",
             "description": "No Description"
@@ -23,11 +78,6 @@
         {
             "title": "Building a Standalone Rust Binary for a Scratch Docker Container",
             "link": "https://bxbrenden.github.io/",
-            "description": "No Description"
-        },
-        {
-            "title": "GOP Leader Tells Lawmakers: No More Town Halls",
-            "link": "https://www.wsj.com/politics/policy/gop-leader-tells-lawmakers-no-more-town-halls-d127114d",
             "description": "No Description"
         },
         {
@@ -93,51 +143,6 @@
         {
             "title": "ARC-AGI without pretraining",
             "link": "https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html",
-            "description": "No Description"
-        },
-        {
-            "title": "Windows Phone Ad: Really? (2010) [video]",
-            "link": "https://www.youtube.com/watch?v=55kOphD64r8",
-            "description": "No Description"
-        },
-        {
-            "title": "Charismatic Megafauna",
-            "link": "https://en.wikipedia.org/wiki/Charismatic_megafauna",
-            "description": "No Description"
-        },
-        {
-            "title": "2025-03-01 the cold glow of tritium",
-            "link": "https://computer.rip/2025-03-01-the-cold-glow-of-tritium.html",
-            "description": "No Description"
-        },
-        {
-            "title": "A Practical Guide to Implementing DeepSearch / DeepResearch",
-            "link": "https://simonwillison.net/2025/Mar/4/deepsearch-deepresearch/",
-            "description": "No Description"
-        },
-        {
-            "title": "Functions in CSS",
-            "link": "https://css-tricks.com/functions-in-css/",
-            "description": "No Description"
-        },
-        {
-            "title": "ChatGPT is made from 100M of these [The Perceptron] [video]",
-            "link": "https://www.youtube.com/watch?v=l-9ALe3U-Fg",
-            "description": "No Description"
-        },
-        {
-            "title": "Show HN: I Taught Kanye How to Use AI Vocals\u2013Now Launching an AI Music Startup",
-            "link": "https://imgur.com/a/0ynJW58",
-            "description": "Hey HN p I ve spent the last three years working with RVC Retrieval Based Voice Conversion modifying and training voice models using custom code based on Hugging Face repositories At the time I was just experimenting but looking back it was basically the first version of what I m..."
-        },
-        {
-            "title": "AI, Quantum Computing, and the Quantum Stream of Consciousness",
-            "link": "https://notebooklm.google.com/notebook/14a21230-4ac6-43aa-b991-6eb44f355ce8/audio",
-            "description": "No Description"
-        },
-        {
-            "title": "McKinsey's Analysis of the Gender Pay Gap: Data Exploration Gone Wrong",
-            "link": "https://substack.com/home/post/p-158345311",
             "description": "No Description"
         }
     ],
@@ -324,6 +329,12 @@
         },
         {
             "subreddit": "javascript",
+            "title": "Built a keyboard &amp; mouse automation (macro) tool using electron/reactjs",
+            "link": "https://gitlab.com/sroparadise/boblox",
+            "description": ""
+        },
+        {
+            "subreddit": "javascript",
             "title": "Frameworks JavaScript et Intelligence Artificielle",
             "link": "https://zakariamahboub.ma/frameworks-javascript-et-intelligence-artificielle-comment-les-integrer-pour-des-applications-performantes/",
             "description": "Boostez vos applications avec l IA et les frameworks JavaScript Les frameworks JavaScript modernes comme React Vue js et Angular r\u00e9volutionnent le d\u00e9veloppement web Mais comment tirer parti de l intelligence artificielle pour optimiser leurs performances D\u00e9couvrez comment int\u00e9grer efficacement l IA \u00e0 vos projets et cr\u00e9er des applications plus..."
@@ -494,12 +505,6 @@
             "subreddit": "javascript",
             "title": "I made my first javascript tool - a simple drawing canvas that allow users to draw",
             "link": "https://github.com/ianthefish/simple-canvas-tool",
-            "description": ""
-        },
-        {
-            "subreddit": "javascript",
-            "title": "Using F# to build React apps: npm packages",
-            "link": "https://www.compositional-it.com/news-blog/fsharp-react-series-npm/",
             "description": ""
         },
         {
@@ -1941,6 +1946,186 @@
             "title": "need feed back !",
             "link": "https://www.reddit.com/r/csharp/comments/1j1wga9/need_feed_back/",
             "description": "Hello, I made a calculator in C# using WPF (I'm learning C#), and I need feedback on it. Also, does anyone know how to make an .exe of my calculator? Thanks! \n\n[https://github.com/yanis26x/CALCULATRICE?tab=readme-ov-file](https://github.com/yanis26x/CALCULATRICE?tab=readme-ov-file)"
+        },
+        {
+            "subreddit": "servers",
+            "title": "What is the cost effective build for gpu-oriented apps",
+            "link": "https://www.reddit.com/r/servers/comments/1j3kjip/what_is_the_cost_effective_build_for_gpuoriented/",
+            "description": "Context I am currently developing a project which will very likely require significant number of relatively specific consumer grade hardware So far I have not been successful in finding anything more cost efficient than just using plain old stuff I built for my gaming PCs atx full tower some random..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Location of Consistency Check logs on Dell servers?",
+            "link": "https://www.reddit.com/r/servers/comments/1j3c6m7/location_of_consistency_check_logs_on_dell_servers/",
+            "description": "Hi all I am running a RAID Consistency Check via OMSA on a PowerEdge 340 with a PREC H730P running WS 2016 The process completes and an event 2085 is logged in Event Viewer but it just says check complete no indication of the actual result and for the life..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "R740 iDrac updates",
+            "link": "https://www.reddit.com/r/servers/comments/1j38x27/r740_idrac_updates/",
+            "description": "So I have a Dell r740xd at work which has been handed to me to update It hasn t had an iDrac update installed since 2018 sigh It s currently on 3 21 21 21 and I would like to get it to 7 x does anyone know the quickest..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Help picking parts",
+            "link": "https://www.reddit.com/r/servers/comments/1j2silc/help_picking_parts/",
+            "description": "I need help picking parts for a extremely powerful server for AI training and visual tasks I was thinking of going with a Gigabyte G294 Z42 AAP2 for two AMD Epyc 9965s pairing it with 6TB RAM each with Samsung s new 512GB RAM modules and 4 NVMe SSD and..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "He guys i made my first local host server !!!",
+            "link": "https://i.redd.it/2vdoprd24jme1.jpeg",
+            "description": "If your intested you can join ask me an ill create you your own login details "
+        },
+        {
+            "subreddit": "servers",
+            "title": "Is the wattage correct?",
+            "link": "https://i.redd.it/whtwey3fwime1.jpeg",
+            "description": "My workplace is thinking about a new server and we were looking for some components i was using pcpartpicker for compatibility and each ram is showing an estimated wattage of 23W and i want to know if its making a calculation of every ram running at the same time or..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Is it possible to convert a router to a home server?",
+            "link": "https://www.reddit.com/r/servers/comments/1j29mu4/is_it_possible_to_convert_a_router_to_a_home/",
+            "description": "Yesterday, I found my old 320GB hard drive. I want to create a home server, so I started looking for an easy way to connect my HDD to my router and host it on the internet. That way, my friends, family, and I could watch movies together and have fun."
+        },
+        {
+            "subreddit": "servers",
+            "title": "My church is getting a server, should I stick to Windows Server 2019 or just use Ubuntu?",
+            "link": "https://www.reddit.com/r/servers/comments/1j1wb1t/my_church_is_getting_a_server_should_i_stick_to/",
+            "description": "So I just acquired a DellEMC PowerEdge T340 with a 600 gigabyte hard drive in RAID configuration with 3 other drives The question I have is should I remove all the sensitive data from the computer and continue using Windows Server 2019 or use Ubuntu Server I haven t used..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Very (very very) new to servers. Looking for Small Business advice/direction",
+            "link": "https://www.reddit.com/r/servers/comments/1j1w4rl/very_very_very_new_to_servers_looking_for_small/",
+            "description": "I m trying to plan a server for my small business but I honestly don t even know where to start I m not in an immediate need type of situation but I m looking at trying to implement in the next couple of years I have all kinds of..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Server Aesthetic",
+            "link": "https://www.reddit.com/r/servers/comments/1j1ma45/server_aesthetic/",
+            "description": "Guys i need my room to look like lains cause its cool, whats a excuse to have a bunch of servers in my room "
+        },
+        {
+            "subreddit": "servers",
+            "title": "Just got into Linux Mint 22. So im very new. I am interested in servers. I was going to build a server or I guess a Game PC as a server to just do server things. Learn to Host Websites, run apps, maybe host a game, do file sahring, create a VPN.",
+            "link": "https://www.reddit.com/r/servers/comments/1j1hu2i/just_got_into_linux_mint_22_so_im_very_new_i_am/",
+            "description": "This is what i was going to use I have it all but have not built it yet because I am not sure if i should just send it all back and get a real server to play with I want to learn Linux server stuff So any guides on..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Looking for a good efficient PSU",
+            "link": "https://www.reddit.com/r/servers/comments/1j0v3pv/looking_for_a_good_efficient_psu/",
+            "description": "Hi guys just as the title says I am looking for an efficient PSU for my home server The specs are Mobo MSI B450 A PRO MAX CPU Ryzen 5 1600 CPU cooling stock AMD cooling RAM probably CORSAIR Vengeance LPX 16GB 2x8 3000 MHz CL16 1x SATA HDD 500GB..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Best Ddr3 Motherboard compatible CPU?",
+            "link": "https://www.reddit.com/r/servers/comments/1j05eer/best_ddr3_motherboard_compatible_cpu/",
+            "description": "Going to keep this short and sweet I got a hold of an old desktop threw in some new ddr3 ram and an ssd and its running fairly well When i tried running a server it was working okay but the cpu kept falling behind all i know is that..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "What main server OS should we use (Paid or free)",
+            "link": "https://www.reddit.com/r/servers/comments/1j0488x/what_main_server_os_should_we_use_paid_or_free/",
+            "description": "Dear community We are going to build our first server for our company with the following configuration Gigabyte TRX50 AI TOP AMD Ryzen Threadripper 7980X Corsair WS 256GB KIT DDR5 5600MHz 32 TB Raid 5 storage Our usage will be divided into two parts We have a software development team..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Not too bad",
+            "link": "https://i.redd.it/3p9tov1hdkle1.jpeg",
+            "description": ""
+        },
+        {
+            "subreddit": "servers",
+            "title": "Supermicro X11DAI-N DIMM error",
+            "link": "https://www.reddit.com/r/servers/comments/1iyv0tt/supermicro_x11dain_dimm_error/",
+            "description": "Hi all I have a Supermicro X11DAI N motherboard that I am getting a DIMM error on boot I ve tested the ram and the ram is fine This is happening on two different boards I can t figure out what is causing it P1 DIMMD1 DIMM Receive Enable training..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Graphics Card compatible with Dell PowerEdge T360",
+            "link": "https://www.reddit.com/r/servers/comments/1iyq1zf/graphics_card_compatible_with_dell_poweredge_t360/",
+            "description": "I would like to add a graphics card solely to connect multiple monitors to the server. Any recommendations?"
+        },
+        {
+            "subreddit": "servers",
+            "title": "RAID 5 Virtual Drive Offline \u2013 Need Help Recovering!",
+            "link": "https://www.reddit.com/r/servers/comments/1iymahk/raid_5_virtual_drive_offline_need_help_recovering/",
+            "description": "Hey everyone I am new to server administration and hope I get some help here I m dealing with a RAID 5 issue on a MegaRAID controller and my Virtual Drive VD is offline This is my setup RAID Level Primary 5 Secondary 0 Qualifier 3 Controller LSI MegaRAID Drives..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Patching the HighPoint Rocket 750 Driver for Linux 6.8 (Because I Refuse to Spend More Money)",
+            "link": "https://www.reddit.com/r/servers/comments/1iymjmf/patching_the_highpoint_rocket_750_driver_for/",
+            "description": "Alright so here s the deal I bought a 45 Drives 60 bay server from some guy on Facebook Marketplace Absolute monster of a machine I love it I want to use it But there s a problem I use Unraid Unraid is currently at version 7 which means it..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "HP SmartArray P822 - Self-test failure (cmd = 0h, err = 00h, lockup = 0DEAD: DEADh)",
+            "link": "https://www.reddit.com/r/servers/comments/1iy13cb/hp_smartarray_p822_selftest_failure_cmd_0h_err/",
+            "description": "I m having some issues to make my P822 working I ve changed the FBWC capacitor which was notified me was faulty I ve also changed the FBWC module with a 1GB one 633542 001 The capacitor is a 654873 003 one After installing it the LED3 blinks for a..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Network server help needed",
+            "link": "https://www.reddit.com/gallery/1ixrj13",
+            "description": "Hello I recently came across a bunch of servers hubs and miscellaneous other techi I can't identify. I'm hoping someone on here can help point me in the right direction to selling it. All legitimate and not stolen."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Officer Server AMD Display Driver Timeout",
+            "link": "https://www.reddit.com/r/servers/comments/1ixo0i0/officer_server_amd_display_driver_timeout/",
+            "description": "Hey I have a PC in my office acting as a server for RDP AMD Ruzen 9 7900X Mobo MSI PRO B650M P MS 7E27 Ram 64GB PSU MWE750 Bronze V2 230V The issue I m facing is AMD DRIVERS TIME OUT It just hangs on my screen everything went..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "server build",
+            "link": "https://www.reddit.com/r/servers/comments/1ixjsh2/server_build/",
+            "description": "hello my brother asked me for help to save money but I am not server expert only gaming build these are the parts of the quote he received server tower hpe ml110 gen11 xeon b 1 8ghz 8 core 128gb ddr5 4800 2x 1 92tb ssd raid 1 controller raid..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "How to add 3.5\" drives to Dell R620?",
+            "link": "https://www.reddit.com/r/servers/comments/1ixhm4l/how_to_add_35_drives_to_dell_r620/",
+            "description": "Hi all I have a Dell R620 server with 8x2 5 bay FP I m not using any of them instead I am using 2x NVMe on PCI E adapters How can I add 3 5 drives to it I need quite a lot of storage for a new project..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Need suggestions for a high mount 2nd UPS dedicated for networking gear only",
+            "link": "https://i.redd.it/odmjh7d6d5le1.jpeg",
+            "description": "The UPS will be mounted high so I need to take that into account In of Linus s videos they showed a UPS that doesn t weigh a lot maybe that s an option Would appreciate suggestions While I write it maybe I should put the 2nd UPS above the..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Hight fan speeds after installing a new gpu",
+            "link": "https://www.reddit.com/r/servers/comments/1ix1wki/hight_fan_speeds_after_installing_a_new_gpu/",
+            "description": "Hi, I just installed a gt710 in my Dell t360 server but after that the server's fan is always at high speeds and the noise is unbearable, why is that?"
+        },
+        {
+            "subreddit": "servers",
+            "title": "Dell Precision T5500 as Home Server",
+            "link": "https://www.reddit.com/r/servers/comments/1iwzwq8/dell_precision_t5500_as_home_server/",
+            "description": "Hi I have a Dell Precision T5500 with 32GB DDR3 RAM I wanted to use it as home server using windows server 2012 My scope is to create 3 VM 1 DVR 2 Home weather control 3 generic stuff I used to have an old Dell Powerdge R610 but the..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Looking to host my family archive (needs: video streaming, file sharing, user management, ease of use, redundancy)",
+            "link": "https://www.reddit.com/r/servers/comments/1iwndyj/looking_to_host_my_family_archive_needs_video/",
+            "description": "I m relatively new to building servers PCs in general I have not touched any of the hardware or software mentioned so please correct me or suggest alternatives if you can think of any But I d like to start by building my family a server that hosts the following..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Reset idrac on Dell poweredge r420",
+            "link": "https://www.reddit.com/r/servers/comments/1iwlekn/reset_idrac_on_dell_poweredge_r420/",
+            "description": "Reset idrac on Dell poweredge r420 Hey everyone I got a dell poweredge r420 Gifted to me Now I have the problem that i don t have a screen so that i can connect it to it to reset the idrac and ssh I tried pressing the info button for..."
+        },
+        {
+            "subreddit": "servers",
+            "title": "Can a GT710 work in a Dell Power Edge T360?",
+            "link": "https://www.reddit.com/r/servers/comments/1iw8rig/can_a_gt710_work_in_a_dell_power_edge_t360/",
+            "description": "Hi, i have an old GT710 4GB and i wanted to know if it's ok to put inside a Dell T360 just for basic display output, ( the T360 is running windows server 2022 and it is just running an ERP system for the small company I work for )"
         }
     ],
     "devto": [

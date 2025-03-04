@@ -28,6 +28,8 @@
         "r/haskell",
         "r/cobol",
         "r/fsharp",
-        "r/csharp"
+        "r/csharp",
+        "r/servers"
+
     ]
   }

@@ -1,7 +1,6 @@
 import requests
 import json
 import re
-import os
 import xml.etree.ElementTree as ET
 
 # Chemin du fichier de configuration local
