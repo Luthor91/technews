@@ -1,6 +1,86 @@
 {
     "hackernews": [
         {
+            "title": "The beigeness, or how to kill people with bad writing: the Scott Alexander metho",
+            "link": "https://www.eruditorumpress.com/blog/the-beigeness-or-how-to-kill-people-with-bad-writing-the-scott-alexander-method",
+            "description": "No Description"
+        },
+        {
+            "title": "Tailscale Is Pretty Useful",
+            "link": "https://blog.6nok.org/tailscale-is-pretty-useful/",
+            "description": "No Description"
+        },
+        {
+            "title": "Grok satirises the Hacker News front page",
+            "link": "https://grok.com/share/bGVnYWN5_5a484c29-ec2d-47e1-977e-c3000ab5f223",
+            "description": "No Description"
+        },
+        {
+            "title": "Show HN: Personalized Astrology App for iOS",
+            "link": "https://celestiahq.com/",
+            "description": "No Description"
+        },
+        {
+            "title": "Microsoft signed a dodgy driver and now ransomware scum are exploiting it",
+            "link": "https://www.theregister.com/2025/03/04/paragon_partition_manager_ransomware_driver/",
+            "description": "No Description"
+        },
+        {
+            "title": "White Sands NM: Linear traces, human footprints, transport technology evidence?",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666033425000103",
+            "description": "No Description"
+        },
+        {
+            "title": "Cloudflare's bot bouncer blocks weirdo browsers",
+            "link": "https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/",
+            "description": "No Description"
+        },
+        {
+            "title": "Proof of Thoughtfulness",
+            "link": "https://robmoore.tech/post/proof-of-thoughtfulness",
+            "description": "No Description"
+        },
+        {
+            "title": "Vibe Coding a Full Game (AI Coding) [video]",
+            "link": "https://www.youtube.com/watch?v=ulJrdYXLo9I",
+            "description": "No Description"
+        },
+        {
+            "title": "What it's like to be (highly-skilled female) immigrant",
+            "link": "https://aneichyk.medium.com/what-its-like-to-be-highly-skilled-female-immigrant-35ec2bc06a25",
+            "description": "No Description"
+        },
+        {
+            "title": "I built a Chrome extension for bolt.new, with bolt",
+            "link": "https://superchargebolt.com",
+            "description": "No Description"
+        },
+        {
+            "title": "Tesla charging stations torched in arson near Boston, latest attack on Elon Musk",
+            "link": "https://www.nbcnews.com/news/us-news/tesla-charging-stations-torched-apparent-arson-boston-latest-attack-el-rcna194692",
+            "description": "No Description"
+        },
+        {
+            "title": "Hilbert's Sixth Problem Resolved",
+            "link": "https://arxiv.org/abs/2503.01800",
+            "description": "No Description"
+        },
+        {
+            "title": "Scientists decode diet from stool DNA, no questions asked",
+            "link": "https://medicalxpress.com/news/2025-02-scientists-decode-diet-stool-dna.html",
+            "description": "No Description"
+        },
+        {
+            "title": "Grok-3-Preview-02-24 tops lmarena Leaderboard; GPT-4.5-Preview within 95% CI",
+            "link": "https://lmarena.ai/?leaderboard",
+            "description": "No Description"
+        },
+        {
+            "title": "Internet Census 2012 (Carna botnet)",
+            "link": "https://census2012.sourceforge.net/paper.html",
+            "description": "No Description"
+        },
+        {
             "title": "Pion Stun: Go Implementation of Stun",
             "link": "https://github.com/pion/stun",
             "description": "No Description"
@@ -46,11 +126,6 @@
             "description": "No Description"
         },
         {
-            "title": "Some D0g3 Staffers Are Drawing Six-Figure Government Salaries",
-            "link": "https://www.wired.com/story/doge-government-salaries-elon-musk/",
-            "description": "No Description"
-        },
-        {
             "title": "Introducing The CL1 the first code deployable biological computer",
             "link": "https://corticallabs.com/cl1.html",
             "description": "No Description"
@@ -73,71 +148,6 @@
         {
             "title": "Goodreads to Storygraph book sync \u2013 a Python script",
             "link": "https://cruftbox.com/2025/03/03/goodreads-to-storygraph-sync/",
-            "description": "No Description"
-        },
-        {
-            "title": "Show HN: ArchGW \u2013 An open-source intelligent proxy server for prompts",
-            "link": "https://github.com/katanemo/archgw",
-            "description": "Hi HN This is Salman Adil Shuguang and Co working on ArchGW 1 an open source lightweight proxy server for prompts written in Rust and built on top of Envoy 2 Arch moves the critical but pesky handling and processing of prompts task understanding prompt routing safety and observability outside..."
-        },
-        {
-            "title": "Firefox: Use the sidebar to access tools and vertical tabs",
-            "link": "https://support.mozilla.org/en-US/kb/use-sidebar-access-tools-and-vertical-tabs",
-            "description": "No Description"
-        },
-        {
-            "title": "OpenCore v1.0.4 hackintosh bootloader released",
-            "link": "https://old.reddit.com/r/hackintosh/comments/1j395o0/opencore_v104_is_out/",
-            "description": "No Description"
-        },
-        {
-            "title": "Woolly mice designed to engineer mammoth-like elephants",
-            "link": "https://www.bbc.co.uk/news/articles/c0jg4n776evo",
-            "description": "No Description"
-        },
-        {
-            "title": "Everything I learnt about the CAN bus from building cars",
-            "link": "https://www.youtube.com/watch?v=nwhzUMIo3pk",
-            "description": "No Description"
-        },
-        {
-            "title": "IMF deal to ban public sector 'Bitcoin accumulation' in El Salvador",
-            "link": "https://cointelegraph.com/news/imf-el-salvador-no-voluntary-bitcoin-accumulation-public-sector",
-            "description": "No Description"
-        },
-        {
-            "title": "BYD to launch 1000V platform with 5C charging in mid-March",
-            "link": "https://carnewschina.com/2025/03/04/byd-to-launch-1000v-platform-with-5c-charging-in-mid-march-report-says/",
-            "description": "No Description"
-        },
-        {
-            "title": "How AI Tools Are Reshaping the Coding Workforce",
-            "link": "https://www.wsj.com/articles/how-ai-tools-are-reshaping-the-coding-workforce-6ad24c86",
-            "description": "No Description"
-        },
-        {
-            "title": "20k-year-old evidence of ancient 'vehicles' discovered in New Mexico",
-            "link": "https://www.livescience.com/archaeology/20-000-year-old-evidence-of-ancient-vehicles-discovered-in-new-mexico",
-            "description": "No Description"
-        },
-        {
-            "title": "AI: Where in the Loop Should Humans Go?",
-            "link": "https://www.honeycomb.io/blog/ai-where-in-the-loop-should-humans-go",
-            "description": "No Description"
-        },
-        {
-            "title": "Exploring the Wafer-Scale GPUs [pdf]",
-            "link": "https://sarchlab.org/wafer_scale_gpu_gpgpu.pdf",
-            "description": "No Description"
-        },
-        {
-            "title": "Lessons from interviewing with 46 AI startups (way too many)",
-            "link": "https://janvikalra.substack.com/p/dont-be-fooled-antimetrics-and-why-hypergrowth",
-            "description": "No Description"
-        },
-        {
-            "title": "Maintaining CI Is a Pain in The",
-            "link": "https://www.polymonster.co.uk/blog/ci-pain",
             "description": "No Description"
         }
     ],
@@ -504,6 +514,12 @@
         },
         {
             "subreddit": "rust",
+            "title": "Take a break: Rust match has fallthrough",
+            "link": "https://huonw.github.io/blog/2025/03/rust-fallthrough/",
+            "description": ""
+        },
+        {
+            "subreddit": "rust",
             "title": "rust + askama instead of node / Laravel for small projects wdyt ?",
             "link": "https://www.reddit.com/r/rust/comments/1j3li3i/rust_askama_instead_of_node_laravel_for_small/",
             "description": ""
@@ -677,10 +693,10 @@
             "description": "Hello all I am trying to build a Solana Token Launchpad and keep running into this same error when attempting to anchor build error custom attribute panicked gt programs bonding _curve src lib rs 6 1 6 program help message Safety checks failed Failed to get program path I cannot..."
         },
         {
-            "subreddit": "rust",
-            "title": "Shorthand for complex trait conditions",
-            "link": "https://www.reddit.com/r/rust/comments/1j2v387/shorthand_for_complex_trait_conditions/",
-            "description": "Say you have a trait that should handle a brought range of types and therefore has a lengthy where clause in either or both the trait and individual functions When implementing such trait one needs to copy large parts of the where clauses if the implementation keeps the generics brought..."
+            "subreddit": "golang",
+            "title": "How often update Go?",
+            "link": "https://www.reddit.com/r/golang/comments/1j3m7r5/how_often_update_go/",
+            "description": "After reading information about new Go update How often it should be updated It is risky update if any new version is available or it is safe it I use 1 x and update to 1 y or it should be only update to 1 x a to 1 x..."
         },
         {
             "subreddit": "golang",
@@ -855,12 +871,6 @@
             "title": "Building an IP Address Manager in Go",
             "link": "https://themsaid.com/building-an-ip-address-manager-in-go",
             "description": ""
-        },
-        {
-            "subreddit": "golang",
-            "title": "DHCPv4 server, WIP",
-            "link": "https://www.reddit.com/r/golang/comments/1j23gwo/dhcpv4_server_wip/",
-            "description": "I recently started working on a dhcpv4 encoding decoding package in Go from scratch I ve been reading a lot of RFC s and have been having a lot of fun Here are some of the things I ve implemented Basic message encoding decoding An interface for building dhcp options..."
         },
         {
             "subreddit": "python",
@@ -2124,6 +2134,18 @@
         },
         {
             "subreddit": "devops",
+            "title": "here is how my DevOps career started and I am happy about it",
+            "link": "https://www.reddit.com/r/devops/comments/1j3mf5f/here_is_how_my_devops_career_started_and_i_am/",
+            "description": "Hello I will write down how my DevOps career started It will be a bit long but I hope it will give encourage to a person I have studied mechanical engineering in Turkey as a Turkish D but I was always craving something about software I was studying away from..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "What are your build and deploy pipelines like for database migration? Do you use a tool like SSDT, flyway or Liquibase?",
+            "link": "https://www.reddit.com/r/devops/comments/1j3mdfd/what_are_your_build_and_deploy_pipelines_like_for/",
+            "description": "My company is deciding on their CICD tools Right now they re choosing between flyway and SSDT We re SQL Server only My experience is either hand coded deployment scripts or something only slightly fancier A coworker wrote 2 powershell scripts a build script and a deploy script The build..."
+        },
+        {
+            "subreddit": "devops",
             "title": "AWS Cloud Practitioner Or AWS Professional DevOps Engineer",
             "link": "https://www.reddit.com/r/devops/comments/1j3k6il/aws_cloud_practitioner_or_aws_professional_devops/",
             "description": "im a web developer and looking to land a devops role which certificate is more suitable as someone whos new to the field 2 years of devops experience is recommended for the professional DevOps certificate so i dont know if im gonna be able to pass it or even meaningful..."
@@ -2289,18 +2311,6 @@
             "title": "MySQL Docker container not allowing external root connections despite MYSQL_ROOT_HOST=\"%\"",
             "link": "/r/docker/comments/1j2q3rh/mysql_docker_container_not_allowing_external_root/",
             "description": ""
-        },
-        {
-            "subreddit": "devops",
-            "title": "metrics for self service infrastructure adoption?",
-            "link": "https://www.reddit.com/r/devops/comments/1j2pz0u/metrics_for_self_service_infrastructure_adoption/",
-            "description": "What metrics would you use to measure success of a self service infrastructure effort Here is what I have sort of adopted from Dora Lead Time for Infra Changes Drift Frequency how often are console tweaks happening Change Failure Rate Self Service Rate Self service rate being what percentage of..."
-        },
-        {
-            "subreddit": "devops",
-            "title": "Terraform VS Pulumi",
-            "link": "https://www.reddit.com/r/devops/comments/1j2orns/terraform_vs_pulumi/",
-            "description": "[https://youtu.be/he5u-0Q-ckM?si=RJd2o4ntGl-fyRIp](https://youtu.be/he5u-0Q-ckM?si=RJd2o4ntGl-fyRIp)"
         },
         {
             "subreddit": "cloud",
@@ -2670,12 +2680,6 @@
         },
         {
             "subreddit": "webdev",
-            "title": "I Built a Typescript LLM Framework in 179 Lines\u2014Why Are the Others So Bloated? \ud83e\udd2f",
-            "link": "https://www.reddit.com/r/webdev/comments/1j3l7ey/i_built_a_typescript_llm_framework_in_179/",
-            "description": "Every LLM framework we looked at felt unnecessarily complex massive dependencies vendor lock in and features I d never use So we set out to see How simple can an LLM framework actually be Rep o PocketFlow https github com The Pocket World Pocket Flow Framework Here s Why We..."
-        },
-        {
-            "subreddit": "webdev",
             "title": "project planning recommendations",
             "link": "https://www.reddit.com/r/webdev/comments/1j3l6ix/project_planning_recommendations/",
             "description": "Hey I am looking for project planning and structuring resources Not focused on project managment but rather the steps to create an understandable roadmap and timeline on a project I have developed a self thought process based on just what has worked for me but since I have been getting..."
@@ -2841,6 +2845,12 @@
             "title": "Newbie Here! Any apps out there to help visualize your code? As in how one code is related to another or might affect it?",
             "link": "https://www.reddit.com/r/webdev/comments/1j3dts7/newbie_here_any_apps_out_there_to_help_visualize/",
             "description": "as the title says, a newbie here (been at it for only 3 months) and I'm losing track of the relationships between my different codes."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Do you use express-session or JWT with cookies for your projects?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j3dm91/do_you_use_expresssession_or_jwt_with_cookies_for/",
+            "description": "And why?"
         }
     ],
     "devto": [
