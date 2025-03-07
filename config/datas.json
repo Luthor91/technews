@@ -1,157 +1,169 @@
 {
     "hackernews": [
         {
-            "title": "Donald Trump expected to sign executive order to dismantle Education Department",
-            "link": "https://thehill.com/homenews/education/5179618-donald-trump-linda-mcmahon-dismantle-education-department/",
+            "title": "Ubuntu Foundations 25.04 \u2013 Plucky Puffin progress",
+            "link": "https://discourse.ubuntu.com/t/ubuntu-foundations-25-04-plucky-puffin-progress/56635",
             "description": "No Description"
         },
         {
-            "title": "Manus AI Future AI Agents",
-            "link": "https://manusai.ai/",
+            "title": "Trump administration cancels $400M in grants for Columbia University",
+            "link": "https://www.nbcnews.com/politics/politics-news/trump-administration-cancels-400-million-grants-columbia-university-rcna195373",
             "description": "No Description"
         },
         {
-            "title": "Jack Daniel's says Canada pulling US alcohol off shelves 'worse than tariff'",
-            "link": "https://www.reuters.com/business/retail-consumer/brown-forman-misses-quarterly-sales-estimates-muted-spirits-demand-2025-03-05/",
+            "title": "Two weak spots in Big Tech economics",
+            "link": "https://pluralistic.net/2025/03/06/privacy-last/",
             "description": "No Description"
         },
         {
-            "title": "Nintendo Easily Kills 4,238 Switch Emu Repos on Yuzu Lawsuit Anniversary",
-            "link": "https://torrentfreak.com/nintendo-easily-kills-4238-switch-emu-repos-on-yuzu-lawsuit-anniversary-250305/",
+            "title": "Show HN: Ming-wm: A 100% keyboard-operated desktop environment in Rust",
+            "link": "https://github.com/stjet/ming-wm",
             "description": "No Description"
         },
         {
-            "title": "Research: Whistleblowing Is More Common When CEOs Are Overpaid",
-            "link": "https://hbr.org/2025/03/research-whistleblowing-is-more-common-when-ceos-are-overpaid",
+            "title": "Impact of 8 lifestyle factors on mortality and life expectancy among US veterans",
+            "link": "https://www.sciencedirect.com/science/article/pii/S000291652366280X",
             "description": "No Description"
         },
         {
-            "title": "Do We Age Steadily, or in Bursts?",
-            "link": "https://www.nytimes.com/2025/03/06/well/nonlinear-aging.html",
+            "title": "Traffickers in Colombia Are Using Facebook, Tinder and Airbnb to Exploit Minors",
+            "link": "https://www.bloomberg.com/news/features/2025-03-03/facebook-tinder-airbnb-apps-are-used-for-sex-trafficking-in-colombia",
             "description": "No Description"
         },
         {
-            "title": "Alma Observations of Peculiar Embedded Icy Objects",
-            "link": "https://iopscience.iop.org/article/10.3847/1538-4357/ada4ad",
+            "title": "Apple Is Delaying the 'More Personalized Siri' Apple Intelligence Features",
+            "link": "https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features",
             "description": "No Description"
         },
         {
-            "title": "DB Usability: As If",
-            "link": "https://alarmingdevelopment.org/?p=1821",
+            "title": "YouTube at 20: How the Video Colossus Launched the Creator Economy",
+            "link": "https://variety.com/2025/digital/news/youtube-20th-anniversary-sean-evans-hollywood-1236327520/",
             "description": "No Description"
         },
         {
-            "title": "The quantum processor that redefines computing speed",
-            "link": "https://www.techexplorist.com/new-superconducting-quantum-processor-outpaces-worlds-fastest-supercomputer-by-quadrillions/97391/",
+            "title": "Microsoft is plotting a future without OpenAI",
+            "link": "https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/",
             "description": "No Description"
         },
         {
-            "title": "Enhancing the Dictation Feature with Conformer-Based Speech Recognition",
-            "link": "https://medium.com/doctolib/enhancing-the-dictation-feature-with-conformer-based-speech-recognition-84c7cae2f267",
+            "title": "Interns and Residents Are Unionizing at a Rapid Clip",
+            "link": "https://jacobin.com/2025/02/interns-residents-union-seiu-cir/",
             "description": "No Description"
         },
         {
-            "title": "Interview Coder: an invisible AI to solve any coding problem",
-            "link": "https://www.interviewcoder.co/",
+            "title": "Show HN: LLM-Mafia-Game: AI Models Competing in Mafia Matches",
+            "link": "https://github.com/guzus/llm-mafia-game",
             "description": "No Description"
         },
         {
-            "title": "Postmillennialism",
-            "link": "https://en.wikipedia.org/wiki/Postmillennialism",
+            "title": "Extracting time series features: a powerful method from a obscure paper [pdf]",
+            "link": "https://rcin.org.pl/ippt/Content/117114/PDF/WA727_91599_P.262b-Van-Atta-Effect.pdf",
             "description": "No Description"
         },
         {
-            "title": "Job Cuts Surge on Doge Actions, Retail Woes; Highest Monthly Total Since 2020",
-            "link": "https://www.challengergray.com/blog/job-cuts-surge-on-doge-actions-retail-woes-highest-monthly-total-since-july-2020/",
+            "title": "WB offers replacements, but no refunds, for DVDs rotting prematurely",
+            "link": "https://arstechnica.com/gadgets/2025/03/they-curdle-like-milk-wb-dvds-from-2006-2008-are-rotting-away-in-their-cases/",
             "description": "No Description"
         },
         {
-            "title": "A year later, OpenAI still hasn't released its voice cloning tool",
-            "link": "https://techcrunch.com/2025/03/06/a-year-later-openai-still-hasnt-released-its-voice-cloning-tool/",
+            "title": "Show HN: Practice Languages with AI Characters",
+            "link": "https://kata.chat/",
+            "description": "I struggle with actually speaking to people in languages I x27 m learning and as a result I don x27 t practice it much and don x27 t get better at it p So I built an AI platform to let me practice it without feeling nervous x2F embarrassed x2F..."
+        },
+        {
+            "title": "Juggernaut Pro Flux",
+            "link": "https://runware.ai/blog/juggernaut-pro-flux-the-best-ai-image-generation-model-for-photorealistic-quality",
             "description": "No Description"
         },
         {
-            "title": "Show HN: LLMs Playing Mafia games \u2013 See them lie, deceive, and reason",
-            "link": "https://mafia.opennumbers.xyz/",
+            "title": "Lessons from implementing the Hurl programming language",
+            "link": "https://ntietz.com/blog/lessons-from-implementing-hurl/",
             "description": "No Description"
         },
         {
-            "title": "Seamless and Traceable Requirements",
-            "link": "https://bertrandmeyer.com/2025/03/03/new-preprint-seamless-and-traceable-requirements/",
+            "title": "License to Shill: Inside Amazon's 007 Takeover, Impact on Future of James Bond",
+            "link": "https://www.hollywoodreporter.com/movies/movie-features/amazon-007-takeover-impact-future-james-bond-1236155844/",
             "description": "No Description"
         },
         {
-            "title": "Tips on Extensible and Maintainable Components",
-            "link": "https://piccalil.li/blog/tips-on-extensible-and-maintainable-components/",
+            "title": "Show HN: Ask AI Paul Graham (Open Sourced)",
+            "link": "https://github.com/AI-Paul-Graham/Tutorial-YC-Partner",
             "description": "No Description"
         },
         {
-            "title": "Evaluating Intelligence via Trial and Error",
-            "link": "https://arxiv.org/abs/2502.18858",
+            "title": "Kagi begins development of Orion Browser for Linux",
+            "link": "https://kagi.com/changelog",
             "description": "No Description"
         },
         {
-            "title": "Time-Lock Encryption",
-            "link": "https://gwern.net/self-decrypting",
+            "title": "Show HN: Grandmaster AI Agent \u2013 An AI Chess Coach That Thinks Like a GM",
+            "link": "https://www.loom.com/share/a085eb92a05540739cf5151c747196c4?sid=3d78f445-5a66-4551-a3ef-a8581de261b5",
+            "description": "I x27 m a passionate chess player bullet rating around 2700 and AI builder I ve been working on an AI powered chess coach that teaches like a Grandmaster p Instead of just showing raw engine evals this Chess Agent p Detects critical moments Spots the 3 biggest game changers..."
+        },
+        {
+            "title": "Hardware Discovery: ACPI and Device Tree",
+            "link": "https://blogsystem5.substack.com/p/hardware-autoconfiguration",
             "description": "No Description"
         },
         {
-            "title": "Handicap Principle",
-            "link": "https://en.wikipedia.org/wiki/Handicap_principle",
+            "title": "Palantir Is Delivering AI-Laden Trucks to the US Army",
+            "link": "https://www.bloomberg.com/news/articles/2025-03-07/palantir-is-delivering-mobile-ai-trucks-to-the-army",
             "description": "No Description"
         },
         {
-            "title": "Doge plans to cut VA contracts may harm veterans' care, employees say",
-            "link": "https://www.nbcnews.com/politics/doge/doge-plans-cut-va-contracts-may-harm-veterans-care-employees-say-rcna191448",
+            "title": "'A pig in lipstick': Trump's strategic Bitcoin reserve criticised",
+            "link": "https://www.bbc.com/news/articles/cqx0g1py5v0o",
             "description": "No Description"
         },
         {
-            "title": "Let's Talk About the American Dream",
-            "link": "https://blog.codinghorror.com/lets-talk-about-the-american-dream/",
+            "title": "How a Connecticut DMV Employee Made Thousands by Selling Towed Cars",
+            "link": "https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars",
             "description": "No Description"
         },
         {
-            "title": "Show HN: We built an AI tool to crawl our SEO articles and find places to update",
-            "link": "https://fresh-seo.com/",
-            "description": "I got tired of spending hours and hours manually inspecting each of our SEO blog posts to find places that we needed to update Fresh SEO now does it for me This tool has already saved me dozens of hours and I ve only had it for two months p..."
-        },
-        {
-            "title": "Testing Causality in Scientific Modelling Software [pdf]",
-            "link": "https://export.arxiv.org/pdf/2209.00357v2.pdf",
+            "title": "First Porn, Now Skin Cream? 'Age Verification' Bills Are Out of Control",
+            "link": "https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control",
             "description": "No Description"
         },
         {
-            "title": "I Used to Teach Students. Now I Catch ChatGPT Cheats",
-            "link": "https://thewalrus.ca/i-used-to-teach-students-now-i-catch-chatgpt-cheats/",
+            "title": "Elite ported from 6502 Assembly to Node and Three.js using Grok3 and Claude 3.7",
+            "link": "https://twitter.com/Eth_Moon_/status/1897635511004434864",
             "description": "No Description"
         },
         {
-            "title": "Show HN: I created a tool to freelancers and SMB save time and WOW their clients",
-            "link": "https://revenew.site/",
-            "description": "As I work creating apps for other people and companies I used to spend a lot of time generating proposals invoices sending emails to clients and answering questions about project progress or justifying the hours spent on each task p To solve this I developed the Revenew app which has..."
-        },
-        {
-            "title": "Watchdog fails to stop big vendor lock-in, say UK cloud market's smaller players",
-            "link": "https://www.theregister.com/2025/03/06/cma_overlooks_factors_hurting_small/",
+            "title": "Cliff Asness: The New 'Crypto Fort Knox' Is as Dumb as It Sounds",
+            "link": "https://www.thefp.com/p/trumps-crypto-fort-knox",
             "description": "No Description"
         },
         {
-            "title": "DuckDuckGo expands AI-assisted answers on its search engine",
-            "link": "https://spreadprivacy.com/ai-feature-upgrade/",
+            "title": "Synthetic Data for Better Machine Learning",
+            "link": "https://www.databricks.com/blog/2023/04/12/synthetic-data-better-machine-learning.html",
             "description": "No Description"
         },
         {
-            "title": "Containers the hard way: Gocker: A mini Docker written in Go",
-            "link": "https://github.com/shuveb/containers-the-hard-way",
+            "title": "Guidelines for Evaluating 'Differential Privacy' Guarantees to De-Identify Data",
+            "link": "https://www.nist.gov/news-events/news/2025/03/nist-finalizes-guidelines-evaluating-differential-privacy-guarantees-de",
             "description": "No Description"
         },
         {
-            "title": "Fix the Biggest Problem of Domain-Driven Design Using Kafka",
-            "link": "https://codely.com/en/blog/fix-the-biggest-problem-of-ddd-using-kafka",
+            "title": "CA5 prohibits broad geofence warrants, thus cell tower dump warrant unreasonable",
+            "link": "https://fourthamendment.com/?p=60271",
             "description": "No Description"
         }
     ],
     "reddit": [
+        {
+            "subreddit": "java",
+            "title": "3 Permanent Features in Java 23",
+            "link": "https://medium.com/itnext/3-permanent-features-in-java-23-17229ee4b8c0?sk=047433c298537f0ae509919e64579ea7",
+            "description": ""
+        },
+        {
+            "subreddit": "java",
+            "title": "Would extension functions be good addition in Java?",
+            "link": "https://www.reddit.com/r/java/comments/1j4tllm/would_extension_functions_be_good_addition_in_java/",
+            "description": "Extension functions are a much better alternative to utility classes because they dramatically improve discoverability since IntelliJ automatically suggests them When working in Java I often added code review comments for developers that were working in an unfamiliar area about the existence of some utility class that would make their..."
+        },
         {
             "subreddit": "java",
             "title": "Restricting plugin code",
@@ -346,32 +358,20 @@
         },
         {
             "subreddit": "javascript",
+            "title": "Neocache is a blazingly fast, minimal Typescript cache library, up to 31% faster than other popular cache libraries.",
+            "link": "https://github.com/Jeanno/neocache",
+            "description": ""
+        },
+        {
+            "subreddit": "javascript",
+            "title": "Goodbye Create React App, Hello TanStack Create React App",
+            "link": "https://thenewstack.io/goodbye-create-react-app-hello-tanstack-create-react-app/",
+            "description": "so i came across this article today talking about how tanstack create react app is positioning itself as the better alternative to CRA obviously we ve all known for a while that CRA has been kinda outdated no native support for things like react server components slow builds and just..."
+        },
+        {
+            "subreddit": "javascript",
             "title": "Protect your website with strong battle proof captcha writing just a few lines of code",
             "link": "https://secure.fileshare.ovh/public-binary.html?w=1f92c8904b8a3a86a60bc9ddf66eff32&amp;id=74a4e642-d880-4b6f-b5ae-cf2edeff9a0e&amp;human-only=true",
-            "description": ""
-        },
-        {
-            "subreddit": "javascript",
-            "title": "9 Powerful Business Software Solutions You Can Build Effortlessly with Adaptus2-Framework",
-            "link": "https://devops7.com/9-powerful-business-software-solutions-you-can-build-effortlessly-with-adaptus2-framework/",
-            "description": ""
-        },
-        {
-            "subreddit": "javascript",
-            "title": "React-EXE | Dynamic React Code Playgrounds Made Easy",
-            "link": "https://github.com/vgulerianb/react-exe",
-            "description": ""
-        },
-        {
-            "subreddit": "javascript",
-            "title": "[AskJS] How to Effectively Use DevTools (Sources, Network, and More) for Pentesting and JS Manipulation",
-            "link": "https://www.reddit.com/r/javascript/comments/1j4lnwu/askjs_how_to_effectively_use_devtools_sources/",
-            "description": "AskJS Hey all I m a pentester looking to level up my DevTools game for analyzing and manipulating JavaScript I want to trace functions from the Sources tab step through them with breakpoints modify values and see frontend changes live Beyond that I d like to leverage the Network tab..."
-        },
-        {
-            "subreddit": "javascript",
-            "title": "How ECMAScript Engines Optimize Your Variables",
-            "link": "https://boajs.dev/blog/2025/03/05/local-variables",
             "description": ""
         },
         {
@@ -507,99 +507,15 @@
             "description": ""
         },
         {
-            "subreddit": "rust",
-            "title": "Dealing with Case-Sensitive Headers (reqwest)",
-            "link": "https://www.reddit.com/r/rust/comments/1j4w653/dealing_with_casesensitive_headers_reqwest/",
-            "description": "I m currently integrating with a third party API that requires case sensitive HTTP headers but HTTP 2 normalizes all headers to lowercase This is causing issues because the API is extremely strict about header casing and I have no control over their requirements What I m trying to do..."
+            "subreddit": "javascript",
+            "title": "Showoff Saturday (March 01, 2025)",
+            "link": "https://www.reddit.com/r/javascript/comments/1j0ujft/showoff_saturday_march_01_2025/",
+            "description": "Did you find or create something cool this week in javascript?       \n\nShow us here!"
         },
         {
             "subreddit": "rust",
-            "title": "This Month in Redox - February 2025",
-            "link": "https://www.reddit.com/r/rust/comments/1j4v7zl/this_month_in_redox_february_2025/",
-            "description": "FOSDEM, driver and dynamic linking Improvements, new contributors and lots more!\n\nhttps://www.redox-os.org/news/this-month-250228/"
-        },
-        {
-            "subreddit": "rust",
-            "title": "barrels and their textures",
-            "link": "https://www.reddit.com/r/rust/comments/1j4v3dn/barrels_and_their_textures/",
-            "description": "hello everyone i need some help for the loot barrel textures barrels that spawn on the road my asset studio extracts their texture as white but they are suposed to be red blue and yellow if someone have or can redact the texture so it is like in rust can..."
-        },
-        {
-            "subreddit": "rust",
-            "title": "How can I benefit from learning rust",
-            "link": "https://www.reddit.com/r/rust/comments/1j4tguh/how_can_i_benefit_from_learning_rust/",
-            "description": "Been programming for about a month now with Python basics fundamentals aren t perfect Spent the first week doing courses and videos on syntax small lines of methods built in functions to feel the language out Since then I spend a small portion of time doing that and mainly focus..."
-        },
-        {
-            "subreddit": "rust",
-            "title": "[Hiring] Senior Rust Engineer",
-            "link": "https://www.reddit.com/r/rust/comments/1j4s0uj/hiring_senior_rust_engineer/",
-            "description": "We re looking for a Rust Engineer to join our Scalac team By joining you ll be part of our client s project which is a leading technology company specializing in blockchain Must haves Location remote from Europe At least 3 years of experience with the Rust programming language in..."
-        },
-        {
-            "subreddit": "rust",
-            "title": "How to write tests for a rust functions which uses libmdbx as DB?",
-            "link": "https://www.reddit.com/r/rust/comments/1j4qbjv/how_to_write_tests_for_a_rust_functions_which/",
-            "description": "Hi, my Rust project uses libmdbx as DB, and I need to write test cases for the functions that make database operations. So what is the best approach here?"
-        },
-        {
-            "subreddit": "rust",
-            "title": "Training a Smol Rust 1.5B Coder LLM with Reinforcement Learning (GRPO)",
-            "link": "https://www.reddit.com/r/rust/comments/1j4obgi/training_a_smol_rust_15b_coder_llm_with/",
-            "description": "Hey all Thought this subreddit might find this work interesting want to chip in I m working training some small language models specifically for Rust I m mainly curious how small a of a language model can be used productively with Rust GRPO is one of the techniques used in..."
-        },
-        {
-            "subreddit": "rust",
-            "title": "Polars Rust to Cpp arrow",
-            "link": "https://www.reddit.com/r/rust/comments/1j4npl9/polars_rust_to_cpp_arrow/",
-            "description": "I am working with Arrow tables in cpp when i encountered having rust polars as backend for joins and groupbys was better (+lazy ofc) , cant figure out a way to ffi the dataframe from polars to cpp arrow table !"
-        },
-        {
-            "subreddit": "rust",
-            "title": "[Media] Cardioid Simulation in Rust + Macroquad (Repost)",
-            "link": "https://i.redd.it/7iezugolvzme1.jpeg",
-            "description": "Hello there This is a repost from my previous one after I realized the screenshot wouldn t show up I ve been learning Rust for a few months now on and off and earlier this week I finished my first simple project a cardioid simulation using Rust and Macroquad I..."
-        },
-        {
-            "subreddit": "rust",
-            "title": "Learning to write Idiomatic and Async Rust",
-            "link": "https://www.reddit.com/r/rust/comments/1j4lyhm/learning_to_write_idiomatic_and_async_rust/",
-            "description": "Hi everyone i just finished the rust programming language book and started on some personal projects to improve Something i think about often is whether I am writing idiomatic rust I come from an OOP background mostly developing in Python Ruby Java etc so this isnt as intuitive for me..."
-        },
-        {
-            "subreddit": "rust",
-            "title": "filtra.io | Rewriting CAD in Rust",
-            "link": "https://filtra.io/rust/interviews/kittycad-nov-23",
-            "description": ""
-        },
-        {
-            "subreddit": "rust",
-            "title": "Any resources for learning data structures and algorithms specifically designed with answers written in Rust?",
-            "link": "https://www.reddit.com/r/rust/comments/1j4jbog/any_resources_for_learning_data_structures_and/",
-            "description": "Any resources for learning data structures and algorithms specifically designed with answers written in Rust?"
-        },
-        {
-            "subreddit": "rust",
-            "title": "I don't understand why cargo is looking for pearl",
-            "link": "https://www.reddit.com/r/rust/comments/1j4hedj/i_dont_understand_why_cargo_is_looking_for_pearl/",
-            "description": "https://preview.redd.it/yabt39negyme1.png?width=1910&amp;format=png&amp;auto=webp&amp;s=333d6a42776b23e7d54d12daa8fbd739e14b1198\n\nI was trying to check how to use \n\n\\`\\`\\`  \n\\[dependencies\\]\n\ntalib = \"0.1.2\"\n\npolars = \"0.46.0\"  \n\\`\\`\\`\n\nit seems cargo is looking for pearl should I install it to fix my console error"
-        },
-        {
-            "subreddit": "rust",
-            "title": "Inferred const generic arguments: Call for Testing! | Inside Rust Blog",
-            "link": "https://blog.rust-lang.org/inside-rust/2025/03/05/inferred-const-generic-arguments.html",
-            "description": ""
-        },
-        {
-            "subreddit": "rust",
-            "title": "TrailBase 0.7: Open, sub-millisecond, single-executable FireBase alternative built with Rust, SQLite &amp; V8 \ud83d\ude80",
-            "link": "https://www.reddit.com/r/rust/comments/1j4el79/trailbase_07_open_submillisecond_singleexecutable/",
-            "description": "Admin UI Table Browser amp Logs https preview redd it cdzv31mtvxme1 png width 1665 amp format png amp auto webp amp s d47daab55f71eb92b526518b116c5baf94b2a0b8 TrailBase https github com trailbaseio trailbase is an easy to self host sub millisecond single executable FireBase alternative It provides type safe REST and realtime APIs a..."
-        },
-        {
-            "subreddit": "rust",
-            "title": "How ECMAScript Engines Optimize Your Variables",
-            "link": "https://boajs.dev/blog/2025/03/05/local-variables",
+            "title": "Understanding Merkle Trees in Blockchain",
+            "link": "https://medium.com/@blockchain101_ishere/understanding-merkle-trees-in-blockchain-dadc6fc79320",
             "description": ""
         },
         {
@@ -619,6 +535,12 @@
             "title": "my attempt to code a nonzero macro... will I go straight to macro jail?",
             "link": "https://www.reddit.com/r/rust/comments/1j5uwxd/my_attempt_to_code_a_nonzero_macro_will_i_go/",
             "description": "DISCLAIMER It s more of a recreational project than something I d use in production Don t ask me Do you truly need it The answer is no So I was happily programming in rust and boom I needed to work with NonZero numbers and it felt wrong to waste..."
+        },
+        {
+            "subreddit": "rust",
+            "title": "About a formal proof of the memory safety model \"ownership and borrowing\"",
+            "link": "https://www.reddit.com/r/rust/comments/1j5rp3c/about_a_formal_proof_of_the_memory_safety_model/",
+            "description": "https habrastorage org webt r0 44 qn r044qndwx0l5lnsquxmen8blfic jpeg Some time ago I tried to find a formal proof of safe memory management implemented in Rust but I couldn t find it After that I got the impression that there is no formal proof at all and the whole concept..."
         },
         {
             "subreddit": "rust",
@@ -687,94 +609,88 @@
             "description": "    $ du -sh ~/.cargo/registry/src/* \n                                                                                                                                                                                                   \n    19G .cargo/registry/src/github.com-1ecc6299db9ec823\n    417M .cargo/registry/src/index.crates.io-1949cf8c6b5b557f\n    46G .cargo/registry/src/index.crates.io-6f17d22bba15001f"
         },
         {
-            "subreddit": "golang",
-            "title": "Need help testing a RabbitMQ client",
-            "link": "https://www.reddit.com/r/golang/comments/1j4vy2q/need_help_testing_a_rabbitmq_client/",
-            "description": "I ve previously posted here an open source library I worked on It s a RabbitMQ wrapper that offers high level apis and provides robust mechanisms to handle re connections and automatism One of the biggest feedback I had is the need to have tests to prove that the client..."
+            "subreddit": "rust",
+            "title": "Switching from Elixir to Rust",
+            "link": "https://www.reddit.com/r/rust/comments/1j5jwxx/switching_from_elixir_to_rust/",
+            "description": "Hi I ve been doing Elixir for 5 years did web dev Python before that and ML Python C before that and everything from Prolog to Haskell to C and assembly at uni So kind of 10 ish years professional a masters in comp sci on top of that I..."
         },
         {
-            "subreddit": "golang",
-            "title": "Question about Iris framework",
-            "link": "https://www.reddit.com/r/golang/comments/1j4v1hh/question_about_iris_framework/",
-            "description": "Hello to all good people of Go I just started learning it i am using Django currently but i wanted to start learning something new and more interesting So as i start to discover content about Go and it s frameworks this Iris framework looks interesting but i didn t..."
-        },
-        {
-            "subreddit": "golang",
-            "title": "kure: CLI password manager with sessions",
-            "link": "https://github.com/GGP1/kure",
+            "subreddit": "rust",
+            "title": "Cargo's missing stability guarantees or how the recent edition can break things in an unexpected way",
+            "link": "https://blog.weiznich.de/blog/cargo-instablity/",
             "description": ""
         },
         {
-            "subreddit": "golang",
-            "title": "How to Avoid Boilerplate When Initializing Repositories, Services, and Handlers in a Large Go Monolith?",
-            "link": "https://www.reddit.com/r/golang/comments/1j4tfe8/how_to_avoid_boilerplate_when_initializing/",
-            "description": "Hey everyone I m a not very experienced go programmer working on a large Go monolith and will end up with 100 repositories Right now I have less than 10 and I m already tired of writing the same initialization lines in main go For every new feature I have..."
+            "subreddit": "rust",
+            "title": "Using Rust, Cranelift and NASA's 10 Rules Together",
+            "link": "https://www.reddit.com/r/rust/comments/1j5izul/using_rust_cranelift_and_nasas_10_rules_together/",
+            "description": "My question is would this be the greatest humanity has to offer currently if the goals were programs with the least crashes least hacker exploits and most performance As far as performance I understand C to be the fastest and rust can already match C s performance with a negligible..."
         },
         {
-            "subreddit": "golang",
-            "title": "How to stream multipart form parts to other servers?",
-            "link": "https://www.reddit.com/r/golang/comments/1j4sjtv/how_to_stream_multipart_form_parts_to_other/",
-            "description": "Title is pretty much what I want to do I have an upload file button which sends a multipart form to my backend I want to process each part as a stream and directly forward the streams of these files to another go server I m having issues where the..."
+            "subreddit": "rust",
+            "title": "Handling \"global\" variables",
+            "link": "https://www.reddit.com/r/rust/comments/1j5f44d/handling_global_variables/",
+            "description": "It s been a while since I ve last programmed and even longer since I last used rust so I m still getting back into the flow of things For rust would it be better to A create a struct with mutable variables that can be refrenced by everything or..."
         },
         {
-            "subreddit": "golang",
-            "title": "What is the best practice to close the channel?",
-            "link": "https://www.reddit.com/r/golang/comments/1j4rg46/what_is_the_best_practice_to_close_the_channel/",
-            "description": "Hi gophers I m pretty new to golang concurrency with channel I have the following code snippet and it s working fine However is it the best practice to stop the channel early when there s error encountered Or should I create another pipeline to check for an error type..."
+            "subreddit": "rust",
+            "title": "Why does tokio::sync:OwnedRwLockWriteGuard&lt;T&gt;: Send require T: Send + Sync?",
+            "link": "https://www.reddit.com/r/rust/comments/1j5d9bk/why_does_tokiosyncownedrwlockwriteguardt_send/",
+            "description": "I notice that OwnedMutexGuard lt T gt Send only requires T Send What s the difference When would it ever be unsafe to send eg an OwnedRwLockWriteGuard lt Cell lt i32 gt gt https docs rs tokio latest tokio sync struct OwnedMutexGuard html impl Send for OwnedMutexGuard 3CT 3E https..."
         },
         {
-            "subreddit": "golang",
-            "title": "Is GC still forced to trigger every 2 minutes when we set GOGC=off?",
-            "link": "https://www.reddit.com/r/golang/comments/1j4r1c3/is_gc_still_forced_to_trigger_every_2_minutes/",
-            "description": "I mean does this still apply when we turn off the GC? [https://github.com/golang/go/blob/016e6ebb4264f4b46e505bb404953cdb410f63f2/src/runtime/proc.go#L5226](https://github.com/golang/go/blob/016e6ebb4264f4b46e505bb404953cdb410f63f2/src/runtime/proc.go#L5226)"
+            "subreddit": "rust",
+            "title": "is there regular , not serverless hosting for rust / axum that can do https for me?",
+            "link": "https://www.reddit.com/r/rust/comments/1j5c5fi/is_there_regular_not_serverless_hosting_for_rust/",
+            "description": ""
         },
         {
-            "subreddit": "golang",
-            "title": "Petrel networking library v0.39 released",
-            "link": "https://www.reddit.com/r/golang/comments/1j4q0rv/petrel_networking_library_v039_released/",
-            "description": "https github com firepear petrel I ll spare you a long intro especially since one of the biggest parts of this release is the new introductory documentation Hopefully anything you might be curious about is now covered in the README I will give you the tagline Like SQLite but for..."
+            "subreddit": "rust",
+            "title": "This Week in Rust #589",
+            "link": "https://this-week-in-rust.org/blog/2025/03/05/this-week-in-rust-589/",
+            "description": ""
         },
         {
-            "subreddit": "golang",
-            "title": "Micro/go-rcache is missing",
-            "link": "https://www.reddit.com/r/golang/comments/1j4mgge/microgorcache_is_missing/",
-            "description": "My project has indirect dependencies to this package and it seems like the [repo](https://www.github.com/micro/go-rcache) is now private. Is there something I can do? "
+            "subreddit": "rust",
+            "title": "Succinct Data Structures - wavelet matrices, FM-indices, and other highly compact data structures (in Rust)",
+            "link": "https://blog.startifact.com/posts/succinct/",
+            "description": ""
         },
         {
-            "subreddit": "golang",
-            "title": "Rock, Paper, Sizzor written in multiple programming languages!",
-            "link": "https://www.reddit.com/r/golang/comments/1j4lz6t/rock_paper_sizzor_written_in_multiple_programming/",
-            "description": "[https://github.com/AlexTheGreat510/rock-paper-sizzor](https://github.com/AlexTheGreat510/rock-paper-sizzor)\n\n**features:**\n\n* scores.\n* quit.\n* reset.\n* help.\n\nwould love to know your opinion on the project!"
+            "subreddit": "rust",
+            "title": "Stabilization report for `#![feature(precise_capturing_in_traits)]`",
+            "link": "https://github.com/rust-lang/rust/pull/138128",
+            "description": ""
         },
         {
-            "subreddit": "golang",
-            "title": "Managing Concurrent gRPC Streams in Go with Sharding",
-            "link": "https://www.reddit.com/r/golang/comments/1j4lyvw/managing_concurrent_grpc_streams_in_go_with/",
-            "description": "Hey folks I recently launched Pushlytic https pushlytic com in beta a real time push platform built with Go which lets you push structured data to mobile clients and soon IoT devices via gRPC without needing WebSockets polling or manual backend setup Thinking about scalability I implemented a sharded approach..."
+            "subreddit": "rust",
+            "title": "Rust builds with sccache and GitHub Actions",
+            "link": "https://www.reddit.com/r/rust/comments/1j56sag/rust_builds_with_sccache_and_github_actions/",
+            "description": "One of my coworkers wrote an article titled \"[Fast Rust builds with sccache and GitHub Actions](https://go.depot.dev/rrustscc).\"\n\nIf you\u2019re dealing with slow Rust compile times, might be worth a read."
         },
         {
-            "subreddit": "golang",
-            "title": "Production ready auth server examples?",
-            "link": "https://www.reddit.com/r/golang/comments/1j4lt7o/production_ready_auth_server_examples/",
-            "description": "Trying to find a production ready example of an auth server has been frustrating Plenty of examples exist our there that immediately proclaim but don t use this in production I m looking to get a better understanding of what a secure auth server looks like that can generate bearer..."
+            "subreddit": "rust",
+            "title": "I made a cryptography tool that encodes secrets as cat and dog sounds",
+            "link": "https://github.com/vxfemboy/purrcrypt",
+            "description": ""
         },
         {
-            "subreddit": "golang",
-            "title": "DB Adapters in go",
-            "link": "https://www.reddit.com/r/golang/comments/1j4hiqy/db_adapters_in_go/",
-            "description": "I m still relatively new to Go about 10 months of experience I ve noticed how challenging it can be to write database mocks and switch between different database implementations in projects I ve already built several adapters using drivers for MongoDB Redis and PostgreSQL along with corresponding mock implementations..."
+            "subreddit": "rust",
+            "title": "NEW Course: Rust Data Engineering &amp; Analytics - Production Ready",
+            "link": "https://www.reddit.com/r/rust/comments/1j55hx4/new_course_rust_data_engineering_analytics/",
+            "description": "Skip the fluff and get straight to building and scheduling production data pipelines in Rust In just 60 minutes you ll learn 1 DataFrame https www linkedin com search results all keywords 23dataframe amp origin HASH_TAG_FROM_FEED operations in Rust for lightning fast data processing 2 Build and schedule automated data..."
         },
         {
-            "subreddit": "golang",
-            "title": "I'm developing this package in Go to estimate LLM costs (fine-tuning and inputs for now)",
-            "link": "https://www.reddit.com/r/golang/comments/1j4gwaj/im_developing_this_package_in_go_to_estimate_llm/",
-            "description": "I am developing this package to help with MLOps/AIOps routines. If anyone wants to contribute, the repository is well documented and ready. If you have any questions, send an issue.\n\n  \nGithub repo: [https://github.com/ju4nv1e1r4/cost-llm-go](https://github.com/ju4nv1e1r4/cost-llm-go)"
+            "subreddit": "rust",
+            "title": "Teaching a kernel to optimize itself through machine learning in a Rust based OS",
+            "link": "https://vekos.org/news/teaching-a-kernel-to-optimize-itself-through-machine-learning",
+            "description": ""
         },
         {
-            "subreddit": "golang",
-            "title": "Learning Resources for writing CLI tools in Go",
-            "link": "https://www.reddit.com/r/golang/comments/1j4fioz/learning_resources_for_writing_cli_tools_in_go/",
-            "description": "Hey i want some learning resources ( free ) for learning about both the internals of the CLI tools like what are they how do they work and what do they do and learning resources for writing the CLI tools in Go"
+            "subreddit": "rust",
+            "title": "Terminal editor similar to MS-DOS Editor written in Rust",
+            "link": "https://www.reddit.com/r/rust/comments/1j532yg/terminal_editor_similar_to_msdos_editor_written/",
+            "description": "Back in the day, I remember using MS-DOS Editor a lot. I could never find another terminal editor like it. It for example had easily intuitive accessible menus, normal key bindings, etc. Just like graphical editor but in the terminal.  "
         },
         {
             "subreddit": "golang",
@@ -867,6 +783,186 @@
             "description": "Why do people say the reflect package should be avoided and considered slow, yet it is widely used in blazingly fast, production-ready packages we all use daily?"
         },
         {
+            "subreddit": "golang",
+            "title": "I built a concurrency queue that might bring some ease to your next go program",
+            "link": "https://www.reddit.com/r/golang/comments/1j5k9g8/i_built_a_concurrency_queue_that_might_bring_some/",
+            "description": "Hello gophers Over the past few days I ve been working on a concurrent queue that can process tasks with a set concurrency limit Each queue maintains a single worker dedicated to handling incoming tasks To simplify the output process I used channels for each job The queue also supports..."
+        },
+        {
+            "subreddit": "golang",
+            "title": "Stacked middleware vs embedded delegation in Go",
+            "link": "https://www.reddit.com/r/golang/comments/1j5k8s4/stacked_middleware_vs_embedded_delegation_in_go/",
+            "description": "Learned a trick to tune mux behavior with embedded delegation. I knew about using embedding to override the methods of the embedded type but had never used it to modify mux behavior. This also composes nicely with middleware.  \n  \n[https://rednafi.com/go/middleware\\_vs\\_delegation/](https://rednafi.com/go/middleware_vs_delegation/) "
+        },
+        {
+            "subreddit": "golang",
+            "title": "Formatting tool to remove unnecessary parenthesis?",
+            "link": "https://www.reddit.com/r/golang/comments/1j5hnby/formatting_tool_to_remove_unnecessary_parenthesis/",
+            "description": "One thing that I find gofmt is lacking is removing unnecessary parenthesis Is there another tool that does that Eg in the line if a b the parenthesis surrounding a are useless and I ld like them removed And this is just one example When refactoring I might naturally have..."
+        },
+        {
+            "subreddit": "golang",
+            "title": "Need help!",
+            "link": "https://www.reddit.com/r/golang/comments/1j5hae6/need_help/",
+            "description": "Did anyone implemented signing using ECDSA(secp256r1) and encryption using ECIES(secp256r1 ?"
+        },
+        {
+            "subreddit": "golang",
+            "title": "Build A Minimal TCP Server In Go",
+            "link": "https://www.reddit.com/r/golang/comments/1j5ed4t/build_a_minimal_tcp_server_in_go/",
+            "description": "I recently wrote an article about setting up a basic TCP server in Go I wanted to explore raw TCP communication which is useful for microservices real time apps and IoT devices Read here https www mejaz in posts build a minimal tcp server in go https www mejaz in..."
+        },
+        {
+            "subreddit": "golang",
+            "title": "Application Errors Running Under AWS ECS",
+            "link": "https://www.reddit.com/r/golang/comments/1j5d1g6/application_errors_running_under_aws_ecs/",
+            "description": "I m running into some problems running go applications under ECS I have Service A that talks to Service B via an ELB Service A uses https to talk to the ELB while service B does not Periodically I ll see context deadline exceeded The particular code initiates calls to..."
+        },
+        {
+            "subreddit": "golang",
+            "title": "350k go routines memory analysis",
+            "link": "https://www.reddit.com/r/golang/comments/1j5adsq/350k_go_routines_memory_analysis/",
+            "description": "Interested in how folks monitor the memory usage when using go routines I have an application that has 100 350k routines running concurrently It consumed 3 8gb of memory I tried using pprof however it does not show what s truly happening and not sure why not It is far..."
+        },
+        {
+            "subreddit": "golang",
+            "title": "Invalid use of internal package",
+            "link": "https://www.reddit.com/r/golang/comments/1j5980f/invalid_use_of_internal_package/",
+            "description": "Hello im working on a project inside the go original repository but i simply cannot solve the Invalid use of internal package error i already tried solution from issues forums and even GPTs solution and none of them works i tried on my desktop using Ubuntu 22 04 wsl and..."
+        },
+        {
+            "subreddit": "golang",
+            "title": "What's up with all the \"MCP\" talk?",
+            "link": "https://www.reddit.com/r/golang/comments/1j55fy1/whats_up_with_all_the_mcp_talk/",
+            "description": "For almost a week I kept seeing MCP MCP MCP all over Twitter At first I thought it was some meme or crypto thing but now I m curious Has anyone here actually worked with an MCP server implementation in Go I know just the basics of MCP and I..."
+        },
+        {
+            "subreddit": "golang",
+            "title": "Different ways of working with SQL Databases in Go",
+            "link": "https://packagemain.tech/p/different-ways-of-working-with-sql?share",
+            "description": ""
+        },
+        {
+            "subreddit": "golang",
+            "title": "Monty Hall Paradox simulator in GO - Quick and interesting project",
+            "link": "https://www.reddit.com/r/golang/comments/1j5463a/monty_hall_paradox_simulator_in_go_quick_and/",
+            "description": "This is a very quick simple project but also a funny and interesting one https github com eleby MontyHallProblemSimulator https github com eleby MontyHallProblemSimulator The Monty Hall Paradox is named after a presenter in a television game Monty Hall offered you to choose between three doors two of which hiding..."
+        },
+        {
+            "subreddit": "golang",
+            "title": "A Holistic View on APIs as an Ecosystem - Gopher Fleece Team",
+            "link": "https://zuplo.com/blog/2025/03/04/holistic-view-of-apis",
+            "description": ""
+        },
+        {
+            "subreddit": "golang",
+            "title": "Running your Go tests in Github Continuous Integration",
+            "link": "https://www.dolthub.com/blog/2025-02-14-simple-github-test-ci-with-go/",
+            "description": ""
+        },
+        {
+            "subreddit": "golang",
+            "title": "Distributed Systems without Raft (part 1)",
+            "link": "https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee",
+            "description": ""
+        },
+        {
+            "subreddit": "golang",
+            "title": "Pagoda v0.20.0: Rapid web-dev starter kit even easier frontend now with Gomponents",
+            "link": "https://www.reddit.com/r/golang/comments/1j4xpyq/pagoda_v0200_rapid_webdev_starter_kit_even_easier/",
+            "description": "It s now been over three years https www reddit com r golang comments rwn5la pagoda_rapid_easy_fullstack_web_development since I first shared Pagoda https github com mikestefanello pagoda a rapid full stack web development starter kit aimed at giving you all of the tools and features needed to quickly and easily build..."
+        },
+        {
+            "subreddit": "python",
+            "title": "ducktools-pytui - A Textual based TUI for managing Python virtual envs and runtimes",
+            "link": "https://www.reddit.com/r/Python/comments/1j5ssq8/ducktoolspytui_a_textual_based_tui_for_managing/",
+            "description": "Source Code and install instructions https github com DavidCEllis ducktools pytui https github com DavidCEllis ducktools pytui This is still in the early stages so apologies if it s a bit rough around the edges or if it fails to launch at all due to something I ve not seen..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Nodeless Desktop Javascript Python - Full Example with save/load states",
+            "link": "https://www.reddit.com/r/Python/comments/1j5spxa/nodeless_desktop_javascript_python_full_example/",
+            "description": "    A windows desktop application framework that seamlessly integrates Python backend with JavaScript frontend using PyQt6 WebView, enabling the development of rich desktop applications without the need for Node.js, NPM and all that jazz.\n    https://github.com/non-npc/Nodeless-Desktop-Javascript-Python\n    "
+        },
+        {
+            "subreddit": "python",
+            "title": "Question for those of  you who have professional careers with Python, as self taught devs",
+            "link": "https://www.reddit.com/r/Python/comments/1j5ru1l/question_for_those_of_you_who_have_professional/",
+            "description": "I know that networking is also a big factor in how people in this position find their first job but I got into a little bit of a comment debate on a youtube video because in the video short I made I basically just talk about a different short where..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Are There Any Tools for Detecting Unhandled Exceptions or Hidden Asynchronous Calls in Python?",
+            "link": "https://www.reddit.com/r/Python/comments/1j5pged/are_there_any_tools_for_detecting_unhandled/",
+            "description": "Title Any Tools to Detect Unhandled Exceptions or Hidden asyncio run Calls in Python Hey Python devs I often struggle with unhandled exceptions and hidden async issues in Python Existing tools mypy pylint pyright help but they don t fully solve these problems 1 Unhandled Exceptions When calling third party..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Rio Hits 100K Downloads &amp; 2K GitHub Stars \u2013 Open Source Python Web Apps",
+            "link": "https://www.reddit.com/r/Python/comments/1j5ofdj/rio_hits_100k_downloads_2k_github_stars_open/",
+            "description": "Hey everyone Over the past 10 months my friends and I created Rio an open source framework to help Python developers build modern web apps without needing HTML CSS or JavaScript Today we re excited to share that Rio surpassed 100 000 downloads and over 2 300 GitHub stars since..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Detecting the Engulfing Pattern Using pandas-ta",
+            "link": "https://www.reddit.com/r/Python/comments/1j5hjsb/detecting_the_engulfing_pattern_using_pandasta/",
+            "description": "a new blog post Detecting the Engulfing Candlestick Pattern in Python In my latest post I break down the Engulfing Pattern one of the most powerful reversal signals and show you how to detect it programmatically using pandas ta and Plotly Bullish amp Bearish Engulfing Patterns Explained Python Code to..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Python IDE on Android - code locally and run the program over a hosted runtime or offline. Opinions?",
+            "link": "https://www.reddit.com/r/Python/comments/1j5etsa/python_ide_on_android_code_locally_and_run_the/",
+            "description": "I thought of just coding a small fun project while I travel but I cannot carry my personal laptop at all times so I was searching for an IDE that would allow me to code quickly using features similar to intellisense The code can be run locally or on a..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Python for Engineers and Scientists",
+            "link": "https://www.reddit.com/r/Python/comments/1j5ae5m/python_for_engineers_and_scientists/",
+            "description": "Hi folks About 6 months ago I made a course on Python aimed at engineers and scientists Lots of people from this community gave me feedback and I m grateful for that Fast forward and over 5000 people enrolled in the course and the reviews have averaged 4 5 5..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Friday Daily Thread: r/Python Meta and Free-Talk Fridays",
+            "link": "https://www.reddit.com/r/Python/comments/1j5a404/friday_daily_thread_rpython_meta_and_freetalk/",
+            "description": "Weekly Thread Meta Discussions and Free Talk Friday Welcome to Free Talk Friday on r Python This is the place to discuss the r Python community meta discussions Python news projects or anything else Python related How it Works 1 Open Mic Share your thoughts questions or anything you d..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Should I be using more data structures?",
+            "link": "https://www.reddit.com/r/Python/comments/1j57nj3/should_i_be_using_more_data_structures/",
+            "description": "A long time ago I learned a lot about Hashmap Red Black Trees and a many many more However in my day to day Data Centric Programming in Python I only use sets lists dicts and Dataframes I do use trees if I have a recursive structure but rarely Am..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Python coding camp for high schoolers - remote and free",
+            "link": "https://www.reddit.com/r/Python/comments/1j577mp/python_coding_camp_for_high_schoolers_remote_and/",
+            "description": "Hi all I m not sure if i m breaking the rules of the sub I just wanted to advertise that Cold Spring Harbor laboratory is having a free coding camp for high schoolers 8 12th graders It ll be on python basics Details April 5th and 6th 9 30am..."
+        },
+        {
+            "subreddit": "python",
+            "title": "minRTOS: A Real-Time Operating System with Advanced Scheduling and Inter-Task Communication",
+            "link": "https://www.reddit.com/r/Python/comments/1j56n9h/minrtos_a_realtime_operating_system_with_advanced/",
+            "description": "Hey everyone I d like to introduce you to my project minRTOS a Python based real time operating system RTOS designed for educational and research purposes as well as for hobbyists working with embedded systems What My Project Does minRTOS is a custom built general purpose RTOS that supports priority..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Remake of an old flash game called Ores using Pyxel, and it runs in the browser.",
+            "link": "https://www.reddit.com/r/Python/comments/1j54j94/remake_of_an_old_flash_game_called_ores_using/",
+            "description": "What My Project Does I remade an old flash game called Ores using Pyxels that I call Stack Pusher You can play it in your browser and I think thats pretty neat Any constructive feedback is absolutely welcomed Target Audience Anyone on earth with internet Comparison Here is a video..."
+        },
+        {
+            "subreddit": "python",
+            "title": "Adivce on Music Stem Separation as Bachelor's Degree Final Project",
+            "link": "https://www.reddit.com/r/Python/comments/1j54hw2/adivce_on_music_stem_separation_as_bachelors/",
+            "description": "Hi Kinda new in this subreddit got the idea of asking for some advice on the internet this afternoon and didn t knew better place to ask than reddit Sorry if i commit some english mistakes not my main language and haven t practiced in a while Going straight to..."
+        },
+        {
+            "subreddit": "python",
+            "title": "best practices re passing parameters as keyword, rather than positional",
+            "link": "https://www.reddit.com/r/Python/comments/1j4wdwo/best_practices_re_passing_parameters_as_keyword/",
+            "description": "I ve been a professional programmer for 20 years but I have seen a peculiar trend in the last few years A lot of newer or more junior developers specify arguments as keyword arguments if there are 2 or more So for something like the below where there are no..."
+        },
+        {
             "subreddit": "python",
             "title": "Using Fish? dirvenv.fish automagically activates your virtualenv",
             "link": "https://www.reddit.com/r/Python/comments/1j4omal/using_fish_dirvenvfish_automagically_activates/",
@@ -886,15 +982,9 @@
         },
         {
             "subreddit": "python",
-            "title": "ducktools-pytui - A Textual based TUI for managing Python virtual envs and runtimes",
-            "link": "https://www.reddit.com/r/Python/comments/1j5ssq8/ducktoolspytui_a_textual_based_tui_for_managing/",
-            "description": "Source Code and install instructions https github com DavidCEllis ducktools pytui https github com DavidCEllis ducktools pytui This is still in the early stages so apologies if it s a bit rough around the edges or if it fails to launch at all due to something I ve not seen..."
-        },
-        {
-            "subreddit": "python",
-            "title": "Nodeless Desktop Javascript Python - Full Example with save/load states",
-            "link": "https://www.reddit.com/r/Python/comments/1j5spxa/nodeless_desktop_javascript_python_full_example/",
-            "description": "    A windows desktop application framework that seamlessly integrates Python backend with JavaScript frontend using PyQt6 WebView, enabling the development of rich desktop applications without the need for Node.js, NPM and all that jazz.\n    https://github.com/non-npc/Nodeless-Desktop-Javascript-Python\n    "
+            "title": "Serverless desktop python example",
+            "link": "https://www.reddit.com/r/Python/comments/1j4c0mj/serverless_desktop_python_example/",
+            "description": "Examples of implementing serverless communication between python and a webview. This demonstrates how to communication between python and javascript using a bridge and webview. [https://github.com/non-npc/Serverless-Desktop-Python](https://github.com/non-npc/Serverless-Desktop-Python) "
         },
         {
             "subreddit": "python",
@@ -1054,30 +1144,6 @@
         },
         {
             "subreddit": "c_programming",
-            "title": "Exceptions in C",
-            "link": "https://www.reddit.com/r/C_Programming/comments/1j4pwy8/exceptions_in_c/",
-            "description": "Is there a way to simulate c++ exceptions logic in C? error handling with manual stack unwinding in C is so frustrating"
-        },
-        {
-            "subreddit": "c_programming",
-            "title": "Could you assess my code?",
-            "link": "https://www.reddit.com/r/C_Programming/comments/1j4ksmn/could_you_assess_my_code/",
-            "description": "include lt stdio h gt include lt string h gt include lt stdbool h gt typedef struct char sset 5 int elements 5 set void printelements set set void bubblesort int m int sunion int main void set set1 set set2 set intersection int k 0 int sunion 10 int..."
-        },
-        {
-            "subreddit": "c_programming",
-            "title": "Ummmmm...",
-            "link": "https://www.reddit.com/r/C_Programming/comments/1j4kjo9/ummmmm/",
-            "description": "What's the difference between C++ and C--?"
-        },
-        {
-            "subreddit": "c_programming",
-            "title": "Need to submit it in next practical!",
-            "link": "https://www.reddit.com/r/C_Programming/comments/1j4kffn/need_to_submit_it_in_next_practical/",
-            "description": "Hey Boys It s been 3 weeks since I submitted the Experiment 1 of SPCC System Programming an Compiler Construction and I need to submit it Next Monday I believe this might be simple for many of you coders Thanks in advance I tried Chatgpt but the program isn t..."
-        },
-        {
-            "subreddit": "c_programming",
             "title": "Which Clang format style should I use for C?",
             "link": "https://www.reddit.com/r/C_Programming/comments/1j4id3i/which_clang_format_style_should_i_use_for_c/",
             "description": "I just started learning C and I m using VSCode with Clang for formatting my code I m unsure which style to choose from the available options Visual Studio LLVM Google Chromium Mozilla WebKit Microsoft or GNU Should I go with one of these predefined styles or should I customize..."
@@ -1182,12 +1248,6 @@
             "subreddit": "haskell",
             "title": "Sum Types, Subtypes, and Unions",
             "link": "https://blog.jle.im/entry/sum-types-and-subtypes-and-unions.html",
-            "description": ""
-        },
-        {
-            "subreddit": "haskell",
-            "title": "Chat Bots Revisited",
-            "link": "https://blog.cofree.coffee/2025-03-05-chat-bots-revisited/",
             "description": ""
         },
         {
@@ -1351,24 +1411,6 @@
             "title": "Haskell Babel no longer works",
             "link": "https://www.reddit.com/r/haskell/comments/1iwursa/haskell_babel_no_longer_works/",
             "description": "Emacs org mode has a literate programming system called Babel where you can include code blocks anywhere in an org mode text file and run them The first time you run a Haskell code block it creates a Haskell REPL called haskell which is then live and ready to go..."
-        },
-        {
-            "subreddit": "haskell",
-            "title": "What is the 'Design Patterns' equivalent book in functional programming world?",
-            "link": "https://www.reddit.com/r/haskell/comments/1iwtyoo/what_is_the_design_patterns_equivalent_book_in/",
-            "description": ""
-        },
-        {
-            "subreddit": "haskell",
-            "title": "Multi Line Strings are now supported in GHC 9.12.1!",
-            "link": "https://www.reddit.com/r/haskell/comments/1ivkymh/multi_line_strings_are_now_supported_in_ghc_9121/",
-            "description": "In the latest GHC 9 12 1 you can finally use multi line strings without any external library You just have to enable the MultilineStrings extension https ghc gitlab haskell org ghc doc users_guide exts multiline_strings html LANGUAGE MultilineStrings message_string Line 1 Line 2 Line 3 Another good proposal that..."
-        },
-        {
-            "subreddit": "haskell",
-            "title": "Learning Resources",
-            "link": "https://www.reddit.com/r/haskell/comments/1ivbj5m/learning_resources/",
-            "description": "Hi everyone, just curious what should I begin with, cis 194 or learn you haskell for great good ? Or haskell wiki book \n\nThere are lot of books and resources after beginner stuff which book or resource I should follow?"
         },
         {
             "subreddit": "cobol",
@@ -1552,6 +1594,18 @@
         },
         {
             "subreddit": "fsharp",
+            "title": "Discover and find F# tools, libraries and resources",
+            "link": "https://www.reddit.com/r/fsharp/comments/1j5mlh1/discover_and_find_f_tools_libraries_and_resources/",
+            "description": "For anyone interested/currently working in F#, I made a growing directory of tools, libraries, and resources in the F# ecosystem.\n\n[https://www.fsharpest.xyz/](https://www.fsharpest.xyz/)"
+        },
+        {
+            "subreddit": "fsharp",
+            "title": "Is FSharpLint a dead project?",
+            "link": "https://www.reddit.com/r/fsharp/comments/1j56bsr/is_fsharplint_a_dead_project/",
+            "description": "It doesn't work with DotNet 9 and it looks like there's been no activity from the maintainers in about 9 months.\n\nDoes anyone know if it is actually a dead project at this point?\n\n[https://github.com/fsprojects/FSharpLint](https://github.com/fsprojects/FSharpLint)"
+        },
+        {
+            "subreddit": "fsharp",
             "title": "Is Saturn Framework still suitable for new projects?",
             "link": "https://www.reddit.com/r/fsharp/comments/1j4nh5q/is_saturn_framework_still_suitable_for_new/",
             "description": "Hello F community I m about to start a new web project and I m trying to decide on a framework to use with F Saturn is one of the candidates but I have a few concerns Looking at the GitHub repository the last update seems to be about 8..."
@@ -1732,6 +1786,102 @@
         },
         {
             "subreddit": "csharp",
+            "title": "What's the best way to send a lot of similar methods through to a conditionally chosen implementation of an interface?",
+            "link": "https://www.reddit.com/r/csharp/comments/1j5tb50/whats_the_best_way_to_send_a_lot_of_similar/",
+            "description": "see Edit with newer Fiddle below There s a full Fiddle with simplified example code here https dotnetfiddle net Nbn7Es Questions at line 60 The relevant part of the example is preventing 20 variations of methods like public async Task SendReminder string message string recipient var userPref GetPreference reminder await..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Calling All Methods!",
+            "link": "https://www.reddit.com/r/csharp/comments/1j5rbho/calling_all_methods/",
+            "description": "I have a C# exam coming up, and I am not confident about when it\u2019s appropriate to use ref or out in my method parameters. Can anyone explain this in an easily consumable way? Any help is appreciated. "
+        },
+        {
+            "subreddit": "csharp",
+            "title": "AsyncEnumerableSource \u2013 a high-performance, thread-safe async enumerable source",
+            "link": "/r/dotnet/comments/1j5l4up/asyncenumerablesource_a_highperformance/",
+            "description": ""
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Optimizing MVVM redraws when several bindings are updated at once?",
+            "link": "https://www.reddit.com/r/csharp/comments/1j5l5s8/optimizing_mvvm_redraws_when_several_bindings_are/",
+            "description": "I have a WPF app that displays some quite complex 3D geometry that takes a couple of seconds to generate There are a number of properties in the viewmodel that need to trigger a complete regeneration of the 3D geometry so I have bound them up in the usual way..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "How to archive copy of receipts",
+            "link": "https://www.reddit.com/r/csharp/comments/1j5krpv/how_to_archive_copy_of_receipts/",
+            "description": "Hello Automatically I have to keep a copy of all the receipts that I print from my Epson TM200II printers ethernet usb The copy can be an image a pdf an html to possibly be able to reprint it even after some time I read that with the methods made..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Having some trouble getting the right program to compile on VS",
+            "link": "https://www.reddit.com/r/csharp/comments/1j5ewr2/having_some_trouble_getting_the_right_program_to/",
+            "description": "Hey all still new to C and getting used to Visual Studio I have a couple saved cs files under the same sln file is that the correct way to say it haha If you see the attached image I m trying to run the FizzBuzz code that s currently..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Is it possible to use reflection to know the name of all calling methods?",
+            "link": "https://www.reddit.com/r/csharp/comments/1j5e2wr/is_it_possible_to_use_reflection_to_know_the_name/",
+            "description": "I know we can use CallerMemberName to know the name of the method currently calling our method like this public CustomConstructor CallerMemberName string caller CallerFilePath string file CallerLineNumber int lineNumber 0 So if I call Custom constructor like this public void CustomMethod CustomConstructor The caller will be CustomMethod But can..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Should I use pure SQLite or EF Core for my project as a (relative) beginner?",
+            "link": "https://www.reddit.com/r/csharp/comments/1j5dbqu/should_i_use_pure_sqlite_or_ef_core_for_my/",
+            "description": "I m making a CLI tool for D amp D character creation Nothing too complicated just a little project based on a hobby for learning purposes I m already implementing basic web scraping and want to store the characters spells etc in an SQLite database I considered JSON but want..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Confused by async and multithreading: Parallel.Foreach vs. Parallel.ForeachAsync",
+            "link": "https://www.reddit.com/r/csharp/comments/1j5aoee/confused_by_async_and_multithreading/",
+            "description": "Hello all I am a beginner in concurrent programming and I am still confused by the difference between multithreaded and async Can anyone help me Say I want to write 2 functions Each of them makes 20 HTTP requests each taking 20 MS F1 uses Parallel Foreach and uses HttpClient..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Trouble Sending Simulated Key Inputs to a Steam Game?",
+            "link": "https://www.reddit.com/r/csharp/comments/1j59y0n/trouble_sending_simulated_key_inputs_to_a_steam/",
+            "description": "Hey everyone I m having some trouble sending simulated inputs to a Steam game I m working with I m trying to send a W key press to simulate movement using a PowerShell script but nothing happens when I run it I tried using SendInput and even switched over to..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": ".NET Aspire and Dev Container",
+            "link": "https://www.reddit.com/r/csharp/comments/1j57wft/net_aspire_and_dev_container/",
+            "description": "Dev productivity hack Set up NET Aspire 9 1 in Dev Containers with JetBrains Rider Developer happiness No local NET setup consistent environments and easy onboarding for new team members Read about it on my new blog post https laurentkempe com 2025 03 06 dotnet aspire and dev container https..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Roslyn MCP Server: LLMs can now Find All Usages in your codebase!",
+            "link": "https://i.redd.it/ymcsrxg5z4ne1.png",
+            "description": ""
+        },
+        {
+            "subreddit": "csharp",
+            "title": "I just don't understand WPF",
+            "link": "https://www.reddit.com/r/csharp/comments/1j561tq/i_just_dont_understand_wpf/",
+            "description": "I ve worked with NET for a while Did some in undergrad and a little more during my 5 year career as an RPA developer I ve done some work with web development as well using React or Svelte I just don t understand WPF I can understand the MVVM..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Values on MudChip button",
+            "link": "https://www.reddit.com/r/csharp/comments/1j52qyt/values_on_mudchip_button/",
+            "description": "The current project is in C MudBlazor in Visual Studio We currently have two MudChip buttons that display perfectly Now my boss wants to add a Hover option that will read a table and display those values in the Hover Current Code IsFuture Convert ToDateTime context Item StartDate lt MudChip..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Search a list for an entry and indicating NOTFOUND",
+            "link": "https://www.reddit.com/r/csharp/comments/1j50dp6/search_a_list_for_an_entry_and_indicating_notfound/",
+            "description": "Suppose I have a list of strings List lt string gt I have a function that searches that list for a user supplied string If the string is in the list I return the found string from the list If the string is not found I want to return NULL..."
+        },
+        {
+            "subreddit": "csharp",
+            "title": "Smarthome using C#",
+            "link": "https://www.reddit.com/r/csharp/comments/1j4youp/smarthome_using_c/",
+            "description": "Does anyone have experience programming their smart home using C#?\n\nWhat do you use?"
+        },
+        {
+            "subreddit": "csharp",
             "title": "The instance of entity type cannot be tracked because another instance \nof this type with the same key",
             "link": "https://www.reddit.com/r/csharp/comments/1j4w8b6/the_instance_of_entity_type_cannot_be_tracked/",
             "description": "Using Blazor server side UI with Entity Framework Core I have a Student table One student can have multiple tests assigned each test has test subject type which is FK to another lookup table Student public int Id get set public virtual ICollection lt TestDetail gt TestDetails get set new..."
@@ -1798,117 +1948,39 @@
         },
         {
             "subreddit": "csharp",
-            "title": "AsyncEnumerableSource \u2013 a high-performance, thread-safe async enumerable source",
-            "link": "/r/dotnet/comments/1j5l4up/asyncenumerablesource_a_highperformance/",
-            "description": ""
+            "title": "Build cross platform tools for AI in C# with MCPSharp",
+            "link": "https://github.com/afrise/MCPSharp",
+            "description": "Introducing MCPSharp a model context protocol library that lets you build tools for AI chat assistants as well as connect MCP servers into the net ecosystem Adding a tool is as easy as placing an McpTool attribute on your method The client is compatible with Microsoft Extensions AI and can..."
         },
         {
-            "subreddit": "csharp",
-            "title": "Optimizing MVVM redraws when several bindings are updated at once?",
-            "link": "https://www.reddit.com/r/csharp/comments/1j5l5s8/optimizing_mvvm_redraws_when_several_bindings_are/",
-            "description": "I have a WPF app that displays some quite complex 3D geometry that takes a couple of seconds to generate There are a number of properties in the viewmodel that need to trigger a complete regeneration of the 3D geometry so I have bound them up in the usual way..."
+            "subreddit": "servers",
+            "title": "Used/New Server Vendor - Zurich",
+            "link": "https://www.reddit.com/r/servers/comments/1j5lpbc/usednew_server_vendor_zurich/",
+            "description": "I am looking for a company that can supply a new or slightly used 1U server and install it in a client datacentre in the Zurich area. \n\nDell is preferred, specifications are being finalised"
         },
         {
-            "subreddit": "csharp",
-            "title": "How to archive copy of receipts",
-            "link": "https://www.reddit.com/r/csharp/comments/1j5krpv/how_to_archive_copy_of_receipts/",
-            "description": "Hello Automatically I have to keep a copy of all the receipts that I print from my Epson TM200II printers ethernet usb The copy can be an image a pdf an html to possibly be able to reprint it even after some time I read that with the methods made..."
+            "subreddit": "servers",
+            "title": "Simple webserver issues",
+            "link": "https://www.reddit.com/r/servers/comments/1j596up/simple_webserver_issues/",
+            "description": "Looking for assistance I have a server Dell PowerEdge R710 running WinServer 2016 connected to a switch Allied Telesis AT FS750 28PS connected to a modem CenturyLink C4000BZ When the server is dynamically receiving an IP I can connect to the internet But I want to host a webpage so..."
         },
         {
-            "subreddit": "csharp",
-            "title": "Having some trouble getting the right program to compile on VS",
-            "link": "https://www.reddit.com/r/csharp/comments/1j5ewr2/having_some_trouble_getting_the_right_program_to/",
-            "description": "Hey all still new to C and getting used to Visual Studio I have a couple saved cs files under the same sln file is that the correct way to say it haha If you see the attached image I m trying to run the FizzBuzz code that s currently..."
+            "subreddit": "servers",
+            "title": "Help upgrading Gaming Server",
+            "link": "https://www.reddit.com/r/servers/comments/1j51umg/help_upgrading_gaming_server/",
+            "description": "Hey all currently have my old gaming PC dedicated as a server pc just running a modded minecraft server The current specs are I7 7700k Mobo is a msi z270 pro with a max or 64gb ram supported 32gb 3200 ddr4 ram I m looking to start running a modded..."
         },
         {
-            "subreddit": "csharp",
-            "title": "Is it possible to use reflection to know the name of all calling methods?",
-            "link": "https://www.reddit.com/r/csharp/comments/1j5e2wr/is_it_possible_to_use_reflection_to_know_the_name/",
-            "description": "I know we can use CallerMemberName to know the name of the method currently calling our method like this public CustomConstructor CallerMemberName string caller CallerFilePath string file CallerLineNumber int lineNumber 0 So if I call Custom constructor like this public void CustomMethod CustomConstructor The caller will be CustomMethod But can..."
+            "subreddit": "servers",
+            "title": "What specific SCSI connector is this?",
+            "link": "https://www.reddit.com/gallery/1j51cwe",
+            "description": "I am tasked with secure erasing some hard drives at work and I don t know which specific connector this is I know it s SCSI but there seems to be a wide variety of physical SCSI connectors I need to know so I can figure out if there is..."
         },
         {
-            "subreddit": "csharp",
-            "title": "Is there anyway to force a class library consumer to be on the same platform target as the class library itself?",
-            "link": "https://www.reddit.com/r/csharp/comments/1j46z48/is_there_anyway_to_force_a_class_library_consumer/",
-            "description": "I have a class library that needs to P Invoke GetBinaryType https learn microsoft com en us windows win32 api winbase nf winbase getbinarytypea but I came across an unusual issue GetBinaryType acts wonky when its compiled under AnyCPU thinks it is on a x86 platform amp returns wrong values..."
-        },
-        {
-            "subreddit": "csharp",
-            "title": "Confused by async and multithreading: Parallel.Foreach vs. Parallel.ForeachAsync",
-            "link": "https://www.reddit.com/r/csharp/comments/1j5aoee/confused_by_async_and_multithreading/",
-            "description": "Hello all I am a beginner in concurrent programming and I am still confused by the difference between multithreaded and async Can anyone help me Say I want to write 2 functions Each of them makes 20 HTTP requests each taking 20 MS F1 uses Parallel Foreach and uses HttpClient..."
-        },
-        {
-            "subreddit": "csharp",
-            "title": "Trouble Sending Simulated Key Inputs to a Steam Game?",
-            "link": "https://www.reddit.com/r/csharp/comments/1j59y0n/trouble_sending_simulated_key_inputs_to_a_steam/",
-            "description": "Hey everyone I m having some trouble sending simulated inputs to a Steam game I m working with I m trying to send a W key press to simulate movement using a PowerShell script but nothing happens when I run it I tried using SendInput and even switched over to..."
-        },
-        {
-            "subreddit": "csharp",
-            "title": ".NET Aspire and Dev Container",
-            "link": "https://www.reddit.com/r/csharp/comments/1j57wft/net_aspire_and_dev_container/",
-            "description": "Dev productivity hack Set up NET Aspire 9 1 in Dev Containers with JetBrains Rider Developer happiness No local NET setup consistent environments and easy onboarding for new team members Read about it on my new blog post https laurentkempe com 2025 03 06 dotnet aspire and dev container https..."
-        },
-        {
-            "subreddit": "csharp",
-            "title": "Roslyn MCP Server: LLMs can now Find All Usages in your codebase!",
-            "link": "https://i.redd.it/ymcsrxg5z4ne1.png",
-            "description": ""
-        },
-        {
-            "subreddit": "csharp",
-            "title": "I just don't understand WPF",
-            "link": "https://www.reddit.com/r/csharp/comments/1j561tq/i_just_dont_understand_wpf/",
-            "description": "I ve worked with NET for a while Did some in undergrad and a little more during my 5 year career as an RPA developer I ve done some work with web development as well using React or Svelte I just don t understand WPF I can understand the MVVM..."
-        },
-        {
-            "subreddit": "csharp",
-            "title": "Search a list for an entry and indicating NOTFOUND",
-            "link": "https://www.reddit.com/r/csharp/comments/1j50dp6/search_a_list_for_an_entry_and_indicating_notfound/",
-            "description": "Suppose I have a list of strings List lt string gt I have a function that searches that list for a user supplied string If the string is in the list I return the found string from the list If the string is not found I want to return NULL..."
-        },
-        {
-            "subreddit": "csharp",
-            "title": "The instance of entity type cannot be tracked because another instance \nof this type with the same key",
-            "link": "https://www.reddit.com/r/csharp/comments/1j4w8b6/the_instance_of_entity_type_cannot_be_tracked/",
-            "description": "Using Blazor server side UI with Entity Framework Core I have a Student table One student can have multiple tests assigned each test has test subject type which is FK to another lookup table Student public int Id get set public virtual ICollection lt TestDetail gt TestDetails get set new..."
-        },
-        {
-            "subreddit": "csharp",
-            "title": "Testcontainers performance",
-            "link": "https://www.reddit.com/r/csharp/comments/1j4v3y3/testcontainers_performance/",
-            "description": "So our setup is We use Entity Framework Core The database is SQL Server a managed instance on Azure We don t have a separate repository layer The nature of the app means that some of the database queries we run are moderately complex and this complexity is made up..."
-        },
-        {
-            "subreddit": "csharp",
-            "title": "A Practical Guide to Modular Monoliths with .NET - Build Web Scale Monolithic Architectures",
-            "link": "https://youtu.be/VEggfW0A_Oo",
-            "description": ""
-        },
-        {
-            "subreddit": "csharp",
-            "title": "What kind of tasks do you usually work on?",
-            "link": "https://www.reddit.com/r/csharp/comments/1j4u01j/what_kind_of_tasks_do_you_usually_work_on/",
-            "description": "Do you find them exciting or just routine? Do they help you grow as a developer? Or is it mostly about finishing tasks quickly, making small adjustments, and moving on? Curious to hear your thoughts!"
-        },
-        {
-            "subreddit": "csharp",
-            "title": "c# in the future?",
-            "link": "https://www.reddit.com/r/csharp/comments/1j4shjj/c_in_the_future/",
-            "description": "What do you thing about c I am using net at least 5 years and I am considering should I continue or start to learn another language like rust or go or ruby because I wonder about we are developing mostly web applications c is always one step back from..."
-        },
-        {
-            "subreddit": "csharp",
-            "title": "How do I get the sample rebind action UI script to use TMPro instead of Text?",
-            "link": "https://www.reddit.com/r/csharp/comments/1j4o9cf/how_do_i_get_the_sample_rebind_action_ui_script/",
-            "description": "I m using the Input system package from Unity and found the rebind sample I saw a tutorial but he didn t cover how to convert the rebind action UI script from using text to TMPro TextMeshProUGUI I ve tried simply adding using TMPro and replacing Text with TextMeshProUGUI but..."
-        },
-        {
-            "subreddit": "csharp",
-            "title": "ErrataUI - a collection of \"modern\" WinForms controls",
-            "link": "https://www.reddit.com/r/csharp/comments/1j4o39e/errataui_a_collection_of_modern_winforms_controls/",
-            "description": "https github com stephenmthomas ErrataUI https github com stephenmthomas ErrataUI REPOSTING I ve been developing these controls for two other projects I m working on and figured I would share them These controls are loosely based on WinUI3 Fluent UI as well as other generic modern form controls Stuffs included..."
+            "subreddit": "servers",
+            "title": "New here, is this normal?",
+            "link": "https://i.redd.it/i6132ipnd3ne1.jpeg",
+            "description": "Just got a job at a place that has a fairly large network we are trying to install windows 10 LTSC on a dell3930 rack it s taking excruciatingly long to do literally anything For context we aren t pc guys outside of regular use we ve built a few..."
         },
         {
             "subreddit": "servers",
@@ -2062,6 +2134,12 @@
         },
         {
             "subreddit": "devops",
+            "title": "Cloudflare Proxy + DO droplet",
+            "link": "https://www.reddit.com/r/devops/comments/1j5ww2h/cloudflare_proxy_do_droplet/",
+            "description": "Hello I am pretty new in the devop world and I would like some help from those who are experienced I am noticing in my Nginx error log a considerable number of requests made using the server IP instead of the hostname I always used Cloudflare as proxy for this..."
+        },
+        {
+            "subreddit": "devops",
             "title": "Argocd + naming convention for multi cluster deployments",
             "link": "https://www.reddit.com/r/devops/comments/1j5vbpb/argocd_naming_convention_for_multi_cluster/",
             "description": "Just curious how people handle naming their applications when using argocd I m currently setting up an applicationset that I want to deploy to multiple clusters The problem is I was wanting them all to have the same helm names inside the cluster Ie I want the helm chart in..."
@@ -2074,75 +2152,21 @@
         },
         {
             "subreddit": "devops",
-            "title": "Rough/Ballpark Cost Estimate for the following?",
-            "link": "https://www.reddit.com/r/devops/comments/1j4w6pe/roughballpark_cost_estimate_for_the_following/",
-            "description": "I want to make a proof of concept lt 5 users 2 cheap AWS pods for a React Frontend kubernetes 2 cheap AWS pods for a Spring Backend kubernetes Any cheap AWS SQL database A way to deploy to each via a Jenkins pipeline An Okta setup for lt 5..."
+            "title": "Hosting Containerized Solution",
+            "link": "https://www.reddit.com/r/devops/comments/1j5uh4g/hosting_containerized_solution/",
+            "description": "I ve been trying to find one that support docker compose for my pet project that has containers for nginx redis MySQL and 3 Net8 projects Ideally I want to have a GitHub action to deploy from the main branch So far Railway doesn t like having a dcproj in..."
         },
         {
             "subreddit": "devops",
-            "title": "Distribute AOSP build across multiple servers",
-            "link": "/r/androiddev/comments/1j4u6ot/distribute_aosp_build_across_multiple_servers/",
-            "description": ""
+            "title": "Github actions, share custom actions",
+            "link": "https://www.reddit.com/r/devops/comments/1j5qrpv/github_actions_share_custom_actions/",
+            "description": "Hi everyone I m using Github Actions to build and deploy my applications I ve already read that Github Actions has many shortcomings when it comes to advanced settings I m using a private repo to share my custom actions my actions repo When I need use a custom action..."
         },
         {
             "subreddit": "devops",
-            "title": "Stuck at SSH in 'vagrant up' using Vagrantfile. Any clue, anybody? (I am setting up the cluster by following Kubernetes the hard way by Mumshad).",
-            "link": "https://www.reddit.com/r/devops/comments/1j4tw0z/stuck_at_ssh_in_vagrant_up_using_vagrantfile_any/",
-            "description": "Thank you in advance "
-        },
-        {
-            "subreddit": "devops",
-            "title": "How to Import an Existing Kubernetes Cluster into Rancher | Step-by-Step Guide",
-            "link": "https://www.reddit.com/r/devops/comments/1j4qi6i/how_to_import_an_existing_kubernetes_cluster_into/",
-            "description": "Already running a Kubernetes cluster Learn how to import it into Rancher for centralized management and better visibility Whether your cluster is on Minikube the cloud or on prem this step by step guide will walk you through the entire process What You ll Learn How to verify your Kubernetes..."
-        },
-        {
-            "subreddit": "devops",
-            "title": "Does DevOps engineer write application code?",
-            "link": "https://www.reddit.com/r/devops/comments/1j4of6z/does_devops_engineer_write_application_code/",
-            "description": "Hi I m a software developer with around 4 years of working experience Recently I was trying to get a DevOps role because I like the cloud and managing the deployment process but at the same time I don t want to quit writing application code because I want to..."
-        },
-        {
-            "subreddit": "devops",
-            "title": "Am I on the right track?",
-            "link": "https://www.reddit.com/r/devops/comments/1j4kaox/am_i_on_the_right_track/",
-            "description": "Ive made it my goal since last year to try to break into the devops and cloud space im a networkk guy by trade but ive grown bored of it At work ive been trying to get involved with some more cloud related projects but its been hard since theres..."
-        },
-        {
-            "subreddit": "devops",
-            "title": "Anyone here run a business?",
-            "link": "https://www.reddit.com/r/devops/comments/1j4jymm/anyone_here_run_a_business/",
-            "description": "Im working on starting a type of service model where I just provide terraform to build out the infrx required for teams mainly targeting small to mid sized consultancies and IT departments with Curious on A Is this something that would be useful B how to find clients Im currently..."
-        },
-        {
-            "subreddit": "devops",
-            "title": "What are the small but useful CI/CD improvements you've made?",
-            "link": "https://www.reddit.com/r/devops/comments/1j4jmza/what_are_the_small_but_useful_cicd_improvements/",
-            "description": "What are the small but useful CI CD improvements you ve made Sometimes I want to make a small change to improve the workflow so I am trying to do the little things that can make a big difference instead of wasting time doing something drastic that will take a..."
-        },
-        {
-            "subreddit": "devops",
-            "title": "Get your Free AWS Practitioner &amp; Assosiation Certifications Exams",
-            "link": "https://www.reddit.com/r/devops/comments/1j4jfsn/get_your_free_aws_practitioner_assosiation/",
-            "description": "For those who still don t know How to Earn a Free AWS Certification 1 Join AWS Educate Sign up for AWS Educate gt AWS Educate https aws amazon com education awseducate nc1 h_ls 2 Earn an AWS Educate Badge Complete a course to earn an official AWS badge Fastest..."
-        },
-        {
-            "subreddit": "devops",
-            "title": "What are some of the most advanced things you have learned in the last 5 years?",
-            "link": "https://www.reddit.com/r/devops/comments/1j4gjb8/what_are_some_of_the_most_advanced_things_you/",
-            "description": "What are some of the most advanced things you have learned in the last 5 years? I am interested to learn what I might be able to learn on my own in the coming years. Feel free to share."
-        },
-        {
-            "subreddit": "devops",
-            "title": "Deploy to VPS without SSH",
-            "link": "https://www.reddit.com/r/devops/comments/1j4e1l3/deploy_to_vps_without_ssh/",
-            "description": "I am using Terraform and Docker Swarm to deploy my application stack on a VPS I m looking for a way of doing that from my pipeline but I don t have an SSH key as the server might not exist yet or the SSH private key changed since the..."
-        },
-        {
-            "subreddit": "devops",
-            "title": "Failing in devops role",
-            "link": "https://www.reddit.com/r/devops/comments/1j4ausq/failing_in_devops_role/",
-            "description": "I have over 10 years of experience Started a application consultant then moved to cloud infra migration projects Due to the demand of upskilling and sudden shift i learnt k8s terraform devops by myself Got deployed to a devops project But here everything looks like a mess or i feel..."
+            "title": "Failed to get a junior DevOps job",
+            "link": "https://www.reddit.com/r/devops/comments/1j5q1lo/failed_to_get_a_junior_devops_job/",
+            "description": "Hello everyone For the past seven months I have been studying and attending DevOps courses on Udemy I also purchased TechWorld with Nana s DevOps Bootcamp and have been learning all the essential tools that every DevOps engineer should know also I have a solid linux knowledge However I have..."
         },
         {
             "subreddit": "devops",
@@ -2155,6 +2179,12 @@
             "title": "Lighthouse and TTFB on azure",
             "link": "https://www.reddit.com/r/devops/comments/1j5ng6w/lighthouse_and_ttfb_on_azure/",
             "description": "I have an azure Ubuntu server where I host a website that s built using php symfony MySQL on an azure musql server and node js I ve been trying to enhance the lighthouse performance score for the website In general I get 60 70 for performance and we aim..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "cost saving ideas in amazon EKS",
+            "link": "https://www.reddit.com/r/devops/comments/1j5lhlo/cost_saving_ideas_in_amazon_eks/",
+            "description": "are there any ways we can save costs in amazon eks 1.30/1.32 , like if we have some extra load on weekends and in any way we can scale up our worker nodes only for weekend ."
         },
         {
             "subreddit": "devops",
@@ -2251,6 +2281,54 @@
             "title": "Containers via Powershell",
             "link": "https://www.reddit.com/r/devops/comments/1j53zf0/containers_via_powershell/",
             "description": "Hello Devops Community Just stuck my head with this thing Here me out We re working on centralizing our application logs and traces using OpenTelemetry and have decided to deploy a dedicated OpenTelemetry container app within our Azure Container Apps environment We re aiming for an Infrastructure as Code IaC..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Gitlab runner returns - \"Error: failed to resolve feat-interim-xxxxxxxx: not found\". Any ideas?",
+            "link": "https://www.reddit.com/r/devops/comments/1j52p0m/gitlab_runner_returns_error_failed_to_resolve/",
+            "description": "Hi there I have a pipeline with an image being built with Kaniko I know it isnt being currently updated and supported and when I use the oras attach command then I get the above mentioned error I am just trying to attach some provenance and attestation to the image..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Looking for Deployment diagrams of API Gateways",
+            "link": "https://www.reddit.com/r/devops/comments/1j52m7x/looking_for_deployment_diagrams_of_api_gateways/",
+            "description": "I m looking for architecture deployment diagrams of how API gaeways can be handled from WAF to auth to loadbalancer to k8s etc etc Thoughts on best strategies and how t ensure high availability There are some dissenting options on my team some say the gateway should be hosted on..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Is there any website or git space from where I can get Vagrantfile to provision master and worker nodes on Ubuntu box using VirtualBox?",
+            "link": "https://www.reddit.com/r/devops/comments/1j50nm8/is_there_any_website_or_git_space_from_where_i/",
+            "description": "Thanking you in advance."
+        },
+        {
+            "subreddit": "devops",
+            "title": "PSA: microdnf needs -y in ubi9 and above",
+            "link": "https://www.reddit.com/r/devops/comments/1j4zg21/psa_microdnf_needs_y_in_ubi9_and_above/",
+            "description": "Fuck fuckety fuck Fuck FUCK I spent an entire afternoon trying to find out why the fuck my build pipeline timed out and chased so many red herrings looking at auth and fucking firewalls and what have you All because micro fucking dnf was waiting for Is this ok y..."
+        },
+        {
+            "subreddit": "devops",
+            "title": "Strategy for MFE consumed in multiple hosts",
+            "link": "https://www.reddit.com/r/devops/comments/1j4z9fd/strategy_for_mfe_consumed_in_multiple_hosts/",
+            "description": "Hello I m a mid level front end focused SE at a large silo d company being asked to set up something and I am looking for advice Here s the situation I build maintain a single SPA micro front end that is one of hundreds available on our public..."
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Cloud Engineering Intern OA",
+            "link": "https://www.reddit.com/r/Cloud/comments/1j5tcx4/cloud_engineering_intern_oa/",
+            "description": "I have an OA for a Cloud Engineering Internship and was wondering how similar are they to SWE OAs usually?"
+        },
+        {
+            "subreddit": "cloud",
+            "title": "What's up in the clouds?",
+            "link": "https://v.redd.it/gtow1t2sldje1",
+            "description": ""
+        },
+        {
+            "subreddit": "cloud",
+            "title": "Automate AWS Infrastructure Using Terraform",
+            "link": "https://amitkumar1.hashnode.dev/automate-aws-infrastructure-using-terraform",
+            "description": ""
         },
         {
             "subreddit": "cloud",
@@ -2434,363 +2512,345 @@
         },
         {
             "subreddit": "cybersecurity",
-            "title": "60% of cybersecurity pros looking to change employers",
-            "link": "https://www.csoonline.com/article/3839266/60-of-cybersecurity-pros-looking-to-change-employers.html",
+            "title": "Best ITIL Foundations Course",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5k2qp/best_itil_foundations_course/",
+            "description": "Hello everyone My employer gave me 500 to spend in whatever course I would like I m non IT and Work in Cybersecurity Compliance and GRC I think ITIL Foundations would be a great entry point to the IT world Do you recommend any Trainning Platform to do the course..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Best certification to get for learning pen testing",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5kjdb/best_certification_to_get_for_learning_pen_testing/",
+            "description": "I'm looking to learn more about pen testing for personal projects and I'm looking to get a certification. I don't need to find a job in this area I just want to learn more about it. What is the best way to? Thanks"
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Exception Management Process",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5m86u/exception_management_process/",
+            "description": "Anyone has a structured exception management process Tracking all policy deviations through formal exception requests submitted by users have this assessed and tracked for closure We have an exception management program but it s getting to be very cumbersome and hard to track since I work for a very large..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Emails from Seemingly-Authetic Companies",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5mffm/emails_from_seeminglyauthetic_companies/",
+            "description": "Recently we started getting several emails of the same pattern Sent from a domain of what looks like a real company and sometimes even when search about it it looks that it has several projects and results and not a small company When I click reply sometimes it even replies..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Incorporate Network Traffic Analysis in the contract with a cloud vendor - best practice",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5rkvx/incorporate_network_traffic_analysis_in_the/",
+            "description": "Hello everyone I m exploring the idea of incorporating Network Traffic Analysis into future cloud vendor contracts to ensure comprehensive network visibility Specifically I m interested in monitoring and analyzing traffic patterns detecting anomalies and gaining visibility into east west lateral traffic within the cloud environment Could anyone share best..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Career Path Question",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5qd6p/career_path_question/",
+            "description": "I am going to begin a hybrid Help Desk and SOC Analyst role next month and I have many questions but I guess a good place to start would be what career paths in cyber security would you look starting from this point?"
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "New SocVel Cyber Quiz Is Out! (SEVEN)",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5q7g4/new_socvel_cyber_quiz_is_out_seven/",
+            "description": "A New SocVel Cyber Quiz is out https www socvel com quiz https www socvel com quiz And for everyone used to open book exams here is your reading list https eocampaign1 com web version p 3fc39506 fb29 11ef bbf8 9be1b0cd888c amp pt campaign amp t 1741334492 amp s c8ef60c773699667058efeadb1124d8a444a7b46fea3e0159f2a2b3a97360576..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Director of Cybersecurity",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5q57e/director_of_cybersecurity/",
+            "description": "What do you do as a Director of Cybersecurity? How technical are you and what experiences prepared you? I feel that a Director is more about the overall security plan and oversight and less about using Metasploit, Nmap, or using Splunk. "
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Top cybersecurity stories for the week of 03-03-25 to 03-07-25",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5pqxh/top_cybersecurity_stories_for_the_week_of_030325/",
+            "description": "Host David Spark will be chatting with our guest Brett Perry CISO Dot Foods about some of the biggest stories in cybersecurity this past week You are invited to watch and participate in the live discussion We go to air at 12 30pm PT 3 30pm ET Just go to..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "What is the best way to block .exe and .msi files from being downloaded by end users?",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5p9e7/what_is_the_best_way_to_block_exe_and_msi_files/",
+            "description": "Hi yall I have been looking for a quick and effective way to block these file types from being downloaded for end users in Chrome and Edge The best way to explain would be to stop users from downloading programs we don t support potentially malicious applications I would like..."
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Bots abusing Google Translate to scrape sites",
+            "link": "/r/BustingBots/comments/1j55wns/new_bot_tactic_scraping_ecommerce_sites_through/",
             "description": ""
         },
         {
             "subreddit": "cybersecurity",
-            "title": "Badbox 2.0 Botnet Hacks 1 Million Android Devices Worldwide",
-            "link": "https://techoreon.com/badbox-2-0-botnet-hacks-1-million-android-devices/",
+            "title": "Is anyone here attending blackhat asia conference 2025",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5nkj3/is_anyone_here_attending_blackhat_asia_conference/",
             "description": ""
         },
         {
             "subreddit": "cybersecurity",
-            "title": "VMware just got hit with 3 zero-days, and hackers are already using them patch now",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4u4xe/vmware_just_got_hit_with_3_zerodays_and_hackers/",
-            "description": "VMware just got hit with three new zero day vulnerabilities and hackers are already exploiting them If you re running ESXi Workstation or Fusion you need to patch ASAP On March 4 2025 Broadcom pushed emergency fixes for CVE 2025 22224 Critical CVSS 9 3 Lets an attacker escape a..."
+            "title": "Current state of enterprise browsers and similar plugins - Any recommendations?",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5n3v3/current_state_of_enterprise_browsers_and_similar/",
+            "description": "Hi our financial service provider world is moving to SaaS faster than we can blink so it is time to get more control and visibility on what happens in the browser I found Island via the Risky Biz http Risky Biz podcast which is in itself already a good bullshit..."
         },
         {
             "subreddit": "cybersecurity",
-            "title": "AgentFence: The Open-Source Project Securing AI Agents",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4u4fx/agentfence_the_opensource_project_securing_ai/",
-            "description": "AI agents are becoming more powerful and complex but how do you know if they re secure and functionally robust Most AI security tools like NVIDIA Garak focus on testing LLMs But AgentFence goes beyond LLMs it s designed to test AI agents ensuring their entire workflow tool usage and..."
+            "title": "Malware analysis - Ransomware",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5mzgf/malware_analysis_ransomware/",
+            "description": "After solving crackmes I decided to take the next step and analyze my first malware Though it wasn t easy I selected smth random from MalwareBazaar i ve written my entire process in a blog post I d be grateful if you write a feedback as i want to improve..."
         },
         {
             "subreddit": "cybersecurity",
-            "title": "Guide to the WiFi Pineapple: A Tool for Ethical WiFi Pentesting",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4sz22/guide_to_the_wifi_pineapple_a_tool_for_ethical/",
-            "description": "I put together a detailed guide on the WiFi Pineapple focusing on its use for ethical penetration testing and network security assessments The guide covers How to set up and configure the device properly Step by step walkthrough for using Evil Portal in authorized security testing How it works to..."
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "Microsoft Defender Quarantine Requests \u2013 Where Are the Admin Notifications?",
-            "link": "/r/sysadmin/comments/1j4rj6v/microsoft_defender_quarantine_requests_where_are/",
+            "title": "Microsoft says malvertising campaign impacted 1 million PCs",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-malvertising-campaign-impacted-1-million-pcs/",
             "description": ""
         },
         {
             "subreddit": "cybersecurity",
-            "title": "AppSec humor, not for NetSec",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4pz2y/appsec_humor_not_for_netsec/",
-            "description": "Never trust someone who says anything with 100% certainty.  \nThat is the only thing about this field I can say with 100% confidence."
+            "title": "Break into OT Cybersecurity",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5jzgg/break_into_ot_cybersecurity/",
+            "description": "Hello guys I m a 2024 graduate with a background in Electronics and Instrumentation technology Currently working as a control engineer in the energy sector I ve always been fascinated by the cybersecurity aspect of Operation tech and would love to make a career change In 2 or 3 months..."
         },
         {
             "subreddit": "cybersecurity",
-            "title": "Coreimpact",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4ptb2/coreimpact/",
-            "description": "Do any of you use core impact? Seems as the the company doesn't really advertise the product as a core product anymore. And I youtube anything about core impact I find super old videos"
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "PAM tool suggestion",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4ooxx/pam_tool_suggestion/",
-            "description": "So yeah im looking for a good PAM tool which is free open source Or has a good features but has free trial or demo Lets say we r trying out the tools to choose which is good for managing each sector So what do u use in for PAM..."
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "PayPal Phishing Email Scam Campaign Exploits DocuSign API to Bypass Security Measures",
-            "link": "https://www.technadu.com/paypal-phishing-email-scam-campaign-exploits-docusign-api-to-bypass-security-measures/578814/",
+            "title": "HR 1709 - Understanding Cybersecurity of Mobile Networks Act",
+            "link": "https://www.opencongress.net/bill-details/40105",
             "description": ""
         },
         {
             "subreddit": "cybersecurity",
-            "title": "Good resources for Threat modeling and secure code review",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4kupe/good_resources_for_threat_modeling_and_secure/",
-            "description": "As the title says, I have an interview coming up. Can someone help me navigate through resources for threat modeling and secure code review. \n\nTIA"
+            "title": "Newcomer to Canada looking for job market advice",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5c9vc/newcomer_to_canada_looking_for_job_market_advice/",
+            "description": "Hello everyone I m about to move to Canada as a permanent resident and I m currently starting to navigate the Canadian cybersecurity job market My background is mostly in AppSec with 6 5 years of experience in the field and prior to that another 2 years in InfoSec totalling..."
         },
         {
             "subreddit": "cybersecurity",
-            "title": "YubiKey 5 NFC or OnlyKey for Pre-Boot Authentication",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4gzus/yubikey_5_nfc_or_onlykey_for_preboot/",
-            "description": "Hello everyone I need some help with the following question I use full disk encryption on my system drive with BestCrypt Volume Encryption protected by a password When I turn on my computer a password prompt appears If I buy a YubiKey 5 NFC or OnlyKey will they be able..."
+            "title": "Cyber security awareness ideas for bank employee",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5bqq0/cyber_security_awareness_ideas_for_bank_employee/",
+            "description": "I am working in bank as cyber security officer. I am looking innovative and recently cyber security awareness ideas for awareness.\nBasic one about malware, 2fa and other have been done. "
         },
         {
             "subreddit": "cybersecurity",
-            "title": "Is CGRC relevant in Europe?",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4dtfr/is_cgrc_relevant_in_europe/",
-            "description": "I m looking into getting a GRC certification within the next year and was considering the CGRC However it seems to be heavily focused on the NIST framework which doesn t appear to be as widely used in Europe or at least in Denmark where I m from My question..."
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "AI Misuse: Over 250 Uses of Google Gemini to Create Terrorist Deepfakes",
-            "link": "https://verdaily.com/ai-misuse-google-gemini-to-create-terrorist-deepfakes/",
+            "title": "Ransomware gang encrypted network from a webcam to bypass EDR",
+            "link": "https://www.bleepingcomputer.com/news/security/akira-ransomware-encrypted-network-from-a-webcam-to-bypass-edr/",
             "description": ""
         },
         {
             "subreddit": "cybersecurity",
-            "title": "Cybersecurity Humor for everyone!!!",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4nr1i/cybersecurity_humor_for_everyone/",
-            "description": "Never trust those who speak with 100% certantiy.  \nI feel perfectly comfortable saying that with 100% confidence."
+            "title": "If You\u2019ve Seen Zero Day on Netflix, How Likely is an Attack Like This to Happen?",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5b6zj/if_youve_seen_zero_day_on_netflix_how_likely_is/",
+            "description": "So I m new to Cybersecurity and I find these topics interesting I know the show is Hollywood but what s the real likelihood a bad actor could infiltrate our infrastructures and defenses at a high scale They name the show Zero Day but I don t see the attack..."
         },
         {
             "subreddit": "cybersecurity",
-            "title": "How do you handle the Imposter Syndrome?",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4n4x9/how_do_you_handle_the_imposter_syndrome/",
-            "description": "Hey everyone I just recently got hired as a brand new soc analyst and I feel like I stick out like a sore thumb I m the youngest person on the team and I m still getting used to things Does the the feeling of not being in their league..."
+            "title": "Security Engineer Interview - ELK Stack",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j5a5oy/security_engineer_interview_elk_stack/",
+            "description": "Hello Im interviewing for a security engineer role and they mentioned a key focus on ELK stack Now I have used ELK stack for work however was mostly the platform team that used it I m wondering what type of questions do you think they ll ask for a security..."
         },
         {
             "subreddit": "cybersecurity",
-            "title": "12 Chinese hackers charged with US Treasury breach \u2014 and much, much more",
-            "link": "https://www.theverge.com/news/625081/doj-criminal-charges-chinese-government-hackers-treasury-silk-typhoon",
+            "title": "Montana Newspaper Employees Warned to Freeze \u201cPersonal Credit\u201d After Cyberattack on Lee Enterprises",
+            "link": "https://www.westernmt.news/2025/03/06/montana-newspaper-employees-warned-to-freeze-personal-credit-after-cyberattack-on-lee-enterprises/",
             "description": ""
         },
         {
             "subreddit": "cybersecurity",
-            "title": "Negotiating With Terrorists: Trends in Ransomware Negotiations from Both sides of the Table",
-            "link": "https://substack.com/home/post/p-158460223",
+            "title": "Does Cold Email Still Work in 2025?",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j58cry/does_cold_email_still_work_in_2025/",
+            "description": "I'm convinced it actually doesn't anymore - Google and Microsoft keep making their checks more stringent and are trying their very best to put an end to it.\n\nAre people still getting success with it?\n\nAnd if not, what are the better alternatives for cold outbounding?"
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "Where does accountability fall in C/I/A?",
+            "link": "https://www.reddit.com/r/cybersecurity/comments/1j57ryr/where_does_accountability_fall_in_cia/",
+            "description": "Purely academic discussion:\n\nIt seems to me that Cyber is often called upon to determine/establish/maintain user activity accountability/repudiation.  \n\nWhere does that fit into the CIA model?"
+        },
+        {
+            "subreddit": "cybersecurity",
+            "title": "EntrySign: Zen and the Art of Microcode Hacking (new AMD Zen 1-4 vulnerability requires BIOS update to patch)",
+            "link": "https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking",
             "description": ""
         },
         {
             "subreddit": "cybersecurity",
-            "title": "China's Silk Typhoon Shifts to IT Supply Chain Attacks",
-            "link": "https://www.darkreading.com/remote-workforce/china-silk-typhoon-it-supply-chain-attacks",
-            "description": ""
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "Python - Security Automation",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4h404/python_security_automation/",
-            "description": "Hi guys im currently learning python and at a good level and im wondering how i can implement python for security automation? Does anyone have any good ideas or examples for using python for security automation?"
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "OWASP Faction - PenTesting Report Generation and Collaboration Framework",
-            "link": "https://owasp.org/www-project-faction/",
-            "description": ""
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "Cybersecurity Internship",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4g8m0/cybersecurity_internship/",
-            "description": "Hello Any advice to increase my chances of obtaining a Cybersecurity internship I m currently in the process of obtaining my masters and haven t gotten any luck Just wanted to know what should I do to increase my odds of getting an internship Also a lot of jobs require..."
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "Need some content for a presentation",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4g4wz/need_some_content_for_a_presentation/",
-            "description": "I m googling like crazy but not finding what I m looking for Is there a common source for trends in cyber attacks year over year It would be great if it details the kind of attack but not required Also looking for trends in outages costs from the attacks..."
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "Was Russia getting security updates for MicroSoft, etc?",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4g0b5/was_russia_getting_security_updates_for_microsoft/",
-            "description": "Not a cybersecurity person. Just wondering during the Biden administration, was Russian computers, network equipment, etc get security updates like any other country.  If so why or why not ?"
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "What do you think about Trump's decision to change US cybersecurity policy towards Russia? Is it a move by Moscow or does Trump have his reasons?",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4f2pa/what_do_you_think_about_trumps_decision_to_change/",
-            "description": ""
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "Seeking for help for a Survey on Human-Centered Cyber Security research!",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4e5gt/seeking_for_help_for_a_survey_on_humancentered/",
-            "description": "Hi everyone I m conducting research for a project at DePaul University and I need your help The study focuses on how cognitive biases influence people s decisions in cybersecurity Specifically we re interested in how users decide when to follow security advice or take precautions such as updating software..."
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "BadBox malware disrupted on 500K infected Android devices",
-            "link": "https://www.bleepingcomputer.com/news/security/badbox-malware-disrupted-on-500k-infected-android-devices/",
-            "description": ""
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "Building a SOC - Need advice on starting small.",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4dlsd/building_a_soc_need_advice_on_starting_small/",
-            "description": "I am in a position where I was offered to develop and run a functioning SOC for the company I am working for Small to medium sized company and looking to get a bit more security aware Looking to start out small and focus on better email threat detection endpoint..."
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "How do you keep your cybersecurity knowledge sharp while out of practice?",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4bvrr/how_do_you_keep_your_cybersecurity_knowledge/",
-            "description": "Hi I m pretty sure this is my first post here but I ve been here for a while I m currently on the SOC Analyst Job Role path on HTB Academy While I am LOVING it I have one worry I currently live in a pretty remote area so..."
-        },
-        {
-            "subreddit": "cybersecurity",
-            "title": "Blocking to run macros of MS Office",
-            "link": "https://www.reddit.com/r/cybersecurity/comments/1j4bzu1/blocking_to_run_macros_of_ms_office/",
-            "description": "Hello I would like to block the ability to run macros on computers but I m stuck at a point where after downloading administrative templates ADMX ADML and unpacking them in Windows PolicyDefinitions on the local disk I still don t see any Office programs after expanding the Administrative Templates..."
-        },
-        {
-            "subreddit": "webdev",
-            "title": "Are StaticHost or \"IONOS Deploy now\" valid Netlify/Vercel EU based alternatives?",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4ver1/are_statichost_or_ionos_deploy_now_valid/",
-            "description": "As per the title I m moving every of my clients to EU servers services and I am trying to find a good alternative to Netlify Vercel that could deploy from a git repository or even any resemblance of serverless functions I ve read of StaticHost and IONOS here https..."
-        },
-        {
-            "subreddit": "webdev",
-            "title": "Why LLMs and AI Agents Won't Remove the Need for Software Engineers (Updated)",
-            "link": "https://appsoftware.substack.com/p/why-llms-and-ai-agents-wont-remove",
+            "title": "Massive botnet compromises 30,000+ devices for record-breaking DDoS assault",
+            "link": "https://www.techspot.com/news/107049-massive-botnet-compromises-30000-devices-record-breaking-ddos.html",
             "description": ""
         },
         {
             "subreddit": "webdev",
-            "title": "I have problems working with async/await and local json file. I have been debugging and smashing my head on table for the past 24 hours!",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4ujan/i_have_problems_working_with_asyncawait_and_local/",
-            "description": "My folder structure txt shopping cart dop shit 2 docs md index html items json script js shoppingCart js store html store js style css team html Assets blue jpg darkGrey jpg green jpg icon cart white svg lightGrey jpg orange jpg purple jpg red jpg userAvatar01 svg userAvatar02 svg..."
+            "title": "RANT &amp; Serious Question: Sendgrid/Twilio has the WORST interface. How can a multi-billion dollar tech company maintain such a shitty web app?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5wce0/rant_serious_question_sendgridtwilio_has_the/",
+            "description": "After 20 years developing for web and mobile with 50 Twilio and Sendgrid projects under my belt I m genuinely baffled Their interfaces are painfully slow and glitchy with constant flashing and redirecting that disrupts workflow The login process is inexcusably time consuming Their handling of the A2P 10DLC transition..."
         },
         {
             "subreddit": "webdev",
-            "title": "Best SSG for an academic site with code demos &amp; interactive visualizations?",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4ucq6/best_ssg_for_an_academic_site_with_code_demos/",
-            "description": "I m a PhD student that s also interested developing scientifc research software I m looking to build a personal website that will have the usual academic stuff blog publications CV but also be a place to show off code and tutorials I eventually want to include features like built..."
+            "title": "When does my website need to be 18+?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5wa0a/when_does_my_website_need_to_be_18/",
+            "description": "I m coding in the US and I know a bunch of states need some kind of verification that someone is 18 before viewing some sites I m building a kink education website that doesn t have nudity but does have sexually oriented content I would like it to be..."
         },
         {
             "subreddit": "webdev",
-            "title": "Need 1h VPS per day for strong computing",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4u6h2/need_1h_vps_per_day_for_strong_computing/",
-            "description": "\nHi i need an extremely strong CPU. i don\u2019t want to buy one, and i can\u2019t rent a server 247\n\ni need it only for 1 hour per day and run windows/macos on it\n\nany recommendations? isnt it possible with google cloud? sorry im a noob"
+            "title": "Is web apps dead ? Is all web technologies going to be stagnated? Is wep apps became dumb , worst, waste, useless, senseless, no career tech when compared with mobile apps ?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5u18y/is_web_apps_dead_is_all_web_technologies_going_to/",
+            "description": "Please give your suggestions why should I still stays as web dev when all businesses are mobile apps now cross platform apps gt react native flutter I get lot of motivation to be a Cross platform mobile app dev but not with web apps anymore because iam not using any..."
         },
         {
             "subreddit": "webdev",
-            "title": "Need Advice on Building a Modern UI for Back-End with AI Functions (Laravel or Django?)",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4u13s/need_advice_on_building_a_modern_ui_for_backend/",
-            "description": "Hey I m new to web development and working on an assignment where I need to create a mobile shop with AI functions I ve got the front end covered using PHP but my lecturer specifically wants the back end UI to be just as sleek and modern as the..."
-        },
-        {
-            "subreddit": "webdev",
-            "title": "Can someone please help me",
-            "link": "https://in.pinterest.com/pin/980236675144265394/",
-            "description": "Can someone give me an idea and guide me to do the animation. Its day 4 and my kids are starving "
-        },
-        {
-            "subreddit": "webdev",
-            "title": "Need help!",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4tcm5/need_help/",
-            "description": "I was thinking to start a tech blogging website I want help from u guys as i was making website on blogger by google I want to add theme template similar to this website https 9to5google com https 9to5google com but i dont know how to do this I searched..."
-        },
-        {
-            "subreddit": "webdev",
-            "title": "Instagram website app, error \"The requested permissions are not available for this app\"",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4t2qx/instagram_website_app_error_the_requested/",
-            "description": "Hi I have this Instagram app in testing for a while and have two Instagram test users I know Meta deprecated the scopes the app was using and now I m trying to get new tokens for the test users with the new scopes they are instagram _business _basic and..."
-        },
-        {
-            "subreddit": "webdev",
-            "title": "How to deal with manager",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4svh0/how_to_deal_with_manager/",
-            "description": "Ive started a project with a company and it was a salaried position in offer letter but after a month what i asked about salary he said it s a onetime payment for whole project which was never mentioned during process After some back and forth i decided to let..."
-        },
-        {
-            "subreddit": "webdev",
-            "title": "3 weeks of RabbitHoles search data prove we all have questionable research habits",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4so5y/3_weeks_of_rabbitholes_search_data_prove_we_all/",
-            "description": "Remember that procrastination tool I built After analyzing three weeks of data I can confirm we re all equally curious in our search patterns The Curious Case of Your Searches I expected educational topics What I got Searches that start with work related queries and somehow end with historical romance..."
-        },
-        {
-            "subreddit": "webdev",
-            "title": "Built AI-Powered Movie Suggestions with React and OpenAI\u2014Here\u2019s What I Learned (and Screwed Up Along the Way)",
-            "link": "https://i.redd.it/1ansh10ti1ne1.png",
+            "title": "What happens when you hit the browser\u2019s refresh button?",
+            "link": "https://csswizardry.com/2025/03/why-do-we-have-a-cache-control-request-header/",
             "description": ""
         },
         {
             "subreddit": "webdev",
-            "title": "My OCD, Pixel Perfect Approach to Creating Crisp SVG icons",
-            "link": "https://persevering.substack.com/p/super-crispy-svg-icons",
+            "title": "I am not domain-savvy. How can I clear the \"invalid handle\" error on my custom domain for a Bluesky profile?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5t0ta/i_am_not_domainsavvy_how_can_i_clear_the_invalid/",
+            "description": "I used Bluesky s built in domain registry to purchase the domain deerxing music http deerxing music naming for specificity s sake but when I try to go through the motions to change the account s handle from deerxingmusic bsky social http deerxingmusic bsky social to deerxing music http deerxing..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Front end challenge for a job",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5sgbe/front_end_challenge_for_a_job/",
+            "description": "Hey everyone I ve just received a challenge for a front end job I applied for but I m having some trouble navigating through it I ll explain The challenge itself is not very difficult They basically gave me a UI that has to be replicated like the one in..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "New Nuxt ui components library",
+            "link": "https://Unite-ui.com",
+            "description": "If you re into developing with Nuxt and vue you must be familiarized with inspira UI and shadcn nuxt I ve created and inspiring to build a UI component library based of them but with my twist to have MatterJS a physics engine and AnimeJS makes animations smoother I still..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "New to the web platform in February",
+            "link": "https://web.dev/blog/web-platform-02-2025?hl=en",
             "description": ""
         },
         {
             "subreddit": "webdev",
-            "title": "Google reCAPTCHA (v3) response sanity check?",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4rnap/google_recaptcha_v3_response_sanity_check/",
-            "description": "Disclaimer this post doubles as a rant Due to spambots I have recently implemented reCAPTCHA on the register page of a website I manage However these asshole bot hosts are sending me random strings in the g recaptcha response field meaning I have to send an assessment to Google which..."
+            "title": "Rant from backend developer that\u2019s trying to work on frontend",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5qwhz/rant_from_backend_developer_thats_trying_to_work/",
+            "description": "I m primarily a backend developer SpringBoot MySQL AWS infrastructure Our greenfield project currently is in a stage where most of the backend infrastructure are set up nicely so adding a new endpoint is quite straightforward And because of that we re have a lot more frontend tickets than backend..."
         },
         {
             "subreddit": "webdev",
-            "title": "Setting up monorepo for web game",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4rjl0/setting_up_monorepo_for_web_game/",
-            "description": "I want to create a web game details don t matter and build it a monorepo React with Vite in frontend NodeJS in backend Typescript on both SQL pnpm Socket io for pvp Client folder server folder and shared folder common types and game engine tools I have been having..."
+            "title": "switch from domain.com to save money?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5qjql/switch_from_domaincom_to_save_money/",
+            "description": "I have a domain I got several years ago from domain com I guess register com bought them out because my bills for renewal come from that site now So they want 115 for 3 years this time If I move my domain to another registrar could I save money..."
         },
         {
             "subreddit": "webdev",
-            "title": "My LinkedIn profile is currently empty;what type of projects or certificates can I showcase to make my profile more engaging?",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4rcag/my_linkedin_profile_is_currently_emptywhat_type/",
-            "description": "I'm in second year rn and currently into full stack development "
+            "title": "I finally understood why using rem instead of px is a good practice",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5qjlg/i_finally_understood_why_using_rem_instead_of_px/",
+            "description": "For years I was too afraid to ask what the actual reason for this good practice was I am now working on a project where end users often have laptops with tiny screens and their company managed browser has a default zoom of 150 We had to reduce the entire..."
         },
         {
             "subreddit": "webdev",
-            "title": "Constant productivity",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4r0lm/constant_productivity/",
-            "description": "Hey guys I am wondering if more you have this issue I work in a hybrid type of situation 2 days at the office and 2 days from home My employer is very happy with my work in terms of speed and quality However at the office it s not..."
+            "title": "First Time Using WordPress \u2013 How to Connect Plugin to My API?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5l35j/first_time_using_wordpress_how_to_connect_plugin/",
+            "description": "Hey guys I know this might be a dumb question for some of you but this is my first time using WordPress I m usually a coder and build websites with HTML CSS and JavaScript but my first customer specifically asked for a WordPress site I m trying to connect..."
         },
         {
             "subreddit": "webdev",
-            "title": "Create a npm package that can be configured by the client",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4r033/create_a_npm_package_that_can_be_configured_by/",
-            "description": "I ve developed an NPM package that provides three key functionalities 1 Grid System It divides the screen width into columns for a grid based layout not relevant to my current issue 2 CSS Variable Generation It takes a standard JSON configuration and generates CSS variables e g colors as..."
+            "title": "Looking for scoring software for team trivia.",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5kxc4/looking_for_scoring_software_for_team_trivia/",
+            "description": "I m not sure if this is the right sub to ask this question but doing a search on Reddit just popped up at the top of the list I host local team trivia nights where we have up to 30 teams and need a simple way to track the..."
         },
         {
             "subreddit": "webdev",
-            "title": "How did you with migrate a backend from PHP to JS/TS?",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4qu7s/how_did_you_with_migrate_a_backend_from_php_to/",
-            "description": "This is something that I ll pretty likely have to do and I haven t found much real world stories about such migrations online If you ve done this kind of migration how did you do it I m mostly interested in migrations that have to be done incrementally on..."
+            "title": "Respecting User Preference",
+            "link": "https://vale.rocks/posts/respecting-user-preference",
+            "description": ""
         },
         {
             "subreddit": "webdev",
-            "title": "Why Wasm?",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4q7pz/why_wasm/",
-            "description": "So I was reading about Wasm I was amazed by the fact that you can run other languages compiled to Wasm by using it in JS There are many tools too such as Emscripten Blazor Assembly Script etc So I have a question in my mind Why are we using..."
+            "title": "Work chair, with or without armrests?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5kgz3/work_chair_with_or_without_armrests/",
+            "description": "leTit\n\n[View Poll](https://www.reddit.com/poll/1j5kgz3)"
         },
         {
             "subreddit": "webdev",
-            "title": "My (Hopeful) Cursor Redemption Arc.",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4prw6/my_hopeful_cursor_redemption_arc/",
-            "description": "This past week I posted on this subreddit about a silly problem that didn t really need to be fixed but I m glad I did Turns out the custom cursor trail I spent hours fiddling with which I thought was the coolest thing about my website actually sucked And..."
+            "title": "Website plugin compatible with woocommerce and wordpress.",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5kfmm/website_plugin_compatible_with_woocommerce_and/",
+            "description": "Hi all I am looking for advice on the best plugin or plugins that will offer me the features I need on my website I am building an ecommerce platform and my clients need to be able to book a venue from a list or various venues and see live..."
         },
         {
             "subreddit": "webdev",
-            "title": "Information sector hiring rate currently resembles the Great Recession and Dot Com Crash | Federal Bureau of Labor Statistics",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4poed/information_sector_hiring_rate_currently/",
-            "description": "https preview redd it 1il3lm1sl0ne1 png width 482 amp format png amp auto webp amp s 830aafadfee1ac03621aa2551a04b6c03dd897f3 https preview redd it q1lkl0ium0ne1 png width 477 amp format png amp auto webp amp s 5d7ab743e3677f7ae7d3990ea093625ada787b8f Saw a similar post not long ago using Indeed data which people didn t like because..."
+            "title": "Best no login wireframe creation software",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5jylj/best_no_login_wireframe_creation_software/",
+            "description": "Hi I have an exam soon that requires I create both high fidelity and low fidelity wireframes for a website Usually I would use Figma but we re not allowed to login to any personal accounts that would allow us to work on the exam outside of exam hours What..."
         },
         {
             "subreddit": "webdev",
-            "title": ".llmignore - control what files ide llm's can edit",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4p2gx/llmignore_control_what_files_ide_llms_can_edit/",
-            "description": "[https://lordajax.com/llmignore.html](https://lordajax.com/llmignore.html)"
+            "title": "How to handle huge load for small amount of time on aws lambda?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5jc3v/how_to_handle_huge_load_for_small_amount_of_time/",
+            "description": "So we are building a Launchpad sort of platform where people can create let s say landing page for product sale Now when this goes live we are expecting thousands of users to be on the page alp at once because launch time usually gets announced and promoted heavily One..."
         },
         {
             "subreddit": "webdev",
-            "title": "Creating a User Cart with Woocommerce backend?",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4oxr7/creating_a_user_cart_with_woocommerce_backend/",
-            "description": "Nextjs frontend woocommerce headless backend I don t think there s any way to tie a cart to a user unless I made a custom plugin and put it in their metadata There s some stuff like cocart and cart API but it seems to be sessionbased rather than tied..."
+            "title": "ruby-align is Baseline Newly available",
+            "link": "https://web.dev/blog/baseline-ruby-align?hl=en",
+            "description": ""
         },
         {
             "subreddit": "webdev",
-            "title": "Stripe recurring subscriptions and 3D Secure question",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4owsg/stripe_recurring_subscriptions_and_3d_secure/",
-            "description": "Hi guys I m the full time marketing manager and part time front end developer for an e commerce business that runs their own e com stack We also have a full time dev who s supposed to be full stack but his backend work written in Java is better..."
+            "title": "Something for managing statistics",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5itc9/something_for_managing_statistics/",
+            "description": "I have app that will shortly need to track many different aspects and show them to my users for example page views per project registration count completed orders amount of money received sent received opened emails how many users ended up at each step they were ment to take App..."
         },
         {
             "subreddit": "webdev",
-            "title": "Best place to purchase domain names?",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4odon/best_place_to_purchase_domain_names/",
-            "description": "Hey there I know nothing at all about web development but hoping to start a business and website this year and learn what I need to For starters I just want to secure some domains to protect them in the mean time but I don t need any other services..."
+            "title": "Wordpress imposter",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5ihqy/wordpress_imposter/",
+            "description": "I ve worked professionally as a front end web developer for 3 years and was recently laidoff I was desperate for a job and began applying to almost anywhere I just received a job offer for designing developing wordpress sites for a large industrial company I figured i could do..."
         },
         {
             "subreddit": "webdev",
-            "title": "How to position elements and or a group of elements.",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4nzq3/how_to_position_elements_and_or_a_group_of/",
-            "description": "I m struggling to understand the concept of how I d position an element in a specific spot in a webpage without using position properties which should make it unresponsive to my knowledge I understand the basics of Flexbox and grid but I don t see how any of the..."
+            "title": "AWS S3 to Digital Ocean Space - File Transfer Script",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_digital_ocean_space_file_transfer_script/",
+            "description": "So here is the story The company currently I work for wants to move one of their web service storage from AWS S3 to Digital Ocean Space So as I am currently working developer I have been assigned to move all the data and VMs from one cloud provider to..."
         },
         {
             "subreddit": "webdev",
-            "title": "Worst chair for coding. What should I avoid?",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4n5t5/worst_chair_for_coding_what_should_i_avoid/",
-            "description": "Long coding sessions are bad enough without an uncomfortable chair making things worse I made the mistake of getting a Flexfit Hyken mesh chair and while it seemed fine at first the mesh wore out quickly collected dust and lost its support over time Definitely not great for long hours..."
+            "title": "How do you scale without going crazy ?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5hydh/how_do_you_scale_without_going_crazy/",
+            "description": "I m doing web development as well as digital marketing since almost 5 years and one year ago I began taking more web dev contracts because of opportunity I m taking more and more difficult projects as my skill grows because the amount of money per project that I can..."
         },
         {
             "subreddit": "webdev",
-            "title": "If you ever need to feel good about yourself as a developer, just go to Comcast's website and open up the console and watch the sea of errors cascade around you in an allegedly production ready website.",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4mss3/if_you_ever_need_to_feel_good_about_yourself_as_a/",
-            "description": "Same for Pizza Hut's website. Just saying, if the imposter syndrome is hitting hard, go watch those websites struggle and remember someone is getting paid to produce that hot trash."
+            "title": "CMS Recommendation",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5h22a/cms_recommendation/",
+            "description": "I ve got an interest in creating a website that aggregates amateur athletic events Ex Find a Bike rides 10K s Turkey trots I m sure I m not the first but my twist will be some GIS elements and lightweight review elements I am normally on the server side..."
         },
         {
             "subreddit": "webdev",
-            "title": "Do you have a personal logo, like for your personal portfolio site (not business)?",
-            "link": "https://www.reddit.com/r/webdev/comments/1j4mcnp/do_you_have_a_personal_logo_like_for_your/",
-            "description": "Title says it all."
+            "title": "What browsers to focus on?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5gcj6/what_browsers_to_focus_on/",
+            "description": "So I m new to front end and one thing that I m unclear about right is the browser compatibility As of right now I m working on some projects as a hobby and I want to know what are the main browsers should I focus on I m a..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "in typescript, do modern, small scale startups even need to worry about bundling/minification, etc?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5fkbe/in_typescript_do_modern_small_scale_startups_even/",
+            "description": "I spent the entire day reading up on bundlers compilers minifiers transpilers polyfill code splitting and tree shaking as executed by Parcel Rollup ESBuild Webpack SWC Babel and RSpack only to come to the conclusion that I dont need to worry about it because my front end is built with..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Someone else's content is appearing on a URL I own",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5ewn1/someone_elses_content_is_appearing_on_a_url_i_own/",
+            "description": "I own a domain that was previously managed by Google Domains before being transferred over to Squarespace I briefly hosted some blog type content just for my own purposes but I pulled that down a while ago it s been a long time since I visited the URL I navigated..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Responsive iframes?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5e8w9/responsive_iframes/",
+            "description": "I ve made content that was meant to be displayed on another website widgets meant to support other content written in top site s content editor My content is super responsive fitting itself to any viewport reflowing beautifully and offering a layout toggle for portrait or landscape viewing but I..."
+        },
+        {
+            "subreddit": "webdev",
+            "title": "Is it easier to learn postgresql if I have done 2-3 mongodb projects in the past?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5dtb6/is_it_easier_to_learn_postgresql_if_i_have_done/",
+            "description": "Inquiry about databases"
+        },
+        {
+            "subreddit": "webdev",
+            "title": "What\u2019s all required to make a web app?",
+            "link": "https://www.reddit.com/r/webdev/comments/1j5dkme/whats_all_required_to_make_a_web_app/",
+            "description": "I m trying to make a web app and or SaSS product I understand I ll need a good understanding of front end technologies as well as backend technologies I ve come across learning platforms like Scrima Front end and Boot dev backend Will these two learning platforms give me..."
         }
     ],
     "devto": [
@@ -2800,9 +2860,14 @@
             "description": "This is a submission for the WeCoded Challenge: Echoes of Experience  Earth has traveled around the..."
         },
         {
-            "title": "Congrats to the Frontend Challenge: February Edition Winners!",
-            "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-february-edition-winners-3an9",
-            "description": "The wait is over! We are excited to announce the winners of the Frontend Challenge: February Edition...."
+            "title": "Hierarchy was a Mistake",
+            "link": "https://dev.to/manuartero/hierarchy-was-a-mistake-59ea",
+            "description": "I love memes.  They have this incredible ability to condense not just a message, but also culture,..."
+        },
+        {
+            "title": "What was your win this week?!",
+            "link": "https://dev.to/devteam/what-was-your-win-this-week-52n3",
+            "description": "\ud83d\udc4b\ud83d\udc4b\ud83d\udc4b\ud83d\udc4b  Looking back on your week -- what was something you're proud of?  All wins count -- big or..."
         },
         {
             "title": "The Adventures of Blink S3e1: It's Time To Start Season 3!",
@@ -2810,14 +2875,19 @@
             "description": "Hey Pals!  It's finally time to start Season 3!           Youtube, for those who don't feel like..."
         },
         {
-            "title": "WeCoded 2025: Celebrate Those Wins!",
-            "link": "https://dev.to/theoriginalbpc/wecoded-2025-celebrate-those-wins-4j64",
-            "description": "This year\u2019s WeCoded celebration is the perfect opportunity for everyone to take time to celebrate all..."
+            "title": "Blooming WeCoded Landing Page",
+            "link": "https://dev.to/pinky057/blooming-wecoded-landing-page-9lo",
+            "description": "This is a submission for the WeCoded Challenge: Celebrate in Code           My WeCoded Landing..."
         },
         {
-            "title": "Performance tip - How to avoid too many re-rendering items in an Angular List",
-            "link": "https://dev.to/railsstudent/performance-tip-how-to-avoid-too-many-re-rendering-items-in-an-angular-list-19oh",
-            "description": "I created a demo to show how a list can undergo extra rendering after a button click occurs in a list..."
+            "title": "Comparing Machine Learning Algorithms Using Friedman Test and Critical Difference Diagrams in Python",
+            "link": "https://dev.to/milenamonteiro/comparing-machine-learning-algorithms-using-friedman-test-and-critical-difference-diagrams-in-python-10a9",
+            "description": "When you're working with machine learning, deciding which algorithm performs best across multiple..."
+        },
+        {
+            "title": "Congrats to the Frontend Challenge: February Edition Winners!",
+            "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-february-edition-winners-3an9",
+            "description": "The wait is over! We are excited to announce the winners of the Frontend Challenge: February Edition...."
         },
         {
             "title": "\ud83e\udd16 Comparing OpenAI GPT 4.5 and Claude 3.7 Sonnet on Coding \ud83d\ude80",
@@ -2835,9 +2905,24 @@
             "description": "What Even is the Best Stack? \ud83e\udd14   As developers, we are constantly in pursuit of the best way..."
         },
         {
-            "title": "Build a Bookmark Manager with the HONC Stack",
-            "link": "https://dev.to/lauragift21/build-a-bookmark-manager-with-the-honc-stack-39b4",
-            "description": "What Even is the Best Stack? \ud83e\udd14   As developers, we are constantly in pursuit of the best way..."
+            "title": "Performance tip - How to avoid too many re-rendering items in an Angular List",
+            "link": "https://dev.to/railsstudent/performance-tip-how-to-avoid-too-many-re-rendering-items-in-an-angular-list-19oh",
+            "description": "I created a demo to show how a list can undergo extra rendering after a button click occurs in a list..."
+        },
+        {
+            "title": "Top 7 Featured DEV Posts of the Week",
+            "link": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-35o5",
+            "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the..."
+        },
+        {
+            "title": "It\u2019s Not A.I. \u2014 Junior Developers Have Always Struggled to Code",
+            "link": "https://dev.to/thatsoftwaredude/its-not-ai-junior-developers-have-always-struggled-to-code-26gc",
+            "description": "AI, as of late, is taking the blame for making junior developers \u201cworse\u201d at writing code, but in my..."
+        },
+        {
+            "title": "Join Our First-Ever WeCoded Challenge \u2013 Celebrating Underrepresented Voices in Tech Through Stories & Code!",
+            "link": "https://dev.to/devteam/join-our-first-ever-wecoded-challenge-celebrating-underrepresented-voices-in-tech-through-stories-5m5",
+            "description": "We're excited to announce the launch of our first-ever WeCoded Challenge\u2014a new way to celebrate..."
         },
         {
             "title": "New DEV++ Deal: get a .fun domain for free!",
@@ -2855,44 +2940,34 @@
             "description": "Amit has created and published multiple Google Workspace Add-ons which have combined more than 46M+ installs on the Google Workspace Marketplace. ..."
         },
         {
-            "title": "Join Our First-Ever WeCoded Challenge \u2013 Celebrating Underrepresented Voices in Tech Through Stories & Code!",
-            "link": "https://dev.to/devteam/join-our-first-ever-wecoded-challenge-celebrating-underrepresented-voices-in-tech-through-stories-5m5",
-            "description": "We're excited to announce the launch of our first-ever WeCoded Challenge\u2014a new way to celebrate..."
-        },
-        {
-            "title": "It\u2019s Not A.I. \u2014 Junior Developers Have Always Struggled to Code",
-            "link": "https://dev.to/thatsoftwaredude/its-not-ai-junior-developers-have-always-struggled-to-code-26gc",
-            "description": "AI, as of late, is taking the blame for making junior developers \u201cworse\u201d at writing code, but in my..."
-        },
-        {
-            "title": "Fine-Tuning A LLM Small Practical Guide With Resources",
-            "link": "https://dev.to/zeedu_dev/fine-tuning-a-llm-small-practical-guide-with-resources-bg5",
-            "description": "I tried to fine-tune a DeepSeek model but failed, then I tried to do it with Llama and I couldn't..."
-        },
-        {
-            "title": "Welcome Thread - v317",
-            "link": "https://dev.to/devteam/welcome-thread-v317-57i0",
-            "description": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're..."
-        },
-        {
             "title": "What're inside OpenTelemetry Collector and ADOT?",
             "link": "https://dev.to/aws/whatre-inside-opentelemetry-collector-and-adot-152e",
             "description": "ADOT is just a variety of OpenTelemery Collector distribution. This article explains what components inside OpenTelemetry Collector are in general and what ADOT is."
         },
         {
-            "title": "How to Create Dynamic OG Images in Nuxt",
-            "link": "https://dev.to/jacobandrewsky/how-to-create-dynamic-og-images-in-nuxt-1ehf",
-            "description": "If you're building a Nuxt app and want your content to stand out on social media, dynamic OG images..."
+            "title": "Initial Thoughts on bolt.new",
+            "link": "https://dev.to/davidshq/initial-thoughts-on-boltnew-4be0",
+            "description": "I've been playing around with Stackblitz's bolt.new, it's pretty impressive.  Here are some things I..."
         },
         {
-            "title": "Who's hiring? \u2014 March 2025",
-            "link": "https://dev.to/fmerian/whos-hiring-march-2025-301p",
-            "description": "Product engineers, Developer advocates, or Technical writers?  If you're looking for a new..."
+            "title": "The future of dev, I'm confused...",
+            "link": "https://dev.to/echotedev/the-future-of-dev-im-confused-5433",
+            "description": "I've just started a programming course to become a web developer, beginning with frontend development..."
+        },
+        {
+            "title": "Meme Monday",
+            "link": "https://dev.to/ben/meme-monday-5646",
+            "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in..."
         },
         {
             "title": "Join Future\u2019s First Writing Challenge!",
             "link": "https://dev.to/futureteam/join-futures-first-writing-challenge-4bj4",
             "description": "We are so excited to share Future\u2019s first writing challenge with everyone here on DEV. Future is our..."
+        },
+        {
+            "title": "Fine-Tuning A LLM Small Practical Guide With Resources",
+            "link": "https://dev.to/zeedu_dev/fine-tuning-a-llm-small-practical-guide-with-resources-bg5",
+            "description": "I tried to fine-tune a DeepSeek model but failed, then I tried to do it with Llama and I couldn't..."
         },
         {
             "title": "\ud83d\udea8 Micro-frontends: The Dumbest Idea Tech Bros Have Ever Sold to Businesses \ud83d\udea8",
@@ -2928,108 +3003,83 @@
             "title": "Claude 3.7 Sonnet vs. Grok 3 vs. o3-mini-high: Coding comparison",
             "link": "https://dev.to/composiodev/claude-37-sonnet-vs-grok-3-vs-o3-mini-high-coding-comparison-23oe",
             "description": "For a couple of weeks now, the tech community has been getting surprised by all these new AI models..."
-        },
-        {
-            "title": "Who Wins Dev.to Challenges? (And The Hidden Benefits No One Talks About)",
-            "link": "https://dev.to/olgabraginskaya/who-wins-devto-challenges-and-the-hidden-benefits-no-one-talks-about-4cg5",
-            "description": "At the beginning of this year I made a decision - I was going to participate in every Dev.to..."
-        },
-        {
-            "title": "Prompt Engineering Patterns for Successful RAG Implementations",
-            "link": "https://dev.to/shittu_olumide_/prompt-engineering-patterns-for-successful-rag-implementations-2m2e",
-            "description": "RAG has been the magic sauce behind the scenes, empowering many AI-driven applications to transcend..."
-        },
-        {
-            "title": "Is there a local community in your area?",
-            "link": "https://dev.to/balastrong/is-there-a-local-community-in-your-area-21kn",
-            "description": "Welcome to my newsletter, this is issue #2. If you'd like to receive the next issues in your inbox..."
-        },
-        {
-            "title": "About the Dead Internet Theory and AI",
-            "link": "https://dev.to/rogiia/about-the-dead-internet-theory-and-ai-35g",
-            "description": "On the Internet nobody knows you are a dog... or an LLM    The Dead Internet Theory is a thought..."
-        },
-        {
-            "title": "Streamline your LangChain deployments with LangServe",
-            "link": "https://dev.to/googlecloud/streamline-your-langchain-deployments-with-langserve-1g38",
-            "description": "Learn how to streamline exposing AI models using LangChain and LangServe, deployed on Google Kubernetes Engine (GKE)."
         }
     ],
     "slashdot": [
         {
-            "title": "China To Publish Policy To Boost RISC-V Chip Use Nationwide",
-            "link": "https://news.slashdot.org/story/25/03/06/1316253/china-to-publish-policy-to-boost-risc-v-chip-use-nationwide?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "AmiMoJo writes China plans to issue guidance to encourage the use of open source RISC V chips nationwide for the first time Reuters reports citing two sources briefed on the matter as Beijing accelerates efforts to curb the country s dependence on Western owned technology The policy guidance on boosting..."
+            "title": "Apple Delays 'More Personalized Siri' Apple Intelligence Features",
+            "link": "https://apple.slashdot.org/story/25/03/07/1833202/apple-delays-more-personalized-siri-apple-intelligence-features?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "Apple is postponing the rollout of its more personalized Siri features originally promised as part of its Apple Intelligence initiative It s going to take us longer than we thought to deliver on these features and we anticipate rolling them out in the coming year Apple told DaringFireball The future..."
         },
         {
-            "title": "Eric Schmidt Argues Against a 'Manhattan Project for AGI'",
-            "link": "https://slashdot.org/story/25/03/06/138259/eric-schmidt-argues-against-a-manhattan-project-for-agi?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "In a policy paper former Google CEO Eric Schmidt Scale AI CEO Alexandr Wang and Center for AI Safety Director Dan Hendrycks said that the U S should not pursue a Manhattan Project style push to develop AI systems with superhuman intelligence also known as AGI From a report The..."
+            "title": "EU Denies Picking on US Tech Giants",
+            "link": "https://slashdot.org/story/25/03/07/1755246/eu-denies-picking-on-us-tech-giants?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "Europe s new tech rule aims to keep digital markets open and is not targeted at U S tech giants EU antitrust and tech chiefs told U S congressmen reminding them that U S enforcers have in recent years also cracked down on these companies From a report The comments..."
         },
         {
-            "title": "India Grants Tax Officials Sweeping Digital Access Powers",
-            "link": "https://yro.slashdot.org/story/25/03/06/0836227/india-grants-tax-officials-sweeping-digital-access-powers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "India s income tax department will gain powers to access citizens social media accounts emails and other digital spaces beginning April 2026 under the new income tax bill in a significant expansion of its search and seizure authority The legislation which has raised privacy concerns among legal experts allows tax..."
+            "title": "Study Reveals Lab Size Impacts PhD Students' Academic Careers",
+            "link": "https://science.slashdot.org/story/25/03/07/1717212/study-reveals-lab-size-impacts-phd-students-academic-careers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "PhD students trained in small research groups are more likely to remain in academia than those from larger labs according to a comprehensive analysis published in Nature Human Behaviour The study which examined 1 5 million scientists and 1 8 million mentorships across chemistry physics and neuroscience found that trainees..."
         },
         {
-            "title": " Goldman Sachs: Why AI Spending Is Not Boosting GDP",
-            "link": "https://slashdot.org/story/25/03/06/0619224/goldman-sachs-why-ai-spending-is-not-boosting-gdp?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "Goldman Sachs in a research note Thursday the note isn t publicly posted Annualized revenue for public companies exposed to the build out of AI infrastructure increased by over 340 billion from 2022 through 2024Q4 and is projected to increase by almost 580 billion by end 2025 In contrast annualized..."
+            "title": "US Likely To Ban Chinese App DeepSeek From Government Devices",
+            "link": "https://news.slashdot.org/story/25/03/07/1616237/us-likely-to-ban-chinese-app-deepseek-from-government-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "The White House is weighing measures to restrict Chinese artificial intelligence upstart DeepSeek including banning its chatbot from government devices because of national security concerns WSJ reported Friday citing people familiar with the matter From the report U S officials are worried about DeepSeek s handling of user data which..."
         },
         {
-            "title": "Utah Passes First US App Store Age Verification Law",
-            "link": "https://news.slashdot.org/story/25/03/06/0348233/utah-passes-first-us-app-store-age-verification-law?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "Utah has become the first U S state to pass legislation requiring app store operators to verify users ages and obtain parental consent for minors downloading apps The App Store Accountability Act adds to a wave of children s online safety bills advancing through state legislatures nationwide Similar legislation has..."
+            "title": "Microsoft Quantum Computing 'Breakthrough' Faces Fresh Challenge",
+            "link": "https://slashdot.org/story/25/03/07/1350230/microsoft-quantum-computing-breakthrough-faces-fresh-challenge?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "An anonymous reader shares a report A physicist has cast doubt on a test that underlies a high profile claim by Microsoft to have created the first topological qubits a long sought goal of the company s quantum computing effort The critique comes amid mounting speculation about the validity of..."
         },
         {
-            "title": "Amazon Tests AI Dubbing on Prime Video Movies, Series",
-            "link": "https://slashdot.org/story/25/03/05/1954215/amazon-tests-ai-dubbing-on-prime-video-movies-series?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "Amazon has launched a pilot program testing AI aided dubbing for select content on Prime Video offering translations between English and Latin American Spanish for 12 licensed movies and series including El Cid La Leyenda Mi Mama Lora and Long Lost The company describes a hybrid approach where localization professionals..."
+            "title": "Nate Silver on the Demise of FiveThirtyEight",
+            "link": "https://politics.slashdot.org/story/25/03/07/1339236/nate-silver-on-the-demise-of-fivethirtyeight?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "FiveThirtyEight founder Nate Silver on the site s demise Last night as President Trump delivered his State of the Union address the Wall Street Journal reported that ABC News would lay off the remaining staff at 538 as part of broader cuts within corporate parent Disney Having been through several..."
         },
         {
-            "title": "Google is Adding More AI Overviews and a New 'AI Mode' To Search",
-            "link": "https://tech.slashdot.org/story/25/03/05/1944216/google-is-adding-more-ai-overviews-and-a-new-ai-mode-to-search?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "Google announced Wednesday it is expanding its AI Overviews to more query types and users worldwide including those not logged into Google accounts while introducing a new AI Mode chatbot feature AI Mode which resembles competitors like Perplexity or ChatGPT Search will initially be limited to Google One AI Premium..."
+            "title": "Brazil Orders Apple To Allow iOS Sideloading Within 90 Days",
+            "link": "https://apple.slashdot.org/story/25/03/07/138226/brazil-orders-apple-to-allow-ios-sideloading-within-90-days?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "A Brazilian judge has ordered Apple to open its iOS platform to alternative app stores within 90 days according to Valor International The ruling cited Apple s compliance with similar requirements in the European Union under the Digital Markets Act without showing significant impact or irreparable harm to its economic..."
         },
         {
-            "title": "Europe on Alert Over Suspected Sabotage of Undersea Cables",
-            "link": "https://tech.slashdot.org/story/25/03/05/1928223/europe-on-alert-over-suspected-sabotage-of-undersea-cables?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "European nations have heightened security after a series of suspected sabotage attacks on submarine infrastructure in the Baltic Sea with officials increasingly pointing to Russia as the likely culprit Finnish authorities detained the tanker Eagle S in December after it allegedly damaged three undersea fiber optic connections with Estonia and..."
+            "title": "Intuitive Machines Lunar Lander Reaches Moon, Status Uncertain",
+            "link": "https://science.slashdot.org/story/25/03/07/1321219/intuitive-machines-lunar-lander-reaches-moon-status-uncertain?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "Intuitive Machines Athena lander touched down near the lunar south pole Thursday but may have toppled during landing jeopardizing its scientific mission We re trying to evaluate exactly what happened in that last bit said Tim Crain Intuitive Machines chief technology officer Data from an inertial measurement unit suggests the..."
         },
         {
-            "title": "Nintendo Says Latest Legal Win Against Piracy 'Significant' For 'Entire Games Industry'",
-            "link": "https://games.slashdot.org/story/25/03/05/1842243/nintendo-says-latest-legal-win-against-piracy-significant-for-entire-games-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "Nintendo has trumpeted its latest legal success in the company s ongoing fight against pirated games as significant not only for itself but for the entire games industry From a report The Mario maker today confirmed it had won a final victory over French file sharing company Dstorage which operates..."
+            "title": "DuckDuckGo Is Amping Up Its AI Search Tool",
+            "link": "https://yro.slashdot.org/story/25/03/07/0432251/duckduckgo-is-amping-up-its-ai-search-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "An anonymous reader quotes a report from The Verge DuckDuckGo has big plans for embedding AI into its search engine The privacy focused company just announced that its AI generated answers which appear for certain queries on its search engine have exited beta and now source information from across the..."
         },
         {
-            "title": "Could New Clocks Keep Airplanes Safe From GPS Jamming?",
-            "link": "https://science.slashdot.org/story/25/03/05/1822239/could-new-clocks-keep-airplanes-safe-from-gps-jamming?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "Geoffrey landis writes Over the last three months of 2024 more than 800 cases of GPS interference were recorded in Lithuanian airspace Estonia and Finland have also raised concerns accusing Russia of deploying technology to jam satellite navigation signals near Nato s eastern flank A group of British scientists dubbed..."
+            "title": "Mistral Adds a New API That Turns Any PDF Document Into an AI-Ready Markdown File",
+            "link": "https://slashdot.org/story/25/03/07/0426243/mistral-adds-a-new-api-that-turns-any-pdf-document-into-an-ai-ready-markdown-file?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "Mistral has launched a new multimodal OCR API that converts complex PDF documents into AI friendly Markdown files The API is designed for efficiency handles visual elements like illustrations supports complex formatting such as mathematical expressions and reportedly outperforms similar offerings from major competitors TechCrunch reports Unlike most OCR APIs..."
         },
         {
-            "title": "Half of World's CO2 Emissions Come From 36 Fossil Fuel Firms, Study Shows",
-            "link": "https://news.slashdot.org/story/25/03/05/181204/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "Half of the world s climate heating carbon emissions come from the fossil fuels produced by just 36 companies analysis has revealed From a report The researchers said the 2023 data strengthened the case for holding fossil fuel companies to account for their contribution to global heating Previous versions of..."
+            "title": "SpaceX's Latest Starship Test Flight Ends With Another Explosion",
+            "link": "https://science.slashdot.org/story/25/03/07/0422209/spacexs-latest-starship-test-flight-ends-with-another-explosion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "SpaceX s eighth Starship test flight ended in failure after losing control and breaking apart shortly after launch sending debris over Florida Starship didn t make it quite as high or as far as the attempt nearly two months ago notes NPR That attempt ended with an explosion that sent..."
         },
         {
-            "title": "Microsoft Warns of Chinese Hackers Spying on Cloud Technology",
-            "link": "https://slashdot.org/story/25/03/05/1743246/microsoft-warns-of-chinese-hackers-spying-on-cloud-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "Microsoft warned that an advanced Chinese hacking group is waging a campaign of supply chain attacks From a report The company s threat intelligence division said in a blog post Wednesday that the group known as Silk Typhoon was targeting remote management tools and cloud applications in order to spy..."
+            "title": "AI Tries To Cheat At Chess When It's Losing",
+            "link": "https://games.slashdot.org/story/25/03/06/233246/ai-tries-to-cheat-at-chess-when-its-losing?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "Newer generative AI models have begun developing deceptive behaviors such as cheating at chess when they cannot achieve objectives through standard reasoning methods The findings come from a preprint study from Palisade Research An anonymous reader shares an excerpt from a Popular Science article To learn more the team from..."
         },
         {
-            "title": "OpenAI Plots Charging $20,000 a Month For PhD-Level Agents",
-            "link": "https://slashdot.org/story/25/03/05/1559207/openai-plots-charging-20000-a-month-for-phd-level-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "OpenAI is preparing to launch a tiered pricing structure for its AI agent products with high end research assistants potentially costing 20 000 per month alternative source according to The Information The AI startup which already generates approximately 4 billion in annualized revenue from ChatGPT plans three service levels 2..."
+            "title": "US Mulls Policing Social Media of Would-Be Citizens",
+            "link": "https://yro.slashdot.org/story/25/03/06/2248204/us-mulls-policing-social-media-of-would-be-citizens?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "The U S Citizenship and Immigration Services USCIS is proposing to expand mandatory social media screening currently required only for new arrivals to include all non citizens already residing in the U S who apply for immigration benefits The Register reports Back in 2019 the Department of Homeland Security which..."
         },
         {
-            "title": "Apple Refreshes MacBook Air With M4 Chip, Lower Pricing",
-            "link": "https://apple.slashdot.org/story/25/03/05/1522201/apple-refreshes-macbook-air-with-m4-chip-lower-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "Apple has refreshed its MacBook Air lineup with the M4 processor adding a new sky blue color option and reducing prices across the board The 13 inch model now starts at 999 while the 15 inch begins at 1 199 Both models are available to order immediately and will ship..."
+            "title": "Gboard Testing Circle, Pill-Shaped Keys On Android",
+            "link": "https://slashdot.org/story/25/03/06/2242258/gboard-testing-circle-pill-shaped-keys-on-android?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "Google Gboard for Android is introducing circle or pill shaped keys for some beta testers today Instead of the key borders being rounded rectangles Gboard is switching to circles and pills for letters while the space bar and other keys are now pill shaped reports 9to5Google While there should be..."
         },
         {
-            "title": "Google Urges DOJ To Reverse Course on Breaking Up Company",
-            "link": "https://tech.slashdot.org/story/25/03/05/1355244/google-urges-doj-to-reverse-course-on-breaking-up-company?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-            "description": "Google is urging officials at President Donald Trump s Justice Department to back away from a push to break up the search engine company citing national security concerns Bloomberg reported Wednesday citing sources familiar with the discussions From the report Representatives for the Alphabet unit asked the government in a..."
+            "title": "Meta Is Targeting 'Hundreds of Millions' of Businesses In Agentic AI Deployment",
+            "link": "https://meta.slashdot.org/story/25/03/06/2234251/meta-is-targeting-hundreds-of-millions-of-businesses-in-agentic-ai-deployment?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+            "description": "Earlier this week Meta chief product officer Chris Cox said the company s upcoming open source Llama 4 AI will help power AI agents for hundreds of millions of businesses CNBC reports The AI agents won t just be responding to prompts They will be capable of new levels of..."
         }
     ]
 }
