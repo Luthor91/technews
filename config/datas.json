@@ -1,6 +1,21 @@
 {
     "hackernews": [
         {
+            "title": "Ubuntu Foundations 25.04 \u2013 Plucky Puffin progress",
+            "link": "https://discourse.ubuntu.com/t/ubuntu-foundations-25-04-plucky-puffin-progress/56635",
+            "description": "No Description"
+        },
+        {
+            "title": "Trump administration cancels $400M in grants for Columbia University",
+            "link": "https://www.nbcnews.com/politics/politics-news/trump-administration-cancels-400-million-grants-columbia-university-rcna195373",
+            "description": "No Description"
+        },
+        {
+            "title": "Two weak spots in Big Tech economics",
+            "link": "https://pluralistic.net/2025/03/06/privacy-last/",
+            "description": "No Description"
+        },
+        {
             "title": "Show HN: Ming-wm: A 100% keyboard-operated desktop environment in Rust",
             "link": "https://github.com/stjet/ming-wm",
             "description": "No Description"
@@ -133,21 +148,6 @@
         {
             "title": "CA5 prohibits broad geofence warrants, thus cell tower dump warrant unreasonable",
             "link": "https://fourthamendment.com/?p=60271",
-            "description": "No Description"
-        },
-        {
-            "title": "Tech boss Jan Marsalek is Russian spymaster who has led cells across Europe",
-            "link": "https://www.telegraph.co.uk/news/2025/03/07/marsalek-russian-spymaster-wirecard/",
-            "description": "No Description"
-        },
-        {
-            "title": "An agentic coding workflow that works",
-            "link": "https://generaitelabs.com/one-agentic-coding-workflow-to-rule-them-all/",
-            "description": "No Description"
-        },
-        {
-            "title": "AMD YOLO",
-            "link": "https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html",
             "description": "No Description"
         }
     ],
