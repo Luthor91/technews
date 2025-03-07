@@ -514,6 +514,12 @@
         },
         {
             "subreddit": "rust",
+            "title": "Understanding Merkle Trees in Blockchain",
+            "link": "https://medium.com/@blockchain101_ishere/understanding-merkle-trees-in-blockchain-dadc6fc79320",
+            "description": ""
+        },
+        {
+            "subreddit": "rust",
             "title": "Berth: A Docker Dev Environment Manager - My First Rust Project. Would love to get some feedback.",
             "link": "https://www.reddit.com/r/rust/comments/1j5wnbq/berth_a_docker_dev_environment_manager_my_first/",
             "description": "Hello I m an embedded C developer and berth is my first Rust project so I wanted to show it off and get some feedback on it Rust and CLI application development is very new to me so any advice or feedback would be great A bit of background for..."
@@ -685,12 +691,6 @@
             "title": "Terminal editor similar to MS-DOS Editor written in Rust",
             "link": "https://www.reddit.com/r/rust/comments/1j532yg/terminal_editor_similar_to_msdos_editor_written/",
             "description": "Back in the day, I remember using MS-DOS Editor a lot. I could never find another terminal editor like it. It for example had easily intuitive accessible menus, normal key bindings, etc. Just like graphical editor but in the terminal.  "
-        },
-        {
-            "subreddit": "rust",
-            "title": "Cross-platform setup for Rust programming",
-            "link": "https://www.reddit.com/r/rust/comments/1j52tam/crossplatform_setup_for_rust_programming/",
-            "description": "I have been programming as a hobby for years mainly on Linux with a vim set up which is rather limited But my desktop PC is on windows I would like to be able to program in Rust cross platform would you have some ideas about a possible cross platform..."
         },
         {
             "subreddit": "golang",
