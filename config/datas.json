@@ -1,6 +1,26 @@
 {
     "hackernews": [
         {
+            "title": "America's Push into F1 Continues with Entry of Cadillac Team",
+            "link": "https://www.wsj.com/sports/formula-one-cadillac-team-c2ddb6c9",
+            "description": "No Description"
+        },
+        {
+            "title": "Apple Confirms Delay of AI-Infused, Personalized Siri Assistant",
+            "link": "https://www.bloomberg.com/news/articles/2025-03-07/apple-confirms-delay-of-ai-infused-personalized-siri-assistant",
+            "description": "No Description"
+        },
+        {
+            "title": "Uncle Sam charges alleged Garantex admins after crypto-exchange web seizures",
+            "link": "https://www.theregister.com/2025/03/07/uncle_sam_charges_2_garantex/",
+            "description": "No Description"
+        },
+        {
+            "title": "Analyzing Soft Errors in Linux on Cots SoCs Under Proton Irradiation",
+            "link": "https://arxiv.org/abs/2503.03722",
+            "description": "No Description"
+        },
+        {
             "title": "Ubuntu Foundations 25.04 \u2013 Plucky Puffin progress",
             "link": "https://discourse.ubuntu.com/t/ubuntu-foundations-25-04-plucky-puffin-progress/56635",
             "description": "No Description"
@@ -128,26 +148,6 @@
         {
             "title": "Elite ported from 6502 Assembly to Node and Three.js using Grok3 and Claude 3.7",
             "link": "https://twitter.com/Eth_Moon_/status/1897635511004434864",
-            "description": "No Description"
-        },
-        {
-            "title": "Cliff Asness: The New 'Crypto Fort Knox' Is as Dumb as It Sounds",
-            "link": "https://www.thefp.com/p/trumps-crypto-fort-knox",
-            "description": "No Description"
-        },
-        {
-            "title": "Synthetic Data for Better Machine Learning",
-            "link": "https://www.databricks.com/blog/2023/04/12/synthetic-data-better-machine-learning.html",
-            "description": "No Description"
-        },
-        {
-            "title": "Guidelines for Evaluating 'Differential Privacy' Guarantees to De-Identify Data",
-            "link": "https://www.nist.gov/news-events/news/2025/03/nist-finalizes-guidelines-evaluating-differential-privacy-guarantees-de",
-            "description": "No Description"
-        },
-        {
-            "title": "CA5 prohibits broad geofence warrants, thus cell tower dump warrant unreasonable",
-            "link": "https://fourthamendment.com/?p=60271",
             "description": "No Description"
         }
     ],
